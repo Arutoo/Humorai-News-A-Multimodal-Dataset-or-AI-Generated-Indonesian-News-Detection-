@@ -1,4 +1,4 @@
-ArticleID,Text (Include title),Image,Category,Lable,News Source,Article Link
+ArticleID,Text (Include title),Image,Category,Label,News Source,Article Link
 A001,"Bridgestone Tawarkan Cek Kondisi Ban Mobil Selama Mudik Lebaran 2026
  Menyambut arus mudik Lebaran 2026, Bridgestone Tire Indonesia menekankan pentingnya memastikan kondisi kendaraan tetap optimal sebelum melakukan perjalanan jarak jauh. Salah satu komponen yang mendapat perhatian khusus adalah ban, karena berperan langsung dalam keselamatan berkendara. Perjalanan mudik biasanya menempuh jarak ratusan hingga ribuan kilometer dengan kondisi jalan yang beragam. Karena itu, pemudik tidak hanya disarankan melakukan servis mesin, tetapi juga memeriksa kondisi ban meskipun secara visual masih terlihat baik. Presiden Direktur Bridgestone Indonesia Mukiat Sutikno mengatakan, pihaknya ingin mengingatkan masyarakat agar memberikan perhatian lebih pada kondisi ban sebelum melakukan perjalanan mudik.
 kondisi ban saat melakukan perjalanan jauh dapat meningkatkan risiko kecelakaan. Ban yang tidak terawat berpotensi mengalami kerusakan struktural hingga pecah ban, terutama saat kendaraan membawa beban penuh, melaju pada kecepatan tinggi, atau melintasi jalan yang rusak.""Keselamatan para pemudik adalah prioritas utama kami. Melalui pengingat untuk merawat kendaraan dan juga ban serta inisiatif kami dengan aktivitas Tire Check Service (TCS) di dua titik rest area sepanjang Jalan Tol Cikampek ini, kami ingin memastikan bahwa setiap kendaraan yang melintas memiliki kondisi ban yang prima untuk menghadapi tantangan perjalanan jauh,"" ujar Mukiat, dalam keterangan resminya.Kami mengajak seluruh masyarakat untuk tidak hanya terpaku pada performa mesin, tetapi juga memberikan perhatian ekstra pada satu-satunya komponen kendaraan yang bersentuhan langsung dengan aspal, yaitu ban, demi mewujudkan mudik yang aman hingga sampai di tujuan,"" kata Mukiat. Secara umum, perawatan ban sebelum mudik memberikan sejumlah manfaat penting bagi keselamatan dan kenyamanan perjalanan. Tekanan angin yang sesuai serta kondisi ban yang tidak aus atau benjol dapat membantu mengurangi risiko pecah ban ketika kendaraan membawa beban berat. Selain itu, kondisi ban yang baik juga berperan menjaga kendali kendaraan. Traksi yang optimal memungkinkan pengemudi melakukan pengereman mendadak, manuver menghindar, hingga melintasi jalan basah atau tikungan tajam dengan lebih aman. Perawatan ban juga dapat berdampak pada efisiensi energi kendaraan. Tekanan angin yang sesuai membuat roda berputar lebih ringan sehingga konsumsi bahan bakar atau daya listrik menjadi lebih efisien selama perjalanan.Sebagai bagian dari komitmen mendukung keselamatan berkendara selama mudik, Bridgestone Indonesia menghadirkan layanan Tire Check Service (TCS). Program ini diselenggarakan melalui salah satu mitra resminya, Paramita Ban, serta berkolaborasi dengan Toyota.Layanan pemeriksaan ban tersebut tersedia di dua titik rest area Tol Cikampek, yakni Rest Area KM 57 arah Jawa Tengah/Jawa Timur pada 16–29 Maret 2026 dan Rest Area KM 62 arah Jakarta pada 23–29 Maret 2026. Melalui layanan ini, pemudik dapat melakukan pengecekan kondisi ban secara langsung selama perjalanan. Dengan menghadirkan layanan Tire Check Service di jalur mudik utama, Bridgestone Indonesia berharap dapat membantu pemudik memastikan kondisi ban kendaraan tetap prima sehingga perjalanan menuju kampung halaman dapat berlangsung lebih aman dan nyaman.
@@ -26,7 +26,7 @@ Pesan Keselamatan untuk Pemudik
 Perjalanan mudik adalah perjalanan penuh rindu, namun jangan biarkan rindu tersebut membuat kita lengah. Sebelum memasuki gerbang tol, pastikan Anda menyisihkan waktu sebentar untuk memeriksa kondisi ban. Langkah kecil di posko Bridgestone Tol Cikampek ini bisa menjadi penentu apakah Anda sampai di tujuan dengan selamat atau justru mengalami kendala di tengah jalan.
 
 Jadikan mudik Lebaran 2026 sebagai momen yang berkesan bukan karena hambatan di jalan, melainkan karena perjalanan yang mulus dan aman. Ingat, ada keluarga yang menanti senyum Anda di kampung halaman. Pastikan ban Anda siap, sebelum perjalanan dimulai.
-",images/A002.png,Otomotif,AI,,
+",images/A002.png,Otomotif,AI,-,-
 A003,"Indomobil Emotor Belum Berminat Ikut Tren Sewa Baterai Motor Listrik
 Sejumlah produsen motor listrik di Indonesia mulai menawarkan berbagai skema kepemilikan untuk menarik konsumen. Salah satunya melalui sistem sewa baterai atau subscription, yang memungkinkan pengguna membayar biaya langganan untuk penggunaan baterai. Model bisnis ini sudah diterapkan oleh beberapa merek seperti Polytron dan Alva, dan disebut cukup diminati sebagian konsumen karena harga motor bisa menjadi lebih terjangkau.
 Namun, Indomobil Emotor memilih mengambil pendekatan berbeda. Pabrikan ini belum berencana mengikuti tren skema sewa baterai maupun sistem langganan tersebut.CEO Indomobil Emotor Pius Wirawan mengatakan, keputusan tersebut diambil setelah perusahaan mempelajari berbagai model bisnis kendaraan listrik dalam beberapa tahun terakhir. “Engga mau. Kita sudah studi ekosistem motor listrik sejak 2019. Kita melakukan benchmark berbagai model bisnisnya, mulai dari subscription sampai swap (tukar baterai),” kata Pius saat ditanya Kompas.com, di Jakarta, akhir pekan lalu. Menurut dia, pertumbuhan pasar motor listrik sebenarnya bisa terjadi secara alami selama pengguna merasakan keuntungan dari sisi biaya penggunaan.""Memang, kita melihat bahwa motor listrik ini bisa tumbuh secara organik kalau ada penghematan di tiga komponen, yaitu bahan bakar, perawatan, dan juga pajak tahunan,"" katanya. Di sisi lain, skema penukaran atau sewa baterai dinilai memiliki konsekuensi tambahan dari sisi biaya. ""Sedangkan kalau kita bicara mengenai swap, secara biaya ada tambahan. Ada yang sistemnya abonemen,"" ujarnya.
@@ -48,7 +48,7 @@ Pengamat industri menilai bahwa pendekatan yang diambil Indomobil Emotor menunju
 
 Di tengah dinamika industri yang terus berkembang, keputusan untuk tidak mengikuti tren sewa baterai bisa menjadi langkah strategis jangka panjang. Dengan fokus pada peningkatan kualitas produk dan layanan, Indomobil Emotor berupaya membangun fondasi yang kuat dalam persaingan kendaraan listrik nasional.
 
-Ke depan, bukan tidak mungkin perusahaan akan mempertimbangkan kembali opsi tersebut jika infrastruktur dan permintaan pasar sudah lebih matang. Untuk saat ini, Indomobil Emotor memilih bergerak dengan pendekatan yang dianggap paling relevan, sambil terus memantau perkembangan tren dan kebutuhan konsumen di Indonesia.",images/A004.png,Otomotif,AI,,
+Ke depan, bukan tidak mungkin perusahaan akan mempertimbangkan kembali opsi tersebut jika infrastruktur dan permintaan pasar sudah lebih matang. Untuk saat ini, Indomobil Emotor memilih bergerak dengan pendekatan yang dianggap paling relevan, sambil terus memantau perkembangan tren dan kebutuhan konsumen di Indonesia.",images/A004.png,Otomotif,AI,-,-
 A005,"Auto2000 Sudah Kirim 900 Unit Toyota Veloz Hybrid ke Konsumen 
 Salah satu jaringan diler resmi Toyota Indonesia, Auto2000, mulai mendistribusikan mobil elektrifikasi terbaru perseroan, Toyota Veloz Hybrid, kepada konsumen. Marketing Division Head Auto2000 Nur Imansyah Tara mengatakan, hingga periode menjelang Lebaran 2026, sudah ada sekitar 800–900 konsumen yang menerima kendaraan tersebut. “Dari TAM (PT Toyota Astra Motor) mulai produksi awal Maret ini, kami sudah mulai distribusi. Tadi ada juga anggota komunitas Veloz yang sudah menggunakan Veloz Hybrid untuk Lebaran,” ujar Tara kepada Kompas.com di Cikampek, Senin (16/3/2026). Menurut dia, pengiriman kendaraan tidak dilakukan sekaligus, melainkan bertahap menyesuaikan ketersediaan unit dari pabrikan. Auto2000 memperkirakan alokasi unit yang diterima berada di kisaran 800 hingga 900 unit dari total suplai yang tersedia saat ini“Memang tidak bisa semuanya datang bersamaan, jadi distribusinya bertahap sampai beberapa bulan ke depan. Bulan ini juga kan banyak hari libur, jadi produksi tentu terbatas juga,"" kata Tara. ""Pada intinya, kita mengikuti flow distribusi dari TAM,” lanjutnya. Ia menambahkan, sejumlah pelanggan yang sudah menerima unit memberikan respons positif, terutama terkait performa dan efisiensi bahan bakar. “Beberapa pelanggan yang sudah menerima unit menyampaikan respons positif. Katanya enak dipakai, tenaganya berbeda, dan jadi jarang ke SPBU,” candanya. Sebelumnya, PT Toyota Astra Motor (TAM) menyebut minat konsumen terhadap Veloz Hybrid terus meningkat sejak pertama kali diperkenalkan ke publik. Direktur Marketing PT TAM Jap Ernando Demily mengatakan, total pemesanan mobil tersebut sepanjang November 2025 hingga Februari 2026 telah mencapai sekitar 6.500 unit. “Kalau sampai hari ini tercatat sekitar 6.500 unit. Berarti kalau dibagi per bulan rata-rata sekitar 1.800 unit,” ujar Ernando di Jakarta, Jumat (6/3/2026). Menurut dia, distribusi Veloz Hybrid mulai dilakukan pada minggu terakhir Februari 2026 dan dilakukan secara bertahap kepada konsumen. Perseroan menargetkan seluruh pemesanan yang sudah masuk dapat terpenuhi hingga April 2026. Meski pengiriman unit sudah dimulai, konsumen yang melakukan pemesanan saat ini masih harus menunggu waktu inden sekitar 2–3 bulan. Saat ini Veloz Hybrid dipasarkan dalam beberapa pilihan varian di Indonesia. Varian V Hybrid EV dibanderol Rp 308 juta, namun mendapat harga spesial program 'Hybrid EV untuk Semua' menjadi Rp 303 juta hingga semester I/2026. Sementara itu, varian Q Hybrid EV dipasarkan mulai Rp 325 juta. Adapun varian tertinggi Q Hybrid EV TSS Modellista dibanderol Rp 385 juta dan Rp 389 juta untuk pilihan warna two tone.",images/A005.png,Otomotif,Human,Kompas,https://otomotif.kompas.com/read/2026/03/17/072200015/auto2000-sudah-kirim-900-unit-toyota-veloz-hybrid-ke-konsumen-
 A006,"Tren Mobil Ramah Lingkungan Menguat, Auto2000 Tembus 900 Unit Pengiriman Toyota Veloz Hybrid
@@ -63,7 +63,7 @@ Selain efisiensi, faktor lain yang mendorong tingginya permintaan adalah insenti
 
 Pencapaian 900 unit ini juga menjadi sinyal positif bagi rantai pasok industri otomotif nasional. Komponen baterai dan sistem hybrid sebagian telah dirakit secara lokal, sehingga proses distribusi dan pengiriman berjalan lebih cepat. Auto2000 berkomitmen untuk terus meningkatkan kapasitas pengiriman pada kuartal-kuartal berikutnya, dengan target menembus 2.000 unit hingga akhir tahun.
 
-Bagi konsumen yang masih ragu, Auto2000 menyediakan program test drive gratis di seluruh cabang. Mereka juga menawarkan skema kredit dengan uang muka ringan dan bunga kompetitif. Dengan semakin masifnya penggunaan Veloz Hybrid, dapat diprediksi bahwa masa depan otomotif Indonesia akan didominasi oleh kendaraan elektrifikasi. Langkah Auto2000 mengirimkan 900 unit ini bukan hanya angka penjualan, tetapi juga kontribusi nyata dalam mengurangi emisi karbon di jalan-jalan Nusantara.",images/A006.jpg,Otomotif,AI,,
+Bagi konsumen yang masih ragu, Auto2000 menyediakan program test drive gratis di seluruh cabang. Mereka juga menawarkan skema kredit dengan uang muka ringan dan bunga kompetitif. Dengan semakin masifnya penggunaan Veloz Hybrid, dapat diprediksi bahwa masa depan otomotif Indonesia akan didominasi oleh kendaraan elektrifikasi. Langkah Auto2000 mengirimkan 900 unit ini bukan hanya angka penjualan, tetapi juga kontribusi nyata dalam mengurangi emisi karbon di jalan-jalan Nusantara.",images/A006.jpg,Otomotif,AI,-,-
 A007,"Penyebab dan Solusi Ketika Mobil Matik Jadi Boros BBM
 Mobil matik banyak digunakan oleh masyarakat karena lebih mudah dan praktis untuk dioperasikan. Dengan sistem otomatis tersebut, percepatan bisa berubah berdasarkan kebutuhan sehingga diharapkan lebih efisien. Tapi, mobil matik justru bisa lebih boros bahan bakar minyak (BBM) karena sejumlah penyebab, seperti faktor performa dan kesalahan pengemudi. Lantas, saja penyebab mobil matik jadi boros BBM? Imun, pemilik bengkel Spesialis Ford Trucuk Klaten mengatakan mobil matik yang boros BBM sering disebabkan oleh kebiasaan mengemudi yang kurang tepat dan perawatan mobil terabaikan.
 “Akselerasi mendadak dan sering menginjak pedal gas dalam membuat mesin bekerja lebih keras dari seharusnya, selain itu juga ada penurunan performa mesin atau transmisi,” ucap Imun kepada KOMPAS.com, Minggu (1/3/2026).
@@ -102,7 +102,7 @@ Mobil matic diciptakan untuk kenyamanan, namun kenyamanan itu menuntut kesadaran
 
 Jadi, sebelum menyalahkan teknologi mobil Anda, coba periksa dulu cara kita memperlakukannya. Mobil yang efisien bermula dari pengemudi yang bijak. Sudahkah Anda mengecek tekanan ban pagi ini?
 
-Bagian mana dari kebiasaan di atas yang paling sering Anda lakukan tanpa sadar saat menyetir?",images/A008.jpg,Otomotif,AI,,
+Bagian mana dari kebiasaan di atas yang paling sering Anda lakukan tanpa sadar saat menyetir?",images/A008.jpg,Otomotif,AI,-,-
 A009,"Minat Mobil Listrik di Singapura Mulai Turun, Ternyata Ini Sebabnya
  Tren mobil listrik yang dalam beberapa tahun terakhir mengalami pertumbuhan pesat kini mulai memasuki fase evaluasi. Hal ini terlihat dari studi terbaru di Singapura yang menunjukkan adanya penurunan minat konsumen terhadap mobil listrik, meski negara tersebut memiliki infrastruktur yang relatif siap. Berdasarkan laporan EY-Parthenon bertajuk Mobility Consumer Index (MCI) 2025, minat masyarakat Singapura terhadap mobil listrik turun dari 73 persen menjadi 58 persen.
 
@@ -132,7 +132,7 @@ Menariknya, kelesuan minat pada EV murni justru memberi panggung bagi mobil Hybr
 Kesimpulan: Rasionalitas adalah Kemenangan Konsumen
 Meredupnya tren EV di Singapura sebenarnya adalah sinyal positif bagi industri. Ini memaksa produsen untuk tidak hanya menjual ""janji masa depan,"" tetapi juga solusi nyata terkait harga, ketahanan baterai, dan kemudahan infrastruktur. Konsumen Singapura saat ini sedang mengirim pesan jelas: mereka bersedia menyelamatkan planet, asalkan dompet dan kenyamanan mereka tetap aman.
 
-Pada akhirnya, mobil bukan lagi sekadar gadget besar di atas roda. Ia tetaplah aset transportasi yang harus lulus ujian logika ekonomi. Singapura, dengan segala keterbatasan lahan dan tingginya biaya hidup, sekali lagi menjadi barometer dunia tentang bagaimana realitas pasar bekerja melampaui sekadar sensasi teknologi.",images/A010.jpg,Otomotif,AI,,
+Pada akhirnya, mobil bukan lagi sekadar gadget besar di atas roda. Ia tetaplah aset transportasi yang harus lulus ujian logika ekonomi. Singapura, dengan segala keterbatasan lahan dan tingginya biaya hidup, sekali lagi menjadi barometer dunia tentang bagaimana realitas pasar bekerja melampaui sekadar sensasi teknologi.",images/A010.jpg,Otomotif,AI,-,-
 A011,"Ragam Modifikasi Pikap DFSK, dari Campervan Sampai Mobil Boks MBG
 
 PT Sokonindo Automobile menampilkan salah satu kendaraan komersial andalannya, DFSK Super Cab, lengkap dengan berbagai hasil modifikasi di Jakarta, Senin (9/3). Sentuhan karoseri dari perusahaan mitra menunjukkan fleksibilitas pikap 4x2 ini dalam berbagai kebutuhan.
@@ -166,7 +166,7 @@ Faktor utama yang membuat pikap DFSK mudah dimodifikasi adalah struktur rangka y
 
 Namun, dalam melakukan modifikasi, pemilik kendaraan tetap perlu memperhatikan aspek keselamatan dan regulasi. Perubahan struktur atau penambahan beban harus disesuaikan dengan kemampuan kendaraan agar tidak mengganggu performa maupun keamanan saat digunakan di jalan.
 
-Dengan semakin beragamnya kebutuhan masyarakat, modifikasi pikap diprediksi akan terus berkembang. Kendaraan seperti DFSK tidak hanya menjadi alat transportasi, tetapi juga platform multifungsi yang bisa disesuaikan dengan berbagai keperluan. Kreativitas para modifikator pun menjadi kunci dalam menghadirkan solusi inovatif yang mampu menjawab tantangan di berbagai sektor.",images/A012.jpg,Otomotif,AI,,
+Dengan semakin beragamnya kebutuhan masyarakat, modifikasi pikap diprediksi akan terus berkembang. Kendaraan seperti DFSK tidak hanya menjadi alat transportasi, tetapi juga platform multifungsi yang bisa disesuaikan dengan berbagai keperluan. Kreativitas para modifikator pun menjadi kunci dalam menghadirkan solusi inovatif yang mampu menjawab tantangan di berbagai sektor.",images/A012.jpg,Otomotif,AI,-,-
 A013,"Isuzu Klaim Cetak 29 Persen Pangsa Pasar Kendaraan Niaga 2025
 
 Isuzu Astra Motor Indonesia (IAMI) menutup tahun 2025 dengan hasil baik di tengah kontraksi pasar kendaraan niaga di dalam negeri. Perusahaan mengeklaim berhasil memperoleh 29 persen pangsa pasar, pikap Traga menjadi kontributor utama penjualan.
@@ -208,7 +208,7 @@ Pencapaian 29 persen pangsa pasar ini menjadi modal kuat bagi Isuzu untuk memasu
 Kesimpulan:
 Keberhasilan Isuzu di tahun 2025 mengajarkan satu hal penting: di pasar yang lesu, pemenang bukanlah mereka yang hanya menjual produk, melainkan mereka yang mampu menjadi mitra solusi bagi bisnis konsumennya. Dengan fokus pada efisiensi bahan bakar, daya tahan mesin, dan layanan servis yang proaktif, Isuzu membuktikan bahwa mereka bukan sekadar produsen truk, melainkan mesin penggerak roda ekonomi yang sesungguhnya.
 
-Melihat dominasi ini, apakah menurut Anda produsen lain mampu mengejar ketertinggalan mereka di tahun depan?",images/A014.jpg,Otomotif,AI,,
+Melihat dominasi ini, apakah menurut Anda produsen lain mampu mengejar ketertinggalan mereka di tahun depan?",images/A014.jpg,Otomotif,AI,-,-
 A015,"Mau Mudik Lebaran Pakai Mobil Listrik? Sebelum Berangkat Perhatikan Tips Berikut Agar Perjalanan Aman dan Nyaman
 Tanpa terasa sebentar lagi akan sambut Hari Raya Idul Fitri. Kini sudah saatnya mempersiapkan diri untuk mudik ke kampung halaman.  Apakah Anda berencana untuk menggunakan mobil listrik saat mudik? Sebelum berangkat, persiapkan tips berikut ini agar perjalanan Anda aman dan nyaman.
 Tips Mudik Lebaran Dengan Mobil Listrik 
@@ -251,7 +251,7 @@ Unduh beberapa aplikasi pelacak SPKLU alternatif karena data di setiap aplikasi 
 
 Manfaatkan waktu istirahat Anda untuk mengisi daya. Rencanakan berhenti setiap 3-4 jam atau setiap 200-250 km perjalanan. Sambil menunggu baterai terisi 80% (sekitar 30-45 menit dengan fast charging), Anda bisa shalat, makan, dan meregangkan kaki. Jangan memaksakan diri terus mengemudi hanya karena baterai masih tersisa, karena kelelahan pengemudi jauh lebih berbahaya daripada kehabisan daya.
 
-Mudik dengan mobil listrik sebenarnya menyenangkan jika persiapan matang. Dengan perencanaan rute yang cermat, pengelolaan baterai yang bijak, serta gaya mengemudi efisien, Anda bisa tiba di kampung halaman dengan selamat, nyaman, dan bangga karena telah melakukan perjalanan ramah lingkungan. Selamat mudik!",images/A016.jpg,Otomotif,AI,,
+Mudik dengan mobil listrik sebenarnya menyenangkan jika persiapan matang. Dengan perencanaan rute yang cermat, pengelolaan baterai yang bijak, serta gaya mengemudi efisien, Anda bisa tiba di kampung halaman dengan selamat, nyaman, dan bangga karena telah melakukan perjalanan ramah lingkungan. Selamat mudik!",images/A016.jpg,Otomotif,AI,-,-
 A017,"Pameran Kendaraan Komersial Giicomvec Digelar April di Kemayoran
 Gaikindo Indonesia International Commercial Vehicle Show Expo (Giicomvec) atau pameran otomotif bisnis to bisnis khusus kendaraan komersial bakal kembali digelar tahun ini pada 8-11 April 2026 di JI Xxpo, Kemayoran, Jakarta Pusat.
 Anton Kumonty, Ketua Harian dan Ketua Penyelenggara Pameran dan Konferensi Gaikindo menyampaikan acara tahun ini digelar di tempat berbeda untuk mengakomodir kebutuhan peserta dan pengunjung pameran.
@@ -291,7 +291,7 @@ Memperluas Jangkauan Pasar Ekspor
 Gaikindo mencatat tren positif pada angka ekspor kendaraan utuh (CBU) yang terus meningkat setiap tahunnya. GIICOMVEC 2026 dimanfaatkan sebagai pintu gerbang untuk menunjukkan kepada dunia internasional bahwa produk kendaraan niaga buatan Indonesia memiliki kualitas global. Kehadiran trade visitors dari mancanegara diharapkan mampu membuka jalur kolaborasi baru dan memperluas pangsa pasar produk otomotif nasional di panggung dunia.
 
 
-Dengan konsep Business-to-Business (B2B) yang kuat, GIICOMVEC 2026 menjadi titik temu strategis antara produsen, penyedia teknologi, dan pelaku usaha. Pameran ini membuktikan bahwa industri kendaraan niaga Indonesia siap berevolusi menjadi lebih hijau, lebih pintar, dan lebih kompetitif di kancah global. Bagi para pelaku industri, ini adalah momentum yang tepat untuk memperbarui strategi armada demi masa depan bisnis yang lebih efisien.",images/A018.jpg,Otomotif,AI,,
+Dengan konsep Business-to-Business (B2B) yang kuat, GIICOMVEC 2026 menjadi titik temu strategis antara produsen, penyedia teknologi, dan pelaku usaha. Pameran ini membuktikan bahwa industri kendaraan niaga Indonesia siap berevolusi menjadi lebih hijau, lebih pintar, dan lebih kompetitif di kancah global. Bagi para pelaku industri, ini adalah momentum yang tepat untuk memperbarui strategi armada demi masa depan bisnis yang lebih efisien.",images/A018.jpg,Otomotif,AI,-,-
 A019,"Kebiasaan Pengemudi yang Bisa Bikin Penumpang Mabuk Darat
 
 Perjalanan mudik menggunakan mobil saat Lebaran sering membuat penumpang mengalami mabuk perjalanan. Kondisi ini umumnya dipicu oleh gerakan kendaraan yang tidak stabil atau cara mengemudi yang kurang nyaman bagi penumpang.  Terlepas dari faktor kenyamanan suspensi, tanpa disadari, beberapa kebiasaan pengemudi justru dapat memperparah kondisi tersebut. Imun, pemilik bengkel Spesialis Ford Trucuk Klaten mengatakan upaya untuk meminimalisasi penumpang mabuk darat saat perjalanan mudik adalah dengan mempersiapkan kendaraan dengan optimal.
@@ -333,7 +333,7 @@ Kadang pengemudi merasa masih kuat dan ingin cepat sampai, sehingga terus memacu
 
 Solusi: Berhentilah di rest area setiap 2-3 jam sekali. Biarkan penumpang keluar dari mobil, menghirup udara segar, dan menginjakkan kaki di tanah yang stabil untuk mengembalikan sistem keseimbangan tubuh mereka.
 
-Menghindari mabuk perjalanan saat mudik bukan hanya tugas penumpang dengan minum obat anti-mual, tetapi juga tanggung jawab pengemudi dalam mengontrol cara membawa kendaraan. Dengan mengubah kebiasaan mengemudi menjadi lebih tenang dan teratur, perjalanan mudik akan terasa lebih singkat, menyenangkan, dan yang paling penting, seluruh anggota keluarga sampai di kampung halaman dengan kondisi bugar. Selamat berkendara dengan aman!hana yang bisa dilakukan. Dengan begitu, risiko mabuk perjalanan dapat ditekan, dan perjalanan menuju kampung halaman pun menjadi lebih menyenangkan bagi semua orang di dalam mobil.",images/A020.jpg,Otomotif,AI,,
+Menghindari mabuk perjalanan saat mudik bukan hanya tugas penumpang dengan minum obat anti-mual, tetapi juga tanggung jawab pengemudi dalam mengontrol cara membawa kendaraan. Dengan mengubah kebiasaan mengemudi menjadi lebih tenang dan teratur, perjalanan mudik akan terasa lebih singkat, menyenangkan, dan yang paling penting, seluruh anggota keluarga sampai di kampung halaman dengan kondisi bugar. Selamat berkendara dengan aman!hana yang bisa dilakukan. Dengan begitu, risiko mabuk perjalanan dapat ditekan, dan perjalanan menuju kampung halaman pun menjadi lebih menyenangkan bagi semua orang di dalam mobil.",images/A020.jpg,Otomotif,AI,-,-
 A021,"Stargazer Lama vs Cartenz: Spesifikasi dan Alasan Hyundai Masih Pertahankan Dua Model
  PT Hyundai Motors Indonesia (HMID) memasarkan dua generasi MPV sekaligus di segmen Stargazer. Di satu sisi, hadir model terbaru seperti Hyundai Stargazer Cartenz dan Hyundai Stargazer Cartenz X. Namun di sisi lain, model sebelumnya yakni Hyundai Stargazer dan Hyundai Stargazer X masih tetap ditawarkan ke konsumen. Chief Sales Officer HMID, Nina Violenty, menyebut bahwa keputusan tersebut didasari oleh permintaan pasar yang masih ada terhadap model generasi sebelumnya. Selama unit tersedia, Hyundai tetap membuka opsi bagi konsumen yang menginginkan versi lama.
 ""Masih ada konsumen yang mencari model sebelumnya (Hyundai Stargazer dan Stargazer X) versi lama, dan selama stoknya masih ada kami tetap tawarkan,"" ujar Nina dalam keterangannya, beberapa waktu lalu. Meski demikian, Hyundai Indonesia memastikan arah strategi penjualan ke depan akan difokuskan pada seri terbaru. Model Cartenz disebut akan menjadi andalan utama dalam lini MPV Hyundai, seiring penyegaran desain dan peningkatan fitur yang ditawarkan.
@@ -361,7 +361,7 @@ Dalam masa transisi, transisi produksi tidak bisa terjadi dalam semalam. Mempert
 4. Strategi ""Up-Selling"" di Lantai Dealer
 Kehadiran model lama berdampingan dengan seri Cartenz menciptakan kontras yang menguntungkan bagi tenaga penjual. Konsumen yang awalnya tertarik dengan model lama karena harganya, seringkali tergoda untuk beralih (up-sell) ke seri Cartenz setelah melihat perbedaan fitur secara langsung di showroom. Di sisi lain, bagi mereka yang tetap teguh pada anggaran awal, model lama menjadi penyelamat agar konsumen tidak lari ke merek tetangga.
 
-Strategi Hyundai dalam mempertahankan Stargazer model lama bukan berarti mereka ragu dengan inovasi seri Cartenz. Sebaliknya, ini adalah langkah pragmatis untuk menguasai pasar dari berbagai sisi. Dengan model lama yang menjaga pangsa pasar di kelas menengah-bawah dan seri Cartenz yang mendominasi segmen premium, Hyundai memperkuat posisinya sebagai produsen yang mampu mengakomodasi kebutuhan beragam lapisan masyarakat Indonesia. Transisi ini bukan tentang meninggalkan yang lama, melainkan memberikan lebih banyak pilihan bagi konsumen.",images/A022.jpg,Otomotif,AI,,
+Strategi Hyundai dalam mempertahankan Stargazer model lama bukan berarti mereka ragu dengan inovasi seri Cartenz. Sebaliknya, ini adalah langkah pragmatis untuk menguasai pasar dari berbagai sisi. Dengan model lama yang menjaga pangsa pasar di kelas menengah-bawah dan seri Cartenz yang mendominasi segmen premium, Hyundai memperkuat posisinya sebagai produsen yang mampu mengakomodasi kebutuhan beragam lapisan masyarakat Indonesia. Transisi ini bukan tentang meninggalkan yang lama, melainkan memberikan lebih banyak pilihan bagi konsumen.",images/A022.jpg,Otomotif,AI,-,-
 A023,"Tarif Trump Turun, Produsen Mobil Indonesia Didorong Ekspor CBU ke AS
 Pemerintah mendorong pelaku industri otomotif di Indonesia segera memanfaatkan peluang ekspor mobil ke Amerika Serikat (AS), menyusul kebijakan tarif impor baru sebesar 19 persen yang diterapkan pemerintahan Donald Trump.
 Wakil Menteri Perindustrian Faisol Riza berpendapat tarif baru ini dapat membuka celah bagi Indonesia untuk masuk sebagai alternatif sumber impor kendaraan terhadap Negeri Paman Sam.
@@ -386,7 +386,7 @@ Dari segi biaya, Indonesia unggul karena upah tenaga kerja yang masih kompetitif
 
 Tentu, tantangan tetap ada. Standar emisi dan keselamatan di AS sangat ketat. Produsen Indonesia harus memastikan kendaraannya memenuhi aturan EPA (Environmental Protection Agency) dan NHTSA (National Highway Traffic Safety Administration). Namun, beberapa perusahaan otomotif nasional telah mulai melakukan uji coba dan penyesuaian desain. Kemitraan dengan perusahaan logistik global juga digalakkan untuk memangkas biaya pengiriman.
 
-Kesimpulannya, perang dagang antara AS dan China bukan semata bencana, melainkan momentum yang bisa dimanfaatkan. Jika Indonesia serius dan konsisten, mobil buatan Tanah Air bukan hanya akan memenuhi jalanan di Asia atau Australia, tetapi juga siap melesat di pasar AS. Dengan strategi yang tepat, ""Made in Indonesia"" bisa menjadi standar baru dalam industri otomotif global. Peluang ini tidak boleh disia-siakan.",images/A024.jpg,Otomotif,AI,,
+Kesimpulannya, perang dagang antara AS dan China bukan semata bencana, melainkan momentum yang bisa dimanfaatkan. Jika Indonesia serius dan konsisten, mobil buatan Tanah Air bukan hanya akan memenuhi jalanan di Asia atau Australia, tetapi juga siap melesat di pasar AS. Dengan strategi yang tepat, ""Made in Indonesia"" bisa menjadi standar baru dalam industri otomotif global. Peluang ini tidak boleh disia-siakan.",images/A024.jpg,Otomotif,AI,-,-
 A025,"Donald Trump Beri Isyarat Tunda Tarif Impor Otomotif
 
 Presiden Amerika Serikat (AS) Donald Trump pada Senin (14/4) mengatakan ada kemungkinan membebaskan sementara industri otomotif dari tarif baru yang dia bebankan sebelumnya. Penundaan ini bakal memberi waktu bagi produsen mobil menyesuaikan diri termasuk membenahi rantai pasokan.
@@ -418,7 +418,7 @@ Pengamat ekonomi menilai bahwa pelonggaran ini bisa menjadi sinyal positif bagi 
 
 Meski demikian, tantangan tetap ada. Industri otomotif masih harus menghadapi transisi besar menuju elektrifikasi, digitalisasi, serta tuntutan keberlanjutan lingkungan. Oleh karena itu, relaksasi tarif hanya menjadi salah satu bagian dari solusi yang lebih besar.
 
-Ke depan, keberhasilan kebijakan ini akan sangat bergantung pada bagaimana pemerintah dan pelaku industri dapat bekerja sama dalam menciptakan ekosistem yang mendukung pertumbuhan. Dengan strategi yang tepat, pelonggaran tarif ini diharapkan mampu mendorong industri otomotif untuk bangkit dan berkembang lebih kuat di tengah dinamika global yang terus berubah.",images/A026.jpg,Otomotif,AI,,
+Ke depan, keberhasilan kebijakan ini akan sangat bergantung pada bagaimana pemerintah dan pelaku industri dapat bekerja sama dalam menciptakan ekosistem yang mendukung pertumbuhan. Dengan strategi yang tepat, pelonggaran tarif ini diharapkan mampu mendorong industri otomotif untuk bangkit dan berkembang lebih kuat di tengah dinamika global yang terus berubah.",images/A026.jpg,Otomotif,AI,-,-
 A027,"Menyikapi Tantangan dan Peluang Industri Otomotif Indonesia di Tengah Ketidakpastian Fiskal dan Transisi EV
 
 Industri otomotif Indonesia tengah berada pada fase krusial, di tengah perlambatan permintaan pasar, ketidakpastian kebijakan fiskal dan insentif, serta percepatan transisi menuju kendaraan listrik. Evaluasi insentif pemerintah di tengah pengetatan anggaran turut memicu kekhawatiran akan potensi “fiscal cliff” pada periode 2025-2026, yang dinilai dapat memengaruhi keberlanjutan pertumbuhan industri. Merespons dinamika tersebut, VinFast Indonesia kembali menggelar VIN TALKS dengan tema “Navigating Uncertainty: The Future of Indonesia’s Automotive Industry Amid Policy Shifts and Electrification” di ajang Indonesia International Motor Show (IIMS) 2026. Forum diskusi tematik ini menghadirkan pakar ekonomi nasional Josua Pardede, dan CEO VinFast Indonesia Kariyanto Hardjosoemarto untuk membahas tantangan pertumbuhan penjualan, arah kebijakan dan fiskal, serta kesiapan industri dalam menghadapi transisi menuju elektrifikasi.
@@ -449,7 +449,7 @@ Ekosistem SPKLU: Fokus navigasi industri kini bergeser dari sekadar menjual unit
 Adaptasi Teknologi dan Efisiensi
 Di tengah tekanan ekonomi, efisiensi menjadi kata kunci. Teknologi Hybrid kini menjadi jembatan (bridge technology) yang paling diminati. Konsumen melihat kendaraan hybrid sebagai solusi moderat: hemat bahan bakar namun tidak membutuhkan ketergantungan penuh pada infrastruktur pengisian daya yang belum merata sepenuhnya.
 
-Tahun 2026 adalah tahun pembuktian bagi ketahanan industri otomotif Indonesia. Menghadapi ""jurang fiskal"" memerlukan inovasi pemasaran yang cerdas dan dukungan perbankan yang kuat. Sementara itu, ambisi listrik harus dibarengi dengan edukasi pasar yang berkelanjutan. Jika navigasi ini berhasil dilewati, Indonesia bukan hanya akan menjadi pasar yang besar, tetapi juga pemain kunci dalam rantai pasok otomotif global yang lebih bersih. Masa depan otomotif nasional kini tidak lagi hanya ditentukan oleh seberapa cepat mobil melaju, melainkan seberapa cerdik industri beradaptasi dengan perubahan regulasi dan kebutuhan ekonomi masyarakat.",images/A028.jpg,Otomotif,AI,,
+Tahun 2026 adalah tahun pembuktian bagi ketahanan industri otomotif Indonesia. Menghadapi ""jurang fiskal"" memerlukan inovasi pemasaran yang cerdas dan dukungan perbankan yang kuat. Sementara itu, ambisi listrik harus dibarengi dengan edukasi pasar yang berkelanjutan. Jika navigasi ini berhasil dilewati, Indonesia bukan hanya akan menjadi pasar yang besar, tetapi juga pemain kunci dalam rantai pasok otomotif global yang lebih bersih. Masa depan otomotif nasional kini tidak lagi hanya ditentukan oleh seberapa cepat mobil melaju, melainkan seberapa cerdik industri beradaptasi dengan perubahan regulasi dan kebutuhan ekonomi masyarakat.",images/A028.jpg,Otomotif,AI,-,-
 A029,"Ducati DesertX Terbaru Lebih Buas dan Siap Berpetualang
 
 Ducati DesertX generasi kedua muncul di ajang Ducati World Premiere 2026, Rabu (25/2). Model terbaru ini mengusung rangka monokok ikonik, performa off-road yang disempurnakan, serta tambahan paket kontrol elektronik canggih.
@@ -487,7 +487,7 @@ Selain itu, Ducati juga memperhatikan aspek ergonomi. Posisi berkendara dirancan
 
 Kehadiran DesertX generasi baru ini menunjukkan komitmen Ducati dalam mengembangkan motor adventure yang tidak hanya tangguh, tetapi juga cerdas secara teknologi. Di tengah tren kendaraan yang semakin mengedepankan inovasi, model ini menjadi bukti bahwa performa dan teknologi dapat berjalan beriringan.
 
-Dengan berbagai peningkatan yang ditawarkan, DesertX terbaru diprediksi akan menjadi salah satu motor petualang yang paling diminati di kelasnya. Bagi para penggemar touring dan off-road, motor ini menawarkan pengalaman berkendara yang lebih lengkap—mulai dari kekuatan, kenyamanan, hingga teknologi yang mendukung setiap perjalanan.",images/A030.jpg,Otomotif,AI,,
+Dengan berbagai peningkatan yang ditawarkan, DesertX terbaru diprediksi akan menjadi salah satu motor petualang yang paling diminati di kelasnya. Bagi para penggemar touring dan off-road, motor ini menawarkan pengalaman berkendara yang lebih lengkap—mulai dari kekuatan, kenyamanan, hingga teknologi yang mendukung setiap perjalanan.",images/A030.jpg,Otomotif,AI,-,-
 A031,"Cara Daihatsu Kawal Konsumen Mudik Lebaran 2026
 Mudik Lebaran menjadi ritual wajib bagi sebagian besar masyarakat di Indonesia. Dari banyaknya pilihan moda transportasi yang ada, pengguna mobil pribadi berdasarkan data yang dipaparkan Kementerian Perhubungan (Kemenhub) masih mendominasi. Bicara soal mudik menggunakan mobil pribadi dengan jarak tempuh hingga ratusan kilometer serta waktu perjalanan berjam-jam, tentu menjadi tantangan bagi pengemudi maupun kendaraan yang digunakan. Apalagi perjalanan mudik biasanya memiliki kondisi yang tak selalu menentu, seperti kepadatan lalu lintas, rekayasa lalu lintas, kondisi cuaca, hingga risiko teknis dari kendaraan. Karena itu, dibutuhkan persiapan yang matang sebelum berangkat. Dalam keterangan resminya, Daihatsu menjelaskan sangat penting bagi pengendara memastikan mobil yang akan digunakan berada dalam kondisi prima. Lakukan pemeriksaan menyeluruh, mulai dari oli mesin dan cairan penting lainnya seperti oli gardan, minyak rem, hingga oli power steering bila diperlukan.
 
@@ -537,7 +537,7 @@ Namun, kebijakan impor ini juga memunculkan sejumlah catatan. Beberapa pihak men
 
 Selain itu, aspek layanan purna jual juga menjadi perhatian. Ketersediaan suku cadang, jaringan servis, serta pelatihan bagi pengguna perlu dipastikan agar kendaraan dapat digunakan secara optimal dalam jangka panjang. Tanpa dukungan tersebut, manfaat dari pengadaan kendaraan bisa menjadi kurang maksimal.
 
-Secara keseluruhan, impor pikap dari India untuk koperasi desa merupakan langkah strategis yang memiliki potensi besar dalam mendorong pertumbuhan ekonomi lokal. Dengan perencanaan yang matang dan dukungan kebijakan yang tepat, program ini diharapkan mampu meningkatkan kesejahteraan masyarakat desa serta memperkuat peran koperasi sebagai penggerak ekonomi rakyat.",images/A034.jpg,Otomotif,AI,,
+Secara keseluruhan, impor pikap dari India untuk koperasi desa merupakan langkah strategis yang memiliki potensi besar dalam mendorong pertumbuhan ekonomi lokal. Dengan perencanaan yang matang dan dukungan kebijakan yang tepat, program ini diharapkan mampu meningkatkan kesejahteraan masyarakat desa serta memperkuat peran koperasi sebagai penggerak ekonomi rakyat.",images/A034.jpg,Otomotif,AI,-,-
 A035,"Mobil Miliaran Indra Kenz Dikembalikan ke Korban, Ferrari dan Tesla
 
 Pengadilan memerintahkan sejumlah aset tersangka kasus penipuan berkedok perdagangan opsi biner di aplikasi Binomo dan pencucian uang, Indra Kenz, seperti mobil Ferrari dan Tesla dikembalikan ke korban. Hal ini sesuai keputusan Hakim Pengadilan Tinggi Banten.
@@ -574,7 +574,7 @@ Penyitaan ini memberikan pelajaran penting bahwa kejahatan digital dengan modus 
 
 Kabar gembira ini tentu tidak serta-merta menghapus trauma finansial dan psikologis yang dialami korban. Beberapa dari mereka bahkan sudah kehilangan harapan untuk mendapatkan kembali uang mereka. Namun, langkah tegas pengadilan ini setidaknya mengembalikan sedikit kepercayaan publik terhadap sistem hukum dan mengirim pesan keras kepada para penipu digital lainnya.
 
-Para korban yang ingin mengajukan klaim atas pembagian hasil lelang diminta segera melapor ke posko resmi yang dibuka kejaksaan. Proses verifikasi akan dilakukan secara transparan dan adil. Akhirnya, meski tidak semua kerugian bisa dipulihkan, penyitaan mobil mewah Indra Kenz ini menjadi pengingat: di balik setiap gaya hidup foya-foya hasil kejahatan, ada nyawa-nyawa yang terluka. Dan kini, aset itu harus kembali ke tangan yang benar.",images/A036.jpg,Otomotif,AI,,
+Para korban yang ingin mengajukan klaim atas pembagian hasil lelang diminta segera melapor ke posko resmi yang dibuka kejaksaan. Proses verifikasi akan dilakukan secara transparan dan adil. Akhirnya, meski tidak semua kerugian bisa dipulihkan, penyitaan mobil mewah Indra Kenz ini menjadi pengingat: di balik setiap gaya hidup foya-foya hasil kejahatan, ada nyawa-nyawa yang terluka. Dan kini, aset itu harus kembali ke tangan yang benar.",images/A036.jpg,Otomotif,AI,-,-
 A037,"Prabowo Minta Hemat BBM di Tengah Perang Iran-Israel, Ini Respons AHM
 
 Permintaan Presiden Prabowo Subianto agar masyarakat lebih hemat bahan bakar (BBM) di tengah perang Iran vs Amerika Serikat-Israel dinilai dapat mendorong perubahan perilaku konsumen, termasuk potensi pergeseran ke sepeda motor listrik.
@@ -614,7 +614,7 @@ Stasiun Penukaran Baterai: Untuk mengatasi keterbatasan jarak tempuh, kolaborasi
 Menjaga Daya Beli di Tengah ""Jurang Fiskal""
 Tantangan terbesar tahun 2026 adalah menjaga daya beli masyarakat saat harga energi dunia sedang tidak stabil. Direktur Marketing AHM, Octavianus Dwi Putro, sempat menekankan optimisme bahwa pasar tetap tumbuh selama produk yang ditawarkan relevan dengan kebutuhan ekonomi konsumen. Di tengah kebijakan pembatasan volume BBM bersubsidi yang mulai berlaku April 2026, motor dengan konsumsi BBM rendah menjadi aset berharga bagi masyarakat.
 
-Strategi AHM dalam menjawab seruan penghematan BBM Presiden Prabowo bersifat ganda: terus memproduksi motor bensin yang makin hemat sebagai solusi masa kini, sembari membangun fondasi kuat untuk masa depan bertenaga listrik. Ketegangan global memang memaksa industri untuk berubah lebih cepat, namun bagi AHM, ini adalah momentum untuk membuktikan bahwa inovasi otomotif harus berjalan selaras dengan kebijakan ketahanan energi nasional. Perjalanan menuju efisiensi bukan lagi pilihan, melainkan keharusan untuk menjaga roda ekonomi tetap berputar.",images/A038.jpg,Otomotif,AI,,
+Strategi AHM dalam menjawab seruan penghematan BBM Presiden Prabowo bersifat ganda: terus memproduksi motor bensin yang makin hemat sebagai solusi masa kini, sembari membangun fondasi kuat untuk masa depan bertenaga listrik. Ketegangan global memang memaksa industri untuk berubah lebih cepat, namun bagi AHM, ini adalah momentum untuk membuktikan bahwa inovasi otomotif harus berjalan selaras dengan kebijakan ketahanan energi nasional. Perjalanan menuju efisiensi bukan lagi pilihan, melainkan keharusan untuk menjaga roda ekonomi tetap berputar.",images/A038.jpg,Otomotif,AI,-,-
 A039,"Pengguna Motor Matic Wajib Tahu, Ini Waktu yang Tepat untuk Ganti Oli Motor Matic
 
 Oli menjadi salah satu bagian terpenting bagi perawatan kendaraan. Oli yang diganti secara berkala menjadi langkah penting untuk menjaga performa serta umur panjang kendaraan. Tak terkecuali bagi motor matic yang kini penggunanya kian banyak
@@ -638,7 +638,7 @@ Selain oli mesin, pengguna motor matic juga dianjurkan untuk rutin mengganti oli
 
 Kebiasaan sederhana seperti rutin mengganti oli ternyata memiliki dampak besar terhadap usia pakai motor. Mesin yang terawat dengan baik tidak hanya lebih awet, tetapi juga memberikan kenyamanan dan efisiensi bahan bakar yang lebih baik. Sebaliknya, keterlambatan mengganti oli dapat menyebabkan kerusakan serius yang memerlukan biaya perbaikan cukup besar.
 
-Dengan memperhatikan jadwal penggantian oli dan menggunakan produk yang tepat, pemilik motor matic dapat memastikan kendaraannya tetap dalam kondisi terbaik. Perawatan yang konsisten bukan hanya menjaga performa, tetapi juga menjadi investasi jangka panjang agar motor tetap andal digunakan dalam berbagai aktivitas sehari-hari.",images/A040.jpg,Otomotif,AI,,
+Dengan memperhatikan jadwal penggantian oli dan menggunakan produk yang tepat, pemilik motor matic dapat memastikan kendaraannya tetap dalam kondisi terbaik. Perawatan yang konsisten bukan hanya menjaga performa, tetapi juga menjadi investasi jangka panjang agar motor tetap andal digunakan dalam berbagai aktivitas sehari-hari.",images/A040.jpg,Otomotif,AI,-,-
 A041,"Recall Hyundai Palisade Hingga Stop Penjualan, Bagaimana di Indonesia?
 
 Hyundai Palisade menjadi salah satu SUV andalan pabrikan Korea Selatan tersebut. Namun, belum lama ini, Palisade bermasalah hingga terkena recall dan penjualannya sementara dihentikan. Dikutip dari Thekoreancarblog.com, Selasa (17/3/2026), Hyundai Motor telah mengeluarkan perintah penghentian penjualan darurat dan penarikan global untuk Hyundai Palisade 2026 menyusul insiden tragis di Ohio, Amerika Serikat.
@@ -679,7 +679,7 @@ Palisade merupakan tulang punggung Hyundai di segmen SUV mewah Indonesia. Langka
 Langkah yang Harus Diambil Pemilik
 Jika Anda adalah pemilik Hyundai Palisade, sangat disarankan untuk tidak mengabaikan lampu peringatan apa pun yang muncul di dasbor. Hubungi layanan pelanggan atau datang ke dealer resmi terdekat untuk memastikan apakah kendaraan Anda masuk dalam daftar unit yang perlu diperbaiki.
 
-Masalah pada kursi dan airbag Hyundai Palisade adalah pengingat bahwa teknologi kendaraan yang semakin kompleks tetap memiliki risiko teknis. Bagi konsumen di Indonesia, kuncinya adalah proaktif dalam mencari informasi resmi. Sejauh ini, Hyundai telah membuktikan komitmennya dalam menjaga standar keamanan, dan penanganan cepat terhadap masalah ini akan menjadi penentu apakah reputasi ""SUV Sultan"" ini tetap kokoh di pasar otomotif nasional.",images/A042.jpg,Otomotif,AI,,
+Masalah pada kursi dan airbag Hyundai Palisade adalah pengingat bahwa teknologi kendaraan yang semakin kompleks tetap memiliki risiko teknis. Bagi konsumen di Indonesia, kuncinya adalah proaktif dalam mencari informasi resmi. Sejauh ini, Hyundai telah membuktikan komitmennya dalam menjaga standar keamanan, dan penanganan cepat terhadap masalah ini akan menjadi penentu apakah reputasi ""SUV Sultan"" ini tetap kokoh di pasar otomotif nasional.",images/A042.jpg,Otomotif,AI,-,-
 A043,"Pemudik Wajib Tahu, Ini Perbedaan Rest Area Tipe A, B, dan C
 Rest area atau tempat istirahat dan pelayanan (TIP) menjadi fasilitas penting bagi pemudik yang melintasi jalan tol, terutama saat musim mudik Lebaran. Keberadaannya tidak hanya untuk beristirahat, tetapi juga memenuhi berbagai kebutuhan selama perjalanan jarak jauh, termasuk mudik Lebaran 2026. Dilansir dari situs resmi Badan Pengatur Jalan Tol/BPJT pada Selasa (17/3/2025), rest area terbagi menjadi tiga jenis, yaitu Tipe A, B, dan C. Tiga jenis rest area ini menyesuaikan dengan fasilitas yang tersedia di dalamnya. 
 -        Rest area tipe A, memiliki area lebih luas dan fasilitas yang lengkap, meliputi ATM, toilet, SPBU, klinik kesehatan, bengkel, minimarket, musala, kios, tempat parkir, ruang terbuka hijau, hingga restoran.
@@ -713,7 +713,7 @@ Kesalahan Umum dan Tips
 
 Banyak pemudik yang asal berhenti di rest area pertama yang dilihat, padahal jika ingin istirahat panjang dengan anak-anak, memilih tipe B atau C akan sangat tidak nyaman. Sebaliknya, jika hanya butuh mengisi BBM dan segera melanjutkan perjalanan, mampir ke tipe A justru membuang waktu karena harus berjalan kaki lebih jauh dari area parkir ke SPBU.
 
-Tipsnya: rencanakan titik berhenti sebelum berangkat. Gunakan aplikasi navigasi yang menunjukkan tipe rest area. Jangan memaksakan berhenti di tipe C jika kondisi fisik Anda sudah sangat lelah—lebih baik keluar tol terdekat dan cari pom bensin atau warung pinggir jalan yang lebih aman. Dengan mengetahui perbedaan ini, perjalanan tol Anda akan lebih aman, nyaman, dan efisien. Selamat berkendara!",images/A044.jpg,Otomotif,AI,,
+Tipsnya: rencanakan titik berhenti sebelum berangkat. Gunakan aplikasi navigasi yang menunjukkan tipe rest area. Jangan memaksakan berhenti di tipe C jika kondisi fisik Anda sudah sangat lelah—lebih baik keluar tol terdekat dan cari pom bensin atau warung pinggir jalan yang lebih aman. Dengan mengetahui perbedaan ini, perjalanan tol Anda akan lebih aman, nyaman, dan efisien. Selamat berkendara!",images/A044.jpg,Otomotif,AI,-,-
 A045,"Kejutan, Daftar Mobil Terlaris Februari 2026 Dipimpin Suzuki Carry
 Penjualan mobil nasional pada Februari 2026 menghadirkan kejutan. Model pikap Suzuki Carry berhasil menembus posisi puncak klasemen mobil terlaris, bahkan mengungguli Toyota Kijang Innova hingga mobil listrik BYD Atto 1.
 Berdasarkan data wholesales Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo), distribusi pikap ini ke dealer mencapai 6.554 unit sepanjang Februari.
@@ -774,7 +774,7 @@ Selain itu, jaringan layanan purna jual yang luas juga memperkuat posisi Suzuki 
 
 Keberhasilan Suzuki Carry memimpin penjualan pada Februari 2026 menjadi bukti bahwa kendaraan niaga masih memiliki peran penting dalam roda perekonomian. Mobil bukan hanya alat transportasi, tetapi juga menjadi aset produktif yang mendukung berbagai kegiatan usaha.
 
-Dengan tren ini, bukan tidak mungkin kendaraan niaga akan terus bersaing ketat dengan mobil penumpang dalam daftar penjualan berikutnya. Semua kembali pada kebutuhan pasar yang terus berkembang, serta kemampuan produsen dalam menghadirkan produk yang sesuai dengan kebutuhan konsumen.",images/A046.jpg,Otomotif,AI,,
+Dengan tren ini, bukan tidak mungkin kendaraan niaga akan terus bersaing ketat dengan mobil penumpang dalam daftar penjualan berikutnya. Semua kembali pada kebutuhan pasar yang terus berkembang, serta kemampuan produsen dalam menghadirkan produk yang sesuai dengan kebutuhan konsumen.",images/A046.jpg,Otomotif,AI,-,-
 A047,"Jangan Asal Pilih! Ini 5 Jenis Rantai Motor yang Pengaruh ke Performa
 
 Rantai motor bukan sekadar komponen yang menempel di bagian belakang kendaraanmu.  Rantai motor memegang peran penting dalam menentukan respons tarikan mesin dan kenyamanan berkendara. 
@@ -824,7 +824,7 @@ Sesuai namanya, rantai ini dibuat dengan material yang lebih tebal dan kokoh unt
 
 Rantai ini memiliki kekuatan tarik yang tinggi dan tidak mudah mulur atau kendur meskipun digunakan di medan berat. Namun, konsekuensinya adalah bobotnya jauh lebih berat dibandingkan tipe lainnya, sehingga kurang efisien jika digunakan untuk sekadar harian di perkotaan.
 
-Pada akhirnya, tidak ada satu jenis rantai yang paling sempurna untuk semua kondisi. Pilihan terbaik bergantung pada kebutuhan dan gaya berkendara Anda. Untuk harian, O-Ring sudah sangat memadai. Jika Anda penggemar kecepatan dan performa, X-Ring bisa menjadi investasi yang tepat. Yang terpenting, selalu pilih rantai yang sesuai dengan spesifikasi motor dan rawatlah secara rutin agar performanya tetap optimal.",images/A048.jpg,Otomotif,AI,,
+Pada akhirnya, tidak ada satu jenis rantai yang paling sempurna untuk semua kondisi. Pilihan terbaik bergantung pada kebutuhan dan gaya berkendara Anda. Untuk harian, O-Ring sudah sangat memadai. Jika Anda penggemar kecepatan dan performa, X-Ring bisa menjadi investasi yang tepat. Yang terpenting, selalu pilih rantai yang sesuai dengan spesifikasi motor dan rawatlah secara rutin agar performanya tetap optimal.",images/A048.jpg,Otomotif,AI,-,-
 A049,"Tips Membeli Aki Mobil yang Tepat untuk Pemula, Jangan Asal Pilih Kalau Tak Mau Menyesal
 Sejatinya, aki mobil merupakan komponen vital dalam sistem kelistrikan kendaraan. Tanpa aki yang prima, mesin sulit dinyalakan dan berbagai fitur elektronik tidak dapat berfungsi optimal. Bagi pemilik mobil pemula, membeli aki sering kali dianggap perkara sederhana. Padahal, memilih aki mobil tidak boleh dilakukan secara asal. Kesalahan dalam memilih bisa berdampak pada performa kendaraan hingga usia pakai yang lebih singkat.
 
@@ -861,7 +861,7 @@ Hal lain yang tak kalah penting adalah memastikan keaslian produk. Saat ini, tid
 
 Terakhir, jangan lupa untuk memperhatikan garansi. Aki dengan garansi resmi memberikan rasa aman jika terjadi masalah dalam penggunaan. Simpan bukti pembelian dengan baik agar klaim garansi dapat dilakukan dengan mudah jika diperlukan.
 
-Dengan memahami berbagai hal tersebut, pemula tidak perlu lagi bingung saat membeli aki mobil. Pemilihan yang tepat tidak hanya membuat kendaraan lebih andal, tetapi juga membantu menghindari pengeluaran yang tidak perlu di masa depan.",images/A050.jpg,Otomotif,AI,,
+Dengan memahami berbagai hal tersebut, pemula tidak perlu lagi bingung saat membeli aki mobil. Pemilihan yang tepat tidak hanya membuat kendaraan lebih andal, tetapi juga membantu menghindari pengeluaran yang tidak perlu di masa depan.",images/A050.jpg,Otomotif,AI,-,-
 A051,"Super Ngebut, Baterai Blade Terbaru BYD Bisa Dicas 10-97% Cuma 9 Menit
 
 BYD memperkenalkan generasi kedua baterai Blade sekaligus teknologi Flash Charging di Shenzhen, China, pada Jumat (6/3). Kehadiran teknologi terbaru ini menjawab dua tantangan utama kendaraan listrik, yaitu lambatnya proses pengisian daya dan penurunan performa pengisian pada suhu rendah.
@@ -916,7 +916,7 @@ Pergeseran Mindset Konsumen: Kecepatan 9 menit menghilangkan perbedaan signifika
 
 Dominasi Pasar BYD: Langkah ini memperkuat posisi BYD sebagai pemimpin teknologi baterai, menantang produsen besar lainnya seperti Tesla dan CATL untuk berinovasi lebih keras.
 
-Meskipun saat ini infrastruktur pengisi daya yang mampu mengeluarkan daya sebesar itu masih terbatas, langkah BYD ini adalah sinyal kuat bahwa masa depan di mana kita tidak perlu lagi menunggu lama untuk ""mengisi tenaga"" kendaraan sudah ada di depan mata.",images/A052.jpg,Otomotif,AI,,
+Meskipun saat ini infrastruktur pengisi daya yang mampu mengeluarkan daya sebesar itu masih terbatas, langkah BYD ini adalah sinyal kuat bahwa masa depan di mana kita tidak perlu lagi menunggu lama untuk ""mengisi tenaga"" kendaraan sudah ada di depan mata.",images/A052.jpg,Otomotif,AI,-,-
 A053,"Waspada Bunyi Kaki-Kaki Mobil Sebelum Mudik, Cek Penyebabnya
  
 Selain mesin, pengecekan menyeluruh pada sektor kaki-kaki mobil juga penting dilakukan sebelum menempuh perjalanan jauh. Pasalnya, hal ini berkaitan erat dengan aspek keamanan dan kenyamanan. Dalam konteks mudik Lebaran, kaki-kaki mobil umumnya akan bekerja lebih ekstra dari biasanya. Hal ini lantaran bobot kendaraan yang lebih berat, ditambah kondisi jalan ratusan kilometer yang tak selalu mulus. Beberapa masalah pada sistem kaki-kaki mobil bisa saja terjadi, seperti munculnya bunyi secara tiba-tiba saat perjalanan. ""Masalah seperti bunyi gluduk, bunyi tek-tek, dan bunyi cit-cit bisa datang saat Anda paling tidak mengharapkannya. Bunyi pada kaki-kaki mobil bisa menjadi sinyal awal adanya kerusakan komponen yang berpengaruh pada kenyamanan dan keselamatan berkendara,"" ujar Frans Andrian, Chief Marketing Officer Rotary Auto, Rabu (18/3/2026).
@@ -960,7 +960,7 @@ Sebelum keberangkatan, sangat disarankan untuk membawa kendaraan ke bengkel spes
 
 Jangan lupa untuk melakukan Spooring dan Balancing ulang. Hal ini memastikan posisi roda selaras sehingga ban tidak cepat botak sebelah dan kendali mobil tetap presisi sepanjang jalur mudik.
 
-Ingat, kenyamanan keluarga selama perjalanan dimulai dari kondisi mobil yang sehat di bagian paling bawah. Jangan biarkan bunyi kecil merusak rencana besar Anda untuk bertemu sanak saudara.",images/A054.jpg,Otomotif,AI,,
+Ingat, kenyamanan keluarga selama perjalanan dimulai dari kondisi mobil yang sehat di bagian paling bawah. Jangan biarkan bunyi kecil merusak rencana besar Anda untuk bertemu sanak saudara.",images/A054.jpg,Otomotif,AI,-,-
 A055,"Ekosistem Baterai Kendaraan Listrik: Fondasi Penting Transisi Energi dan Industri EV Indonesia
 Pengembangan ekosistem baterai kendaraan listrik menjadi fondasi utama dalam transformasi industri otomotif global.  Baterai tidak hanya berfungsi sebagai sumber energi kendaraan listrik, tetapi juga menentukan daya saing suatu negara dalam rantai pasok kendaraan ramah lingkungan. 
 
@@ -998,7 +998,7 @@ Tantangan yang Harus Dihadapi
 
 Tentu saja, membangun ekosistem dari nol tidaklah mudah. Ada tantangan besar seperti kebutuhan investasi yang sangat tinggi, transfer teknologi dari negara maju, serta persaingan ketat dengan negara lain seperti China dan Korea Selatan yang sudah lebih dulu maju. Namun, dengan kekayaan sumber daya alam yang dimiliki, Indonesia memiliki modal yang tidak dimiliki banyak negara.
 
-Transisi energi bukan hanya tentang mengganti bensin dengan listrik. Ia adalah tentang membangun kemandirian industri, mengelola sumber daya alam secara bijak, dan menciptakan masa depan yang lebih hijau. Dan di tengah semua itu, ekosistem baterai adalah fondasi yang akan menopang seluruh bangunan industri kendaraan listrik Indonesia.",images/A056.jpg,Otomotif,AI,,
+Transisi energi bukan hanya tentang mengganti bensin dengan listrik. Ia adalah tentang membangun kemandirian industri, mengelola sumber daya alam secara bijak, dan menciptakan masa depan yang lebih hijau. Dan di tengah semua itu, ekosistem baterai adalah fondasi yang akan menopang seluruh bangunan industri kendaraan listrik Indonesia.",images/A056.jpg,Otomotif,AI,-,-
 A057,"Dealer Ferrari Indonesia Jualan Mobil Bekas Mulai Rp6,9 Miliar
 
 Jangan kaget kalau Anda tak akan menemukan model baru saat mengunjungi dealer Ferrari satu-satunya di Indonesia yang berada di Menteng, Jakarta Pusat. Alih-alih model baru, unit yang dipamerkan adalah mobil bekas.
@@ -1046,7 +1046,7 @@ Kehadiran program ini juga menunjukkan bahwa pasar mobil mewah di Indonesia teru
 
 Di sisi lain, tren ini juga mencerminkan perubahan pola konsumsi di kalangan pembeli kelas atas. Banyak dari mereka yang kini lebih mempertimbangkan nilai investasi dan depresiasi kendaraan, sehingga mobil bekas bersertifikat menjadi pilihan yang rasional.
 
-Secara keseluruhan, kehadiran Ferrari bekas resmi di Indonesia memberikan alternatif baru bagi para penggemar otomotif. Dengan jaminan kualitas dari dealer resmi, konsumen dapat menikmati kemewahan dan performa khas Ferrari dengan cara yang lebih fleksibel, tanpa harus selalu membeli unit baru.",images/A058.jpg,Otomotif,AI,,
+Secara keseluruhan, kehadiran Ferrari bekas resmi di Indonesia memberikan alternatif baru bagi para penggemar otomotif. Dengan jaminan kualitas dari dealer resmi, konsumen dapat menikmati kemewahan dan performa khas Ferrari dengan cara yang lebih fleksibel, tanpa harus selalu membeli unit baru.",images/A058.jpg,Otomotif,AI,-,-
 A059,"Marc Marquez Tunda Pepanjangan Kontrak Baru Ducati
 
 Marc Marquez memilih tidak terburu-buru memperpanjang kontraknya bersama Ducati. Bukan karena negosiasi alot, melainkan karena ia ingin memastikan satu hal, kondisi fisiknya benar-benar siap. Pebalap berjuluk The Baby Alien itu mengaku belum ingin menandatangani kontrak baru dalam keadaan cedera. Baginya, memahami kondisi tubuh sendiri setelah pemulihan jauh lebih penting sebelum membuat komitmen jangka panjang. “Saya meminta satu hal yang jelas kepada Ducati. Saya tidak ingin menandatangani apa pun dalam kondisi cedera. Saya ingin memulai musim, ingin merasa baik secara fisik,” ujar Marquez, dikutip dari Motosan.es, Rabu (4/3/2026).
@@ -1080,7 +1080,7 @@ Bagi para penggemar, situasi ini menghadirkan rasa penasaran sekaligus harapan. 
 
 Untuk saat ini, fokus utama Marquez tetap pada performa di lintasan. Ia berusaha memberikan hasil terbaik di setiap balapan sembari terus mengevaluasi berbagai opsi yang ada. Keputusan terkait kontrak kemungkinan baru akan diambil setelah ia merasa benar-benar yakin dengan pilihan yang ada.
 
-Dengan segala pertimbangan tersebut, langkah hati-hati yang diambil Marquez bisa dipahami. Dalam dunia MotoGP yang sangat kompetitif, memilih tim dan kontrak yang tepat bukan hanya soal karier, tetapi juga peluang untuk kembali mencatatkan sejarah sebagai salah satu pembalap terbaik di generasinya.",images/A060.jpg,Otomotif,AI,,
+Dengan segala pertimbangan tersebut, langkah hati-hati yang diambil Marquez bisa dipahami. Dalam dunia MotoGP yang sangat kompetitif, memilih tim dan kontrak yang tepat bukan hanya soal karier, tetapi juga peluang untuk kembali mencatatkan sejarah sebagai salah satu pembalap terbaik di generasinya.",images/A060.jpg,Otomotif,AI,-,-
 A061,"Hati-Hati Saat Servis CVT: 2 Komponen Motor Ini Pantang Kena Bensin
 
 Servis CVT merupakan salah satu perawatan penting yang tidak boleh diabaikan oleh para pengguna motor matic. 
@@ -1127,7 +1127,7 @@ Tips Tambahan untuk Pemilik Motor Matik
 
 Selain menghindari bensin, ada beberapa hal yang perlu diperhatikan saat merawat CVT. Pertama, selalu pastikan rumah CVT tertutup rapat setelah dibongkar agar air dan debu tidak masuk. Kedua, periksa kondisi belt secara berkala setiap 10.000 hingga 15.000 kilometer. Ketiga, dengarkan suara aneh seperti bunyi berdecit atau seperti rantai kendor, itu bisa menjadi tanda awal adanya masalah di CVT.
 
-Dengan perawatan yang tepat, komponen CVT bisa bertahan lama dan motor matik Anda tetap nyaman dikendarai setiap hari. Ingat, hindari bensin menyentuh belt dan kampas ganda, karena akibatnya bisa membuat Anda kecewa di kemudian hari.",images/A062.jpg,Otomotif,AI,,
+Dengan perawatan yang tepat, komponen CVT bisa bertahan lama dan motor matik Anda tetap nyaman dikendarai setiap hari. Ingat, hindari bensin menyentuh belt dan kampas ganda, karena akibatnya bisa membuat Anda kecewa di kemudian hari.",images/A062.jpg,Otomotif,AI,-,-
 A063,"Komunitas Mercedes-Bens Bekasi Sukses Gelar Musda Ke-3
 
 Mercedes-Benz W211 Club Indonesia (MBW211CI) Bekasi Chapter sukses menggelar Musyawarah Daerah (Musda) ke-3 yang berlangsung di SHSD – Grand Kemala Lagoon, Bekasi, pada Sabtu (24/1/2026). Musda kali ini mengusung tema “Kebersamaan, Solidaritas & Satu Bintang”, yang dimaknai sebagai semangat persatuan seluruh anggota MBW211CI Bekasi Chapter dalam satu rasa kekeluargaan serta saling mendukung dalam setiap kegiatan komunitas.
@@ -1163,7 +1163,7 @@ Terpilihnya kepemimpinan baru dalam Musda ke-3 ini membawa angin segar bagi komu
 
 Kegiatan ini ditutup dengan sesi foto bersama dan iring-iringan kendaraan yang tetap mengedepankan etika berlalu lintas. Suksesnya gelaran ini menegaskan posisi Mercedes-Benz Bekasi sebagai salah satu komunitas otomotif paling berpengaruh dan terorganisir dengan baik di Jawa Barat.
 
-Selamat bekerja untuk pengurus terpilih, semoga bendera komunitas terus berkibar di jalanan maupun dalam kegiatan sosial.",images/A064.jpg,Otomotif,AI,,
+Selamat bekerja untuk pengurus terpilih, semoga bendera komunitas terus berkibar di jalanan maupun dalam kegiatan sosial.",images/A064.jpg,Otomotif,AI,-,-
 A065,"Yamaha Turun Takhta, Kini TVS Jadi Merek Motor Terlaris Ketiga Dunia
 Produsen motor asal India, TVS Motor Company, kini merebut gelar Yamaha sebagai pabrikan dengan penjualan terbesar ketiga di dunia berdasarkan volume tahunan. Pergeseran ini menandakan semakin meningkatnya pengaruh produsen motor India di pasar global.
 Menurut data industri yang dirangkum Autocar Professional, TVS menjual 5,46 juta unit motor pada 2025, naik 20,7 persen dari 4,52 juta unit pada 2024.
@@ -1210,7 +1210,7 @@ Persaingan yang semakin ketat ini pada akhirnya menguntungkan konsumen. Produsen
 
 Ke depan, peta persaingan industri motor global diprediksi akan terus berubah. Faktor seperti perkembangan teknologi, kebijakan lingkungan, dan perubahan preferensi konsumen akan memainkan peran penting dalam menentukan siapa yang akan memimpin pasar. TVS mungkin sedang menikmati momentum saat ini, tetapi tantangan untuk mempertahankan posisi tentu tidak akan mudah.
 
-Sementara itu, Yamaha dan produsen besar lainnya dipastikan tidak akan tinggal diam. Mereka akan terus berinovasi dan beradaptasi demi merebut kembali posisi yang hilang. Dengan demikian, persaingan di industri sepeda motor global akan semakin menarik untuk disimak dalam beberapa tahun ke depan.",images/A066.jpg,Otomotif,AI,,
+Sementara itu, Yamaha dan produsen besar lainnya dipastikan tidak akan tinggal diam. Mereka akan terus berinovasi dan beradaptasi demi merebut kembali posisi yang hilang. Dengan demikian, persaingan di industri sepeda motor global akan semakin menarik untuk disimak dalam beberapa tahun ke depan.",images/A066.jpg,Otomotif,AI,-,-
 A067,"Bayar Pajak Kendaraan di Depok dan Bekasi Kini Tak Perlu Bawa BPKB
 
 Pemerintah Provinsi (Pemprov) Jawa Barat resmi memberi kemudahan baru bagi masyarakat yang ingin membayar pajak kendaraan. Khusus warga Depok, Kota Bekasi, dan Kabupaten Bekasi kini tak lagi wajib membawa Buku Pemilik Kendaraan Bermotor (BPKB) saat bayar pajak tahunan.
@@ -1263,7 +1263,7 @@ Pemerintah daerah berharap kemudahan ini dapat menekan angka kendaraan tidak mel
 
 Bagi Anda warga Depok dan Bekasi, momen ini adalah kesempatan emas untuk merapikan administrasi kendaraan tanpa harus pusing mencari keberadaan BPKB asli atau mengurus surat pengantar ke leasing. Cukup bawa KTP dan STNK, mampir ke gerai Samsat terdekat atau layanan Drive-Thru, dan urusan pajak Anda selesai dalam hitungan menit.
 
-Mari menjadi warga yang taat pajak dengan memanfaatkan fasilitas yang semakin modern dan memanusiakan waktu kita.",images/A068.jpg,Otomotif,AI,,
+Mari menjadi warga yang taat pajak dengan memanfaatkan fasilitas yang semakin modern dan memanusiakan waktu kita.",images/A068.jpg,Otomotif,AI,-,-
 A069,"Komunitas Raize Adu Irit Konsumsi BBM Jelajah Kuningan–Cirebon
 Komunitas mobil Raize Indonesia Club (RIC) menggelar kegiatan touring bertajuk Raizeventour Vol. 4 yang berlangsung pada Jumat hingga Minggu, 16–18 Januari 2026, dengan tujuan Kuningan dan Cirebon, Jawa Barat. Kegiatan ini diikuti oleh 40 anggota komunitas yang akrab disapa Raizetizen, berasal dari berbagai daerah seperti Jakarta, Bogor, Depok, Tangerang, Bekasi, Bandung, Indramayu, Cirebon, hingga Tasikmalaya. Rangkaian kegiatan touring diisi dengan kompetisi adu irit bahan bakar, permainan (games), hingga kegiatan jelajah kuliner di sejumlah titik destinasi.
 
@@ -1302,7 +1302,7 @@ Tips dari Para Juara
 
 Dari kegiatan ini, beberapa tips sederhana bisa dipetik untuk mendapatkan konsumsi BBM yang irit. Pertama, jaga putaran mesin agar tidak terlalu tinggi dengan cara menginjak pedal gas secara halus dan bertahap. Kedua, manfaatkan momentum deselerasi dengan cara melepas gas dari jauh-jauh hari saat melihat lampu merah atau kemacetan di depan, sehingga mobil bisa meluncur tanpa konsumsi bahan bakar. Ketiga, pastikan tekanan angin ban selalu dalam kondisi ideal, karena ban yang kurang angin akan membuat mesin bekerja lebih berat.
 
-Dengan segala kelebihan yang ditawarkan, tidak heran jika Toyota Raize terus menjadi salah satu pilihan favorit di segmen Compact SUV. Komunitasnya yang solid dan aktif seperti ini juga menjadi nilai tambah bagi para pemilik, karena selalu ada ruang untuk berbagi dan belajar bersama.",images/A070.jpg,Otomotif,AI,,
+Dengan segala kelebihan yang ditawarkan, tidak heran jika Toyota Raize terus menjadi salah satu pilihan favorit di segmen Compact SUV. Komunitasnya yang solid dan aktif seperti ini juga menjadi nilai tambah bagi para pemilik, karena selalu ada ruang untuk berbagi dan belajar bersama.",images/A070.jpg,Otomotif,AI,-,-
 A071,"Musim Hujan Kaca Mobil Sering Berembun? Ini Penyebab dan 4 Cara Mengatasinya
 Embun pada kaca mobil kerap menjadi masalah bagi pengemudi, terutama saat pagi hari atau ketika hujan turun. Kondisi ini dapat mengganggu jarak pandang dan meningkatkan risiko kecelakaan jika tidak segera ditangani. Embun muncul akibat perbedaan suhu antara bagian dalam dan luar mobil. Ketika udara lembap mengenai permukaan kaca yang lebih dingin, kondensasi pun terjadi dan menyebabkan kaca tampak berkabut
 
@@ -1337,7 +1337,7 @@ Menjaga kebersihan dan kekeringan interior mobil juga penting. Hindari membiarka
 
 Selain langkah-langkah di atas, pengemudi juga disarankan untuk rutin memeriksa sistem AC dan ventilasi kendaraan. Sistem yang bekerja dengan baik akan sangat membantu menjaga kondisi udara di dalam mobil tetap stabil.
 
-Mengatasi kaca berembun sebenarnya tidak sulit jika mengetahui penyebabnya. Dengan langkah sederhana dan kebiasaan yang tepat, Anda bisa tetap berkendara dengan aman dan nyaman meski di tengah hujan deras.",images/A072.jpg,Otomotif,AI,,
+Mengatasi kaca berembun sebenarnya tidak sulit jika mengetahui penyebabnya. Dengan langkah sederhana dan kebiasaan yang tepat, Anda bisa tetap berkendara dengan aman dan nyaman meski di tengah hujan deras.",images/A072.jpg,Otomotif,AI,-,-
 A073,"Kolaborasi Komunitas dan Bengkel Modern Gelar Acara Riding Beredukasi
 
 Sebagai lini merek PT ExxonMobil Lubricants Indonesia (EMLI), Federal Oil berkolaborasi dengan SiTepat Digital Motoshop, jaringan bengkel perawatan motor modern, melalui program komunitas SOWAN (Guyubnya Para Riders). Kolaborasi ini diwujudkan dalam acara bertajuk “Sowan Nyaman”, yang memadukan keseruan riding dan edukasi perawatan motor. Digelar pada Sabtu (6/12/2025), kegiatan ini diikuti puluhan pengendara dari komunitas motor matic besar. Para peserta antusias merasakan pengalaman berkendara sekaligus mendapatkan insight langsung dari para ahli.
@@ -1377,7 +1377,7 @@ Di sisi lain, pihak bengkel modern melihat ini sebagai cara untuk mendekatkan di
 Menatap Masa Depan Budaya Berkendara
 Acara ""Riding Beredukasi"" ini diharapkan menjadi pemantik bagi komunitas-komunitas lain di seluruh Indonesia. Bahwa hobi otomotif bisa berjalan beriringan dengan peningkatan wawasan. Dengan adanya transfer pengetahuan dari para ahli di bengkel modern kepada anggota komunitas, standar keamanan dan perawatan motor di tingkat hobi pun otomatis naik level.
 
-Pada akhirnya, kegiatan ini membuktikan bahwa sinergi yang tepat dapat mengubah kebiasaan sederhana menjadi gerakan yang berdampak positif. Berkendara memang tentang kebebasan, namun berkendara dengan ilmu adalah tentang keselamatan dan gaya hidup yang berkelanjutan.",images/A074.jpg,Otomotif,AI,,
+Pada akhirnya, kegiatan ini membuktikan bahwa sinergi yang tepat dapat mengubah kebiasaan sederhana menjadi gerakan yang berdampak positif. Berkendara memang tentang kebebasan, namun berkendara dengan ilmu adalah tentang keselamatan dan gaya hidup yang berkelanjutan.",images/A074.jpg,Otomotif,AI,-,-
 A075,"Motor Listrik Terkena Hujan dan Banjir, Apakah Berbahaya? Simak Penjelasannya
 
 Popularitas motor listrik di Indonesia semakin meningkat. Selain ramah lingkungan dan hemat biaya operasional, kendaraan ini juga dinilai praktis untuk mobilitas harian. Namun di sisi lain, masih banyak masyarakat yang khawatir: apakah motor listrik aman jika terkena hujan deras atau harus melewati genangan air dan banjir?
@@ -1431,7 +1431,7 @@ Cuci dengan Tekanan Rendah: Saat mencuci, hindari menggunakan semprotan air bert
 Cek Area Pengereman: Air hujan sering kali membawa pasir halus yang bisa terselip di kampas rem. Bersihkan area ini agar performa pengereman tetap pakem dan tidak merusak piringan cakram.
 
 Kesimpulan
-Motor listrik modern telah dirancang dengan standar keamanan yang sangat ketat untuk menghadapi iklim tropis seperti di Indonesia. Jadi, tidak perlu takut kehujanan. Selama Anda tetap waspada terhadap kedalaman banjir dan rutin melakukan pengecekan pada seal pelindung di bengkel resmi, motor listrik Anda akan tetap menjadi rekan perjalanan yang tangguh di segala cuaca.",images/A076.jpg,Otomotif,AI,,
+Motor listrik modern telah dirancang dengan standar keamanan yang sangat ketat untuk menghadapi iklim tropis seperti di Indonesia. Jadi, tidak perlu takut kehujanan. Selama Anda tetap waspada terhadap kedalaman banjir dan rutin melakukan pengecekan pada seal pelindung di bengkel resmi, motor listrik Anda akan tetap menjadi rekan perjalanan yang tangguh di segala cuaca.",images/A076.jpg,Otomotif,AI,-,-
 A077,"Gathering Nasional Indonesia Kijang Club ke-16, Usung Tema Hybrid
 
 Indonesia Kijang Club (IKC) kembali menggelar Gathering Nasional ke-16 di Hotel Pantai Indah, Pangandaran, pada 22–23 November 2025. Ajang silaturahmi tahunan ini diikuti lebih dari 200 anggota IKC dan 100 unit Toyota Kijang dari 63 cabang resmi serta 37 cabang prospek di seluruh Indonesia. Peserta datang dari berbagai daerah, mulai dari Medan, Manado, Solok, Tanjungpinang, Yogyakarta, Lampung, Cirebon, Karawang, Batam, Palembang, Samarinda, Jakarta, Temanggung, Wonosobo, Sumedang, Majalengka, Jayapura, Nabire, dan wilayah lainnya.
@@ -1484,7 +1484,7 @@ Masa Depan yang Cerah
 
 Gathering Nasional ke-16 ini menjadi bukti bahwa Kijang dan komunitasnya masih sangat relevan di era modern. Dengan mengusung tema hybrid, mereka menunjukkan bahwa cinta pada mobil legendaris tidak harus berarti menolak kemajuan. Justru sebaliknya, komunitas ini menjadi jembatan yang menghubungkan masa lalu, masa kini, dan masa depan otomotif Indonesia.
 
-Selama masih ada penggemar setia yang merawat dan mencintainya, Kijang akan terus hidup, baik dalam bentuk lawas yang klasik maupun dalam wujud modern yang lebih hijau.",images/A078.jpg,Otomotif,AI,,
+Selama masih ada penggemar setia yang merawat dan mencintainya, Kijang akan terus hidup, baik dalam bentuk lawas yang klasik maupun dalam wujud modern yang lebih hijau.",images/A078.jpg,Otomotif,AI,-,-
 A079,"Risiko Kecelakaan di Tol Trans-Jawa Tinggi, Ini Tips Berkendara Aman
 
 Sejumlah ruas di Tol Trans-Jawa dikenal memiliki tingkat risiko kecelakaan yang cukup tinggi, terutama saat arus kendaraan meningkat seperti pada periode mudik Lebaran. Karena itu, pengemudi diimbau untuk meningkatkan kewaspadaan selama melintas di jalur tersebut. Perhatian ini kembali mencuat setelah terjadi kecelakaan beruntun yang melibatkan bus PO Haryanto dan beberapa mobil penumpang di ruas Tol Pemalang–Batang, Jawa Tengah, baru-baru ini. Insiden tersebut diduga terjadi karena pengemudi kehilangan kendali saat berkendara di jalan tol. Director Training Safety Defensive Consultant Indonesia Sony Susmana mengatakan, karakter jalan tol yang panjang, lurus, dan relatif monoton dapat memicu penurunan konsentrasi pengemudi.
@@ -1521,7 +1521,7 @@ Keempat, fokus saat berkendara dan hindari penggunaan ponsel. Gangguan kecil sek
 
 Terakhir, perhatikan kondisi cuaca. Hujan deras dapat membuat jalan licin dan jarak pandang berkurang. Dalam situasi ini, sebaiknya kurangi kecepatan dan nyalakan lampu utama agar tetap terlihat oleh pengendara lain.
 
-Dengan memahami risiko dan menerapkan langkah pencegahan, perjalanan di Tol Trans-Jawa dapat menjadi lebih aman. Keselamatan bukan hanya tanggung jawab diri sendiri, tetapi juga untuk melindungi pengguna jalan lainnya.",images/A080.jpg,Otomotif,AI,,
+Dengan memahami risiko dan menerapkan langkah pencegahan, perjalanan di Tol Trans-Jawa dapat menjadi lebih aman. Keselamatan bukan hanya tanggung jawab diri sendiri, tetapi juga untuk melindungi pengguna jalan lainnya.",images/A080.jpg,Otomotif,AI,-,-
 A081,"Elon Musk: Banyak Produsen Mobil Mengarah ke Dinosaurus, Punah
 CEO Tesla Elon Musk mengatakan produsen mobil tradisional yang menolak mengikuti jejak Tesla akan bernasib sama seperti Dinosaurus atau dengan kata lain punah.
 ""Secara strategis, mereka menuju ke arah dinosaurus, jadi mereka tidak menuju ke tempat yang baik. Dinosaurus sudah tidak ada lagi,"" kata Musk dalam sebuah video wawancara yang diunggah di X oleh @gigafactories, Jumat (27/2).
@@ -1558,7 +1558,7 @@ Konsumen kini juga memiliki peran penting dalam menentukan arah industri. Mening
 
 Ke depan, industri otomotif diprediksi akan semakin dipenuhi persaingan antara pemain lama dan pendatang baru yang lebih adaptif terhadap teknologi. Perusahaan yang mampu bertransformasi dengan cepat kemungkinan besar akan bertahan dan bahkan memimpin pasar.
 
-Sementara itu, bagi produsen yang lambat beradaptasi, ancaman tertinggal bukan lagi sekadar kemungkinan, melainkan risiko nyata. Seperti yang diungkapkan Elon Musk, dunia otomotif sedang berada di titik perubahan besar—dan hanya mereka yang siap berubah yang akan bertahan.",images/A082.jpg,Otomotif,AI,,
+Sementara itu, bagi produsen yang lambat beradaptasi, ancaman tertinggal bukan lagi sekadar kemungkinan, melainkan risiko nyata. Seperti yang diungkapkan Elon Musk, dunia otomotif sedang berada di titik perubahan besar—dan hanya mereka yang siap berubah yang akan bertahan.",images/A082.jpg,Otomotif,AI,-,-
 A083,"Langkah Darurat jika Mobil Overheat Saat Perjalanan Mudik
 Overheat atau mesin mobil yang terlalu panas bisa terjadi saat perjalanan jauh seperti mudik, terutama ketika kendaraan dipakai terus-menerus di tengah kemacetan atau cuaca panas.  Jika hal ini terjadi, pengemudi perlu melakukan langkah darurat agar kerusakan mesin tidak semakin parah. Berikut langkah yang bisa dilakukan. Imun, pemilik bengkel Spesialis Ford Trucuk Klaten mengatakan begitu lampu indikator overheating menyala atau indikator suhu tinggi maka pengendara harus menepi.
 
@@ -1624,7 +1624,7 @@ Pastikan kipas pendingin bekerja dengan baik.
 
 Bawa persediaan air bersih di bagasi untuk keadaan darurat.
 
-Overheat memang menakutkan, tetapi dengan pengetahuan yang tepat, Anda bisa mengatasinya tanpa panik. Yang terpenting adalah keselamatan Anda dan keluarga di dalam mobil. Selamat mudik dan semoga perjalanan Anda lancar hingga tujuan.",images/A084.jpg,Otomotif,AI,,
+Overheat memang menakutkan, tetapi dengan pengetahuan yang tepat, Anda bisa mengatasinya tanpa panik. Yang terpenting adalah keselamatan Anda dan keluarga di dalam mobil. Selamat mudik dan semoga perjalanan Anda lancar hingga tujuan.",images/A084.jpg,Otomotif,AI,-,-
 A085,"Land Cruiser Tetap Utuh Usai Ditembak RPG, Begini Spesifikasi dari Mobil yang Membawa Wali Kota Filipina ini
 
 Viral di media sosial, sebuah mobil Land Cruiser ditembak oleh orang-orang bersenjata dengan menggunakan Rocket-Propelled Grenade atau RPG. Menariknya, mobil yang ditumpangi oleh Wali Kota Shariff Aguak, Datu Akmad B. Ampatuan Sr ini masih dalam keadaan utuh dan penumpang selamat.
@@ -1652,7 +1652,7 @@ Kendaraan seperti ini biasanya diproduksi melalui proses modifikasi khusus oleh 
 
 Peristiwa ini sekaligus menegaskan reputasi Land Cruiser sebagai kendaraan yang tidak hanya tangguh di medan off-road, tetapi juga dapat diandalkan dalam situasi ekstrem yang mengancam keselamatan. Tak heran jika SUV ini kerap dipilih oleh kalangan militer, pejabat pemerintahan, hingga organisasi internasional di berbagai negara.
 
-Dengan kombinasi kekuatan, keandalan, dan kemampuan adaptasi terhadap berbagai kebutuhan, Toyota Land Cruiser kembali membuktikan dirinya sebagai salah satu kendaraan paling tangguh di kelasnya. Insiden ini pun menjadi pengingat bahwa teknologi otomotif terus berkembang, tidak hanya untuk kenyamanan, tetapi juga untuk perlindungan maksimal bagi penggunanya.",images/A086.jpg,Otomotif,AI,,
+Dengan kombinasi kekuatan, keandalan, dan kemampuan adaptasi terhadap berbagai kebutuhan, Toyota Land Cruiser kembali membuktikan dirinya sebagai salah satu kendaraan paling tangguh di kelasnya. Insiden ini pun menjadi pengingat bahwa teknologi otomotif terus berkembang, tidak hanya untuk kenyamanan, tetapi juga untuk perlindungan maksimal bagi penggunanya.",images/A086.jpg,Otomotif,AI,-,-
 A087,"Harga Jetour T2 Sudah Terlihat, Ada Diskon Hingga Rp 20 Juta untuk 500 Konsumen Pertama
 
 PT Jetour Sales Indonesia mulai memasarkan Jetour T2 di Indonesia melalui pengumuman harga resminya di Gaikindo Jakarta Auto Week (GJAW) 2025. Mobil ini dijual dengan harga Rp 568 juta on the road (OTR) Jabodetabek. Jetour memberikan program early adventure benefits untuk 500 konsumen pertama berupa potongan harga Rp 20 juta. Artinya, 500 konsumen pertama tersebut bisa membeli Jetour T2 dengan harga Rp 568 juta.
@@ -1684,7 +1684,7 @@ Interiornya pun tak kalah memukau. Dengan material berkualitas tinggi, sistem hi
 Momentum Tepat untuk Memiliki SUV Impian
 Bagi Anda yang sedang mencari kendaraan yang mampu merefleksikan jiwa petualang namun tetap ingin mendapatkan kesepakatan harga terbaik, saat ini adalah waktu yang paling tepat. Mengingat kuota diskon yang terbatas hanya untuk 500 unit pertama, persaingan antar calon pembeli diprediksi akan berlangsung cukup ketat.
 
-Kehadiran Jetour T2 dengan skema harga dan promo yang menarik ini menandai babak baru persaingan SUV di Indonesia. Ini adalah bukti bahwa kualitas tinggi dan harga yang rasional bisa berjalan beriringan.",images/A088.jpg,Otomotif,AI,,
+Kehadiran Jetour T2 dengan skema harga dan promo yang menarik ini menandai babak baru persaingan SUV di Indonesia. Ini adalah bukti bahwa kualitas tinggi dan harga yang rasional bisa berjalan beriringan.",images/A088.jpg,Otomotif,AI,-,-
 A089,"Jangan Menahan Rem Terus-Menerus Saat Turunan, Ini Risikonya
 Mengerem setengah atau menahan rem secara terus-menerus saat berkendara di jalan menurun merupakan kebiasaan yang cukup sering dilakukan oleh pengendara.  Banyak orang berpikir bahwa menekan rem sedikit namun terus-menerus dapat menjaga kecepatan kendaraan tetap stabil. Padahal, cara ini justru dapat menimbulkan berbagai risiko yang berbahaya bagi keselamatan berkendara. Imun, pemilik bengkel Spesialis Ford Trucuk Klaten mengatakan ketika rem ditekan secara terus-menerus, komponen rem seperti kampas dan cakram akan bekerja tanpa jeda. 
 
@@ -1732,7 +1732,7 @@ Pengguna mobil matik perlu lebih waspada. Jangan sekali-kali mengandalkan rem sa
 
 Jika terpaksa harus berhenti di turunan, misalnya karena macet, ingatlah untuk selalu menarik rem tangan setelah mobil benar-benar berhenti. Jangan hanya mengandalkan rem kaki, karena jika kaki Anda tergelincir atau lengah, mobil bisa meluncur sendiri.
 
-Dengan memahami teknik melewati turunan yang benar, perjalanan mudik Anda akan lebih aman dan nyaman. Selalu ingat, rem adalah komponen penyelamat. Jagalah agar ia tidak bekerja sendirian. Gunakan engine brake sebagai partner utamanya.",images/A090.jpg,Otomotif,AI,,
+Dengan memahami teknik melewati turunan yang benar, perjalanan mudik Anda akan lebih aman dan nyaman. Selalu ingat, rem adalah komponen penyelamat. Jagalah agar ia tidak bekerja sendirian. Gunakan engine brake sebagai partner utamanya.",images/A090.jpg,Otomotif,AI,-,-
 A091,"Aplikasi 'Carpooling' Green SM Jadi yang Terbaik di Asia-Pasifik
 Green SM meraih penghargaan Best EV Carpooling App pada ajang Sensor Tower APAC Awards 2025. Program penghargaan tahunan yang diselenggarakan oleh perusahaan intelijen digital global, Sensor Tower ini memberikan apresiasi kepada aplikasi seluler dengan kinerja terbaik di kawasan Asia-Pasifik.
 Berdasarkan hasil yang dipublikasikan, Green SM mencatat pertumbuhan MAU sebesar 114,4 persen secara tahunan (year-on-year) pada 2025, dan menempati peringkat pertama dalam jumlah unduhan di antara platform carpooling berbasis kendaraan listrik di kawasan Asia-Pasifik. Kinerja tersebut mencerminkan ekspansi yang stabil di berbagai pasar operasional perusahaan, termasuk Vietnam, Laos, Indonesia, dan Filipina.
@@ -1772,7 +1772,7 @@ Tak hanya itu, aplikasi ini juga dinilai mampu menjawab kebutuhan mobilitas masy
 
 Ke depan, Green SM berencana untuk terus memperluas jangkauan layanannya ke lebih banyak kota di Asia-Pasifik. Inovasi tambahan juga tengah dikembangkan, termasuk integrasi dengan transportasi umum dan penggunaan kendaraan listrik sebagai armada utama.
 
-Dengan berbagai pencapaian tersebut, tidak mengherankan jika Green SM dinilai sebagai pelopor dalam transformasi transportasi berbasis komunitas. Keberhasilannya menjadi inspirasi bagi pengembang aplikasi lain untuk turut menghadirkan solusi mobilitas yang lebih berkelanjutan di masa depan.",images/A092.jpg,Otomotif,AI,,
+Dengan berbagai pencapaian tersebut, tidak mengherankan jika Green SM dinilai sebagai pelopor dalam transformasi transportasi berbasis komunitas. Keberhasilannya menjadi inspirasi bagi pengembang aplikasi lain untuk turut menghadirkan solusi mobilitas yang lebih berkelanjutan di masa depan.",images/A092.jpg,Otomotif,AI,-,-
 A093,"Fitra Eri Ungkap Prediksi Masa Depan Mobil Listrik di Indonesia
 
 Perkembangan teknologi mobil listrik menjadi topik hangat di kalangan pencinta otomotif belakangan ini. Reviewer otomotif ternama Fitra Eri pun memprediksi nasib mobil listrik di Indonesia. Fitra mengakui bahwa prediksinya beberapa waktu lalu mengenai perkembangan mobil listrik meleset.
@@ -1827,7 +1827,7 @@ Kesimpulan
 
 Masa depan mobil listrik di Indonesia tidak akan terjadi dalam semalam. Ini adalah proses panjang yang membutuhkan kerja sama semua pihak. Pemerintah harus menyediakan infrastruktur dan insentif. Produsen harus menghadirkan produk berkualitas dengan harga kompetitif. Dan masyarakat harus terbuka untuk belajar dan beradaptasi dengan teknologi baru.
 
-Jika semua elemen ini berjalan beriringan, bukan tidak mungkin Indonesia bisa menjadi salah satu pemain utama dalam industri kendaraan listrik global. Dengan kekayaan sumber daya alam yang dimiliki, kita memiliki fondasi yang kokoh. Kini tinggal bagaimana kita membangun bangunan di atasnya.",images/A094.jpg,Otomotif,AI,,
+Jika semua elemen ini berjalan beriringan, bukan tidak mungkin Indonesia bisa menjadi salah satu pemain utama dalam industri kendaraan listrik global. Dengan kekayaan sumber daya alam yang dimiliki, kita memiliki fondasi yang kokoh. Kini tinggal bagaimana kita membangun bangunan di atasnya.",images/A094.jpg,Otomotif,AI,-,-
 A095,"Keanggunan Honda Step WGN e:HEV di Jalur Lintas Selatan Jawa
 
 Dalam gelaran Merapah Trans Jawa 2026, kami melintasi rute Lintas Selatan Jawa. Dari pegunungan di Gunungkidul yang eksotis hingga garis pantai Samudera Hindia yang sesekali mengintip di balik kelok teluk Pacitan, menjadi panggung sempurna bagi mobil keluarga yang kami bawa kali ini. Meskipun memiliki siluet boxy yang elegan, jangan remehkan apa yang ada di balik kap mesinnya. 
@@ -1862,7 +1862,7 @@ Fitur keselamatan yang disematkan juga tergolong lengkap. Mulai dari sistem peng
 
 Tidak hanya soal teknis, perjalanan menggunakan Step WGN e:HEV juga memberikan pengalaman emosional tersendiri. Menyusuri garis pantai dengan suara ombak di kejauhan, ditemani kabin yang senyap dan nyaman, menjadikan perjalanan terasa lebih rileks dan menyenangkan.
 
-Secara keseluruhan, Honda Step WGN e:HEV mampu membuktikan diri sebagai kendaraan keluarga yang tidak hanya praktis untuk penggunaan harian, tetapi juga tangguh untuk perjalanan jarak jauh. Kombinasi efisiensi, kenyamanan, dan teknologi modern menjadikannya pilihan ideal bagi mereka yang ingin menikmati keindahan Jalur Lintas Selatan Jawa dengan cara yang lebih berkelas.",images/A096.jpg,Otomotif,AI,,
+Secara keseluruhan, Honda Step WGN e:HEV mampu membuktikan diri sebagai kendaraan keluarga yang tidak hanya praktis untuk penggunaan harian, tetapi juga tangguh untuk perjalanan jarak jauh. Kombinasi efisiensi, kenyamanan, dan teknologi modern menjadikannya pilihan ideal bagi mereka yang ingin menikmati keindahan Jalur Lintas Selatan Jawa dengan cara yang lebih berkelas.",images/A096.jpg,Otomotif,AI,-,-
 A097,"Motor Tak Digunakan Berbulan-Bulan? Ini Tips Merawat Motor Jarang Dipakai Biar Nggak Soak dan Tetap Prima
 
 Di antara para pemilik sepeda motor, tidak jarang terdapat kendaraan kesayangan yang jarang digunakan atau bahkan disimpan dalam jangka waktu yang cukup lama. Kondisi ini dapat menimbulkan berbagai masalah teknis jika tidak ditangani dengan benar.
@@ -1905,7 +1905,7 @@ Oli yang tidak bersirkulasi akan mengendap di bagian bawah mesin, membiarkan kom
 Tips: Saat memanaskan motor, jangan hanya diam. Jalankan motor maju-mundur atau putar roda belakang agar oli melumasi transmisi dan rantai. Jangan lupa untuk mencuci motor sebelum ditinggalkan lama dan gunakan cover motor untuk menghindari debu serta sarang tikus.
 
 Kesimpulan
-Merawat motor yang jarang dipakai sebenarnya tidak sulit, namun membutuhkan konsistensi. Motor adalah mesin yang diciptakan untuk bergerak; membiarkannya diam tanpa perhatian sama saja dengan mempercepat masa pensiunnya. Dengan meluangkan waktu sedikit saja setiap minggu, Anda memastikan bahwa saat kunci kontak diputar, mesin akan menderu halus tanpa kendala.",images/A098.jpg,Otomotif,AI,,
+Merawat motor yang jarang dipakai sebenarnya tidak sulit, namun membutuhkan konsistensi. Motor adalah mesin yang diciptakan untuk bergerak; membiarkannya diam tanpa perhatian sama saja dengan mempercepat masa pensiunnya. Dengan meluangkan waktu sedikit saja setiap minggu, Anda memastikan bahwa saat kunci kontak diputar, mesin akan menderu halus tanpa kendala.",images/A098.jpg,Otomotif,AI,-,-
 A099,"Spesifikasi Hyundai Ioniq 9 yang Sudah Hadir di Indonesia
 Kehadiran Hyundai Ioniq 9 di Indonesia mulai menarik perhatian publik. Meski belum dipasarkan secara resmi, SUV listrik berukuran besar ini sudah terlihat di Tanah Air. Bahkan, mobil tersebut sempat diperlihatkan oleh Hyundai Motors Indonesia di N Brand Experience Center, SCBD, Jakarta Selatan, sebagai bagian dari upaya perusahaan mempelajari minat pasar terhadap model tersebut. Ioniq 9 merupakan SUV listrik flagship Hyundai yang pertama kali diperkenalkan secara global pada November 2024, sebelum akhirnya diluncurkan di Korea Selatan pada Februari 2025.
 
@@ -1937,7 +1937,7 @@ Dalam hal keselamatan, Hyundai tidak main-main. Ioniq 9 dilengkapi berbagai fitu
 
 Selain itu, mobil ini juga menawarkan berbagai fitur pintar yang mendukung gaya hidup modern, seperti konektivitas smartphone, kontrol suara, hingga sistem manajemen energi yang efisien. Dengan teknologi tersebut, pengalaman berkendara menjadi lebih praktis dan menyenangkan.
 
-Kehadiran Hyundai Ioniq 9 di Indonesia menjadi sinyal kuat bahwa pasar kendaraan listrik nasional semakin berkembang. Dengan spesifikasi unggulan serta fitur yang lengkap, SUV listrik ini berpotensi menjadi pilihan menarik bagi konsumen yang ingin beralih ke kendaraan ramah lingkungan tanpa mengorbankan kenyamanan dan performa.",images/A100.jpg,Otomotif,AI,,
+Kehadiran Hyundai Ioniq 9 di Indonesia menjadi sinyal kuat bahwa pasar kendaraan listrik nasional semakin berkembang. Dengan spesifikasi unggulan serta fitur yang lengkap, SUV listrik ini berpotensi menjadi pilihan menarik bagi konsumen yang ingin beralih ke kendaraan ramah lingkungan tanpa mengorbankan kenyamanan dan performa.",images/A100.jpg,Otomotif,AI,-,-
 A101,"Total Ekspor Toyota 2025 Nyaris Tembus 300 Ribu Unit, Cetak Rekor Baru
 
 Toyota Indonesia mengumumkan kinerja ekspor mencapai 298.457 unit sepanjang tahun 2025. Performa ini naik 8 persen dibandingkan dengan angka ekspor tahun sebelumnya sebesar 276.089 unit.
@@ -1978,7 +1978,7 @@ Selain itu, tren elektrifikasi juga mulai memberikan kontribusi terhadap ekspor.
 
 Meski demikian, tantangan tetap ada. Fluktuasi ekonomi global, perubahan regulasi di negara tujuan, serta persaingan dengan negara produsen lain menjadi faktor yang perlu diantisipasi. Namun, dengan strategi yang tepat dan inovasi berkelanjutan, Toyota diyakini mampu mempertahankan bahkan meningkatkan performa ekspornya.
 
-Pencapaian hampir 300 ribu unit ini menjadi tonggak penting bagi Toyota di Indonesia. Tidak hanya sebagai angka statistik, tetapi juga sebagai bukti bahwa industri otomotif nasional mampu bersaing di tingkat global. Ke depan, tren positif ini diharapkan terus berlanjut, membawa Indonesia semakin dikenal sebagai pusat produksi otomotif berkualitas dunia.",images/A102.jpg,Otomotif,AI,,
+Pencapaian hampir 300 ribu unit ini menjadi tonggak penting bagi Toyota di Indonesia. Tidak hanya sebagai angka statistik, tetapi juga sebagai bukti bahwa industri otomotif nasional mampu bersaing di tingkat global. Ke depan, tren positif ini diharapkan terus berlanjut, membawa Indonesia semakin dikenal sebagai pusat produksi otomotif berkualitas dunia.",images/A102.jpg,Otomotif,AI,-,-
 A103,"Indonesia Pasar Motor Terbesar Ketiga di Dunia, Masih Kalah dari India
 
 Indonesia menjadi salah negara paling gemuk untuk urusan pasar sepeda motor. Merujuk catatan Astra Honda Motor (AHM), Indonesia berada di urutan ketiga penjualan motor terbanyak di dunia.
@@ -2030,7 +2030,7 @@ Meskipun secara volume berada di posisi ketiga, Indonesia sebenarnya memiliki ku
 Kekuatan Indonesia juga terlihat dari loyalitas konsumennya. Meski diterpa dinamika ekonomi, daya beli masyarakat terhadap motor baru tergolong stabil. Inovasi teknologi—mulai dari fitur keselamatan hingga pergeseran ke arah motor listrik—menjadi sinyal bahwa pasar Indonesia sedang bergerak menuju kedewasaan industri.
 
 Kesimpulan
-Menjadi peringkat ketiga dunia bukanlah prestasi yang kecil. Ini adalah pengakuan bahwa Indonesia adalah pilar utama industri otomotif global. Tantangan ke depan bagi Indonesia bukan lagi soal mengejar volume penjualan India yang masif, melainkan bagaimana memimpin dalam kualitas, teknologi hijau, dan efisiensi produksi agar predikat ""Raja Motor Asia Tenggara"" tetap melekat erat.",images/A104.jpg,Otomotif,AI,,
+Menjadi peringkat ketiga dunia bukanlah prestasi yang kecil. Ini adalah pengakuan bahwa Indonesia adalah pilar utama industri otomotif global. Tantangan ke depan bagi Indonesia bukan lagi soal mengejar volume penjualan India yang masif, melainkan bagaimana memimpin dalam kualitas, teknologi hijau, dan efisiensi produksi agar predikat ""Raja Motor Asia Tenggara"" tetap melekat erat.",images/A104.jpg,Otomotif,AI,-,-
 A105,"Indikator BBM Nyala? Ini Perkiraan Sisa Bensin di Tangki
 
 Perjalanan mudik Lebaran identik dengan jarak tempuh yang panjang, kondisi lalu lintas padat, serta keterbatasan akses SPBU di beberapa ruas jalan. Dalam situasi ini, pemahaman soal sisa bahan bakar saat lampu indikator menyala menjadi hal penting agar perjalanan tetap aman dan tidak kehabisan bensin di tengah jalan. Pemilik bengkel Dokter Mobil, Lung Lung, mengatakan bahwa kapasitas bahan bakar cadangan pada setiap mobil berbeda-beda, tergantung spesifikasi kendaraan. “Beda-beda tiap mobil. Bisa dari 2 liter sampai 5 liter,” kata Lung Lung kepada Kompas.com, Senin (16/3/2026).
@@ -2085,7 +2085,7 @@ Kesimpulan
 
 Lampu indikator bensin menyala bukanlah akhir dari segalanya. Dengan pemahaman yang baik tentang kapasitas tangki dan konsumsi BBM mobil, Anda bisa memperkirakan sisa jarak tempuh dengan cukup akurat. Yang terpenting, jangan panik. Tetap tenang, kurangi kecepatan, dan cari SPBU terdekat. Jika perhitungan menunjukkan jarak ke SPBU masih lebih jauh dari estimasi sisa tempuh, segera cari jalan keluar terdekat atau mampir ke permukiman warga untuk mencari bensin eceran.
 
-Selamat berkendara dan selalu pastikan tangki terisi cukup sebelum memulai perjalanan jauh.",images/A106.jpg,Otomotif,AI,,
+Selamat berkendara dan selalu pastikan tangki terisi cukup sebelum memulai perjalanan jauh.",images/A106.jpg,Otomotif,AI,-,-
 A107,"Wuling Pastikan Kenaikan Harga Karena Faktor PPN 12 Persen
 Isu kenaikan harga mobil mencuat di awal 2026 seiring berakhirnya insentif pajak dari pemerintah. Namun, Wuling menegaskan perubahan harga yang dirasakan konsumen bukan berasal dari pabrikan, melainkan dampak berlakunya kembali Pajak Pertambahan Nilai (PPN) secara penuh. Marketing Operation Director Wuling Motors, Ricky Christian, menjelaskan bahwa pihaknya tidak melakukan penyesuaian harga dasar kendaraan. Harga yang saat ini berlaku merupakan harga on the road (OTR) sesuai skema pajak saat ini.
 
@@ -2130,7 +2130,7 @@ Bagi konsumen yang tetap ingin memiliki mobil listrik di tengah kenaikan harga i
 
 Wuling sendiri memastikan bahwa penyesuaian harga ini murni mengikuti regulasi yang berlaku. Produsen berkomitmen untuk terus mendukung program pemerintah dalam mendorong adopsi kendaraan ramah lingkungan di Indonesia, meskipun dengan tantangan harga yang baru.
 
-Dengan perubahan lanskap harga ini, tahun 2026 menjadi fase penyesuaian yang menarik untuk disimak. Apakah pasar mobil listrik Indonesia tetap tumbuh positif atau justru melambat? Hanya waktu yang akan menjawab. Yang jelas, era mobil listrik dengan harga super terjangkau seperti yang dinikmati sepanjang tahun lalu kini telah berlalu. Konsumen kini harus lebih cermat dalam merencanakan pembelian dan menimbang antara manfaat jangka panjang dengan biaya awal yang harus dikeluarkan.",images/A108.jpg,Otomotif,AI,,
+Dengan perubahan lanskap harga ini, tahun 2026 menjadi fase penyesuaian yang menarik untuk disimak. Apakah pasar mobil listrik Indonesia tetap tumbuh positif atau justru melambat? Hanya waktu yang akan menjawab. Yang jelas, era mobil listrik dengan harga super terjangkau seperti yang dinikmati sepanjang tahun lalu kini telah berlalu. Konsumen kini harus lebih cermat dalam merencanakan pembelian dan menimbang antara manfaat jangka panjang dengan biaya awal yang harus dikeluarkan.",images/A108.jpg,Otomotif,AI,-,-
 A109,"Menjajal All New Honda Vario 125, Begini Rasanya City Ride Bersama Anggota Keluarga Vario yang Baru
 Redaksi Tvonenews berkesempatan untuk menjajal langsung motor baru yang diluncurkan Astra Honda Motor (AHM), yakni All New Honda Vario 125. Dalam kesempatan ini, kami menjajal tipe terbaru yang dihadirkan, yakni Vario 125 Street. Rute yang kami lalui hanya berada di area BSD City, Tangerang Selatan. Perjalanan dimulai dari Astra Motor Biz Center. 
 
@@ -2162,7 +2162,7 @@ Selama perjalanan, saya mencoba beberapa fitur baru yang sangat relevan untuk ke
 Kesimpulan: Sang Jawara Kota yang Tetap Relevan
 Setelah menghabiskan waktu beberapa jam membelah jalanan kota, All New Honda Vario 125 membuktikan bahwa evolusi tidak selalu harus radikal. Honda memilih untuk menyempurnakan apa yang sudah baik. Motor ini tetap menjadi pilihan yang sangat rasional bagi mereka yang menginginkan skutik dengan konsumsi BBM irit, namun tetap memiliki tampilan yang gaya dan fitur yang modern.
 
-Ia mungkin bukan yang paling bertenaga di kelasnya, namun dalam hal kepraktisan dan kenyamanan untuk penggunaan harian, Vario 125 masih sangat sulit untuk ditumbangkan.",images/A110.jpg,Otomotif,AI,,
+Ia mungkin bukan yang paling bertenaga di kelasnya, namun dalam hal kepraktisan dan kenyamanan untuk penggunaan harian, Vario 125 masih sangat sulit untuk ditumbangkan.",images/A110.jpg,Otomotif,AI,-,-
 A111,"IIMS 2026 Tinggal Menghitung Hari, Sejumlah Mobil Baru Siap Meluncur
 Jelang perayaan hari besar Imlek hingga Hari Raya Idul Fitri, Perhelatan Indonesia International Motor Show (IIMS) akhirnya akan kembali digelar. Indonesia International Motor Show (IIMS) 2026 akan diadakan pada 5-15 Februari 2026 di JIExpo Kemayoran, Jakarta. 
 
@@ -2198,7 +2198,7 @@ Pihak penyelenggara IIMS 2026 juga menjanjikan pengalaman yang lebih interaktif 
 Kesimpulan
 Bagi Anda yang sedang berencana mengganti kendaraan atau sekadar ingin melihat arah masa depan transportasi Indonesia, IIMS 2026 adalah destinasi yang tidak boleh dilewatkan. Pameran ini akan menjadi bukti sejauh mana inovasi otomotif telah berkembang dan bagaimana teknologi tersebut dapat mempermudah mobilitas kita sehari-hari.
 
-Pastikan Anda sudah menyiapkan fisik dan waktu, karena kejutan yang akan hadir di JIExpo Kemayoran kali ini diprediksi akan jauh lebih besar dari tahun-tahun sebelumnya.",images/A112.jpg,Otomotif,AI,,
+Pastikan Anda sudah menyiapkan fisik dan waktu, karena kejutan yang akan hadir di JIExpo Kemayoran kali ini diprediksi akan jauh lebih besar dari tahun-tahun sebelumnya.",images/A112.jpg,Otomotif,AI,-,-
 A113,"Wajib Baca Sebelum Beli Motor Bekas! Trik Cek Knalpot Ngebul dan Mesin Bocor Tanpa Perlu Ahli
 Saat berburu motor bekas, banyak orang hanya fokus pada harga dan tampilan, padahal ada hal-hal penting yang tidak boleh dilewatkan.  Membeli motor bekas bisa jadi keputusan tepat kalau kamu tahu cara mengeceknya dengan benar. 
 Karena itu, memahami trik menilai kondisi motor bekas adalah kunci agar kamu tidak rugi di kemudian hari. Dalam dunia otomotif, khususnya motor matic yang banyak diminati, mengecek kondisi motor sebelum membeli adalah hal paling mendasar.  Beberapa orang sering kali tertipu tampilan yang kinclong, padahal kondisi mesin jauh dari kata layak.  Nah, supaya kamu lebih aman, berikut tiga tips paling penting dan wajib dilakukan sebelum membeli motor bekas.
@@ -2234,7 +2234,7 @@ Selain pemeriksaan visual dan suara, calon pembeli juga disarankan untuk mencoba
 
 Penting juga untuk tidak terburu-buru dalam mengambil keputusan. Jika perlu, ajak teman yang lebih paham soal mesin atau mekanik untuk membantu melakukan pengecekan. Namun, dengan memahami beberapa trik dasar ini, sebenarnya siapa pun bisa melakukan penilaian awal tanpa harus menjadi ahli.
 
-Membeli motor bekas memang membutuhkan ketelitian ekstra. Dengan memperhatikan kondisi knalpot dan mesin secara cermat, Anda bisa menghindari risiko mendapatkan kendaraan bermasalah. Pada akhirnya, sedikit usaha di awal akan sangat membantu memastikan motor yang dibeli tetap nyaman dan aman digunakan dalam jangka panjang.",images/A114.jpg,Otomotif,AI,,
+Membeli motor bekas memang membutuhkan ketelitian ekstra. Dengan memperhatikan kondisi knalpot dan mesin secara cermat, Anda bisa menghindari risiko mendapatkan kendaraan bermasalah. Pada akhirnya, sedikit usaha di awal akan sangat membantu memastikan motor yang dibeli tetap nyaman dan aman digunakan dalam jangka panjang.",images/A114.jpg,Otomotif,AI,-,-
 A115,"Estimasi Biaya Mudik Rute Jakarta-Semarang Pakai Honda BR-V
 
 Semarang menjadi salah satu kota besar yang menjadi tujuan pada pemudik yang berasal dari wilayah Jabodetabek pada momentum Hari Raya Idul Fitri atau Lebaran 2026. Saat ini pemudik yang akan pergi dari wilayah Jabodetabek menuju Surabaya dapat melewati Jalan Tol Trans-Jawa. Dengan adanya tol ini membuat jarak tempuh perjalanan jadi lebih singkat. Redaksi Kompas.com mencoba memberikan estimasi biaya yang dibutuhkan untuk perjalanan dari Jakarta ke Semarang menggunakan Jalan Tol Trans-Jawa.
@@ -2275,7 +2275,7 @@ Kenyamanan Honda BR-V sendiri menjadi nilai tambah dalam perjalanan jarak jauh. 
 
 Agar perjalanan lebih efisien, pengemudi disarankan untuk menjaga kecepatan stabil, memanfaatkan fitur eco driving, serta menghindari akselerasi dan pengereman mendadak. Selain itu, pastikan kondisi kendaraan dalam keadaan prima sebelum berangkat, mulai dari tekanan ban, oli mesin, hingga sistem pengereman.
 
-Dengan perencanaan yang matang, perjalanan mudik menggunakan Honda BR-V tidak hanya nyaman, tetapi juga lebih hemat dan aman. Mengetahui estimasi biaya sejak awal akan membantu Anda mengatur anggaran dan menikmati perjalanan tanpa khawatir berlebihan.",images/A116.jpg,Otomotif,AI,,
+Dengan perencanaan yang matang, perjalanan mudik menggunakan Honda BR-V tidak hanya nyaman, tetapi juga lebih hemat dan aman. Mengetahui estimasi biaya sejak awal akan membantu Anda mengatur anggaran dan menikmati perjalanan tanpa khawatir berlebihan.",images/A116.jpg,Otomotif,AI,-,-
 A117,"Pasar Mobil Hybrid di Indonesia Terus Meningkat, Begini Toyota Akomodasi Kebutuhan Masyarakat
 
 Industri otomotif kini makin getol berinovasi menghadirkan solusi kendaraan yang lebih ramah lingkungan. Salah satunya, dengan menghadirkan kendaraan hibrida alias mobil hybrid. Peningkatan kesadaran masyarakat terhadap keberlanjutan lingkungan pun menjadi salah satu faktor eskalasi pertumbuhan pasar mobil ramah lingkungan. Berdasarkan catatan Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo), pasar mobil hybrid di Tanah Air mengalami pertumbuhan signifikan dalam beberapa tahun terakhir. Gaikindo mencatat, penjualan whole sales tipe hibrida (HEV dan PHEV) meroket menjadi 52.504 unit sepanjang 2023. Jumlah ini lebih tinggi ketimbang periode sama pada 2022 yang hanya mencapai 10.344 unit. Fitur andal serta inovasi unggul yang ditawarkan mobil hybrid menjadi salah satu pertimbangan masyarakat memilih mobil berteknologi hibrida ketimbang mobil listrik berbasis baterai (battery electric vehicle/BEV). Adapun mobil hybrid dikenal lebih ramah lingkungan ketimbang mobil berbahan fosil, serta dinilai lebih terjangkau dibandingkan mobil BEV. Seiring dengan pertumbuhan pasar mobil hibrida di Tanah Air serta keunggulan yang ditawarkan, tak heran mobil hibrida makin dilirik pencinta otomotif di Indonesia. Dengan memiliki mobil tersebut, konsumen turut membantu mengurangi emisi dan konsumsi bahan bakar sekaligus mewujudkan mobilitas yang lebih ramah lingkungan. Salah satu produsen otomotif kenamaan dunia, Toyota, turut menghadirkan berbagai tipe mobil hibrida untuk menjawab kebutuhan konsumen di Indonesia. Dengan keunggulan yang ditawarkan, Toyota turut meningkatkan kenyamanan serta keamanan berkendara sekaligus ramah lingkungan. Lantas, apa saja upaya Toyota dalam mengakomodasi kebutuhan pencinta otomotif di Tanah Air? Berikut lima keunggulan mobil hybrid besutan Toyota. Canggih antirepot Pengguna mobil hybrid dari Toyota bakal merasakan kemudahan dalam berkendara. Pasalnya, mobil keluaran Toyota tidak membutuhkan intervensi pengemudi saat sistem hibrida bekerja. Cukup menginjak pedal gas, mobil akan memberikan tenaga secara optimal dengan berpaku pada dua prinsip, yakni hemat bensin dan rendah emisi. Irit bensin Irit bensin merupakan salah satu keunggulan mobil hybrid Toyota. Hal ini menjadi nilai tambah lantaran pemilik dapat lebih hemat bujet ketimbang internal combustion engine (ICE) pada umumnya. Dengan teknologi tersebut, mobil hybrid Toyota menjadi solusi bagi pengguna dalam menghemat pengeluaran bermobilitas. Rendah emisi dan tanpa charging baterai Untuk diketahui, motor bakar pada mobil hibrida Toyota dirancang agar emisi yang dihasilkan ultra low sesuai standar Euro4. Toyota Hybrid System (THS) dibenamkan untuk memastikan mobil lebih sering menggunakan motor listrik sebagai sumber tenaga utama. Di sisi lain, di tengah keberadaan charging station BEV yang belum merata, mobil hybrid untuk saat ini menjadi solusi paling mudah dan nyaman karena penggunanya tak perlu repot mengisi ulang baterai. Kabin senyap dan fun to drive Pengguna mobil hybrid Toyota dapat merasakan kabin yang lebih senyap saat motor listrik bekerja sendirian. Hal ini karena motor bakar tidak beroperasi serta tingkat kekedapan kabin yang lebih tinggi pula. Selain itu, motor listrik memiliki aliran torsi puncak yang konsisten dan linier sejak pedal gas diinjak. Terlebih, mobil diperkuat pula dengan mode sport sehingga bisa mendapatkan respons mesin yang lebih agresif. Gabungan kedua tenaga tersebut menjadikan performa kendaraan menjadi lebih optimal sehingga berkendara terasa lebih nyaman. Garansi baterai dan bebas biaya servis Tak tanggung-tanggung, Toyota memberikan garansi baterai hybrid selama delapan tahun atau 160.000 km. Hal ini tergantung mana yang tercapai lebih dahulu. Adapun warranty komponen elektrifikasi lain mengikuti ketentuan yang dimuat dalam Buku Manual Kepemilikan Kendaraan. Selain itu, pemilik HEV Toyota juga bisa mendapatkan manfaat langsung dari program T-CARE, yakni program Gratis Biaya Servis (biaya jasa dan suku cadang) serta servis berkala ketujuh maksimal tiga tahun/60.000 km. Ada pula extended warranty selama satu tahun atau 20.000 km bila servis secara rutin di bengkel resmi Toyota.
@@ -2305,7 +2305,7 @@ Keberhasilan Toyota dalam mendorong pasar hybrid tidak hanya menguntungkan perus
 Masyarakat kini mulai melihat bahwa berkontribusi terhadap lingkungan tidak harus mengorbankan kenyamanan dan fleksibilitas perjalanan jauh. Mobil hybrid telah menjadi simbol gaya hidup baru yang cerdas: hemat di dompet, namun tetap berdampak besar bagi bumi.
 
 Kesimpulan
-Pertumbuhan pasar hybrid yang masif di Indonesia adalah bukti bahwa masyarakat sudah siap untuk berubah. Dengan strategi yang adaptif dan inklusif, Toyota berhasil membuktikan bahwa teknologi canggih bisa menjadi milik siapa saja. Masa depan otomotif Indonesia mungkin memang akan sepenuhnya listrik, namun untuk saat ini, teknologi hybrid adalah nakhoda yang sedang memimpin perjalanan transisi tersebut dengan sangat baik.",images/A118.jpg,Otomotif,AI,,
+Pertumbuhan pasar hybrid yang masif di Indonesia adalah bukti bahwa masyarakat sudah siap untuk berubah. Dengan strategi yang adaptif dan inklusif, Toyota berhasil membuktikan bahwa teknologi canggih bisa menjadi milik siapa saja. Masa depan otomotif Indonesia mungkin memang akan sepenuhnya listrik, namun untuk saat ini, teknologi hybrid adalah nakhoda yang sedang memimpin perjalanan transisi tersebut dengan sangat baik.",images/A118.jpg,Otomotif,AI,-,-
 A119,"Toyota Veloz Hybrid Meluncur di Bandung, Berapa Harganya?
 
 Toyota New Veloz Hybrid EV yang debut global di Indonesia pada akhir tahun lalu kini secara resmi meluncur di Bandung dan area Jawa Barat pada 25 Februari 2026. Model tersebut diklaim menjadi MPV hybrid paling kompetitif saat ini.
@@ -2357,7 +2357,7 @@ Tidak hanya unggul dalam efisiensi, Veloz Hybrid juga dibekali fitur keselamatan
 
 Dari sisi kenyamanan, mobil ini menawarkan kabin lapang dengan kapasitas tujuh penumpang. Dimensinya yang cukup besar memastikan ruang kaki dan kepala yang lega untuk semua penumpang. Tingkat kebisingan kabin juga berkurang signifikan berkat teknologi hybrid yang membuat mobil lebih sering beroperasi dalam mode senyap, terutama saat berhenti atau melaju pelan.
 
-Dengan harga kompetitif, teknologi canggih, dan efisiensi bahan bakar yang luar biasa, Veloz Hybrid siap menjadi primadona baru di segmen Low MPV Tanah Air. Kehadirannya diharapkan dapat mempercepat adopsi kendaraan ramah lingkungan di Indonesia tanpa mengorbankan kebutuhan dan kenyamanan keluarga.",images/A120.jpg,Otomotif,AI,,
+Dengan harga kompetitif, teknologi canggih, dan efisiensi bahan bakar yang luar biasa, Veloz Hybrid siap menjadi primadona baru di segmen Low MPV Tanah Air. Kehadirannya diharapkan dapat mempercepat adopsi kendaraan ramah lingkungan di Indonesia tanpa mengorbankan kebutuhan dan kenyamanan keluarga.",images/A120.jpg,Otomotif,AI,-,-
 A121,"Cara Dapat Diskon Pertamax Green di SPBU
 
 Bahan Bakar Minyak (BBM) Pertamax Green, bisa dibeli lebih murah selama beberapa bulan ke depan karena sedang ada potongan harga dari Pertamina.
@@ -2417,7 +2417,7 @@ Mengingat kuota promo yang terbatas hanya untuk 5.000 konsumen per hari, ada beb
 
 Ketiga, cari informasi SPBU yang menyediakan Pertamax Green 95 di dekat lokasi Anda melalui fitur pencarian di aplikasi. Keempat, lakukan transaksi dengan cepat dan pastikan potongan harga sudah muncul sebelum menyelesaikan pembayaran. Kelima, datanglah lebih awal karena kuota terbatas bisa cepat habis jika banyak peminat.
 
-Dengan memanfaatkan program Green Wednesday ini, masyarakat tidak hanya mendapatkan harga bahan bakar yang lebih hemat, tetapi juga turut berkontribusi dalam mendukung penggunaan energi yang lebih ramah lingkungan. Program ini berlaku terbatas hingga Maret 2026, jadi jangan lewatkan kesempatan untuk mengisi bahan bakar dengan harga lebih terjangkau setiap hari Rabu. Selamat mencoba dan semoga berhasil mendapatkan promonya.",images/A122.jpg,Otomotif,AI,,
+Dengan memanfaatkan program Green Wednesday ini, masyarakat tidak hanya mendapatkan harga bahan bakar yang lebih hemat, tetapi juga turut berkontribusi dalam mendukung penggunaan energi yang lebih ramah lingkungan. Program ini berlaku terbatas hingga Maret 2026, jadi jangan lewatkan kesempatan untuk mengisi bahan bakar dengan harga lebih terjangkau setiap hari Rabu. Selamat mencoba dan semoga berhasil mendapatkan promonya.",images/A122.jpg,Otomotif,AI,-,-
 A123,"Kawasaki KLE 500 Vs Morbidelli T502X, Motor Adventure Jepang dan China
 Kehadiran Kawasaki KLE 500 dan Morbidelli T502X membuat pilihan motor adventure semakin beragam. Keduanya sama-sama menyasar pengguna yang ingin motor serbaguna, tetapi dengan pendekatan yang berbeda. Dari sisi mesin, KLE 500 mengandalkan 451 cc parallel twin dengan tenaga 52 PS (51 TK) dan torsi 42,6 Nm. Sementara T502X dibekali mesin dua silinder 486 cc dengan tenaga 35 kW atau sekitar 47 TK dan torsi 45 Nm. Artinya, KLE 500 unggul dari sisi tenaga puncak, sedangkan T502X menawarkan torsi lebih besar. Karakter ini membuat Kawasaki lebih kuat di putaran atas, sementara Morbidelli lebih terasa di putaran menengah.
 
@@ -2448,7 +2448,7 @@ Kemampuan off-road ringan juga menjadi pertimbangan penting. Kawasaki KLE 500 di
 
 Dari sisi harga, motor asal China seperti Morbidelli biasanya menawarkan nilai lebih kompetitif dengan fitur yang lebih lengkap. Sementara Kawasaki KLE 500, yang umumnya tersedia dalam kondisi bekas, bisa menjadi pilihan bagi mereka yang mencari motor tangguh dengan biaya lebih terjangkau.
 
-Pada akhirnya, pilihan antara Kawasaki KLE 500 dan Morbidelli T502X bergantung pada kebutuhan dan preferensi pengendara. Jika menginginkan motor dengan reputasi ketahanan dan kemudahan perawatan, KLE 500 masih sangat layak dipertimbangkan. Namun, bagi yang mencari fitur modern dan tampilan kekinian, T502X bisa menjadi opsi menarik di segmen motor adventure saat ini.",images/A124.jpg,Otomotif,AI,,
+Pada akhirnya, pilihan antara Kawasaki KLE 500 dan Morbidelli T502X bergantung pada kebutuhan dan preferensi pengendara. Jika menginginkan motor dengan reputasi ketahanan dan kemudahan perawatan, KLE 500 masih sangat layak dipertimbangkan. Namun, bagi yang mencari fitur modern dan tampilan kekinian, T502X bisa menjadi opsi menarik di segmen motor adventure saat ini.",images/A124.jpg,Otomotif,AI,-,-
 A125,"[POPULER OTOMOTIF] Mobil Hybrid Terlaris, Bus Transjakarta Pakai ADAS
 Banyak pembaca ingin tahu tentang mobil hybrid terlaris di Indonesia per Februari 2026. Begitu pula dengan artikel mengenai uji irit Honda Step WGN e:HEV. Selain itu, banyak juga yang penasaran dengan Transjakarta yang melengkapi busnya dengan teknologi ADAS. Untuk lebih lengkapnya, berikut ini kumpulan artikel otomotif terpopuler pada Rabu (18/3/2026): 
 1. Mobil Hybrid Terlaris di Indonesia Februari 2026: Merek Jepang Dominan
@@ -2486,7 +2486,7 @@ Tren ini menunjukkan bahwa industri otomotif tidak hanya bergerak menuju elektri
 
 Ke depan, diperkirakan tren mobil hybrid akan terus berkembang seiring meningkatnya kesadaran masyarakat terhadap isu lingkungan. Sementara itu, penerapan teknologi seperti ADAS di transportasi publik diharapkan dapat menjadi standar baru yang diadopsi secara luas.
 
-Dengan berbagai inovasi tersebut, baik kendaraan pribadi maupun transportasi umum semakin menunjukkan transformasi menuju sistem mobilitas yang lebih ramah lingkungan, aman, dan efisien.",images/A126.jpg,Otomotif,AI,,
+Dengan berbagai inovasi tersebut, baik kendaraan pribadi maupun transportasi umum semakin menunjukkan transformasi menuju sistem mobilitas yang lebih ramah lingkungan, aman, dan efisien.",images/A126.jpg,Otomotif,AI,-,-
 A127,"Harga Minyak dan Gas Melonjak Tajam Akibat Serangan di Teluk
 
 Harga minyak dan gas alam melonjak tajam setelah serangan di Teluk Persia menimbulkan kerusakan besar pada fasilitas energi utama. Lonjakan ini menimbulkan kekhawatiran pasokan global dan potensi inflasi jangka panjang. Futures gas Eropa naik hingga 35 persen, lebih dari dua kali lipat dibandingkan sebelum perang. Harga minyak Brent menyentuh 119 dollar AS per barel, mendekati level tertinggi sejak 2022, sementara futures diesel Eropa sempat menembus 190 dollar AS per barel. Kerusakan Pabrik LNG Terbesar Dunia Dikutip dari Reuters, Kamis (19/3/2026), CEO QatarEnergy Saad al-Kaabi mengatakan serangan misil Iran di kompleks Ras Laffan, Qatar, merusak pabrik LNG terbesar di dunia. Fasilitas yang menghasilkan sekitar 17 persen ekspor LNG Qatar itu diperkirakan membutuhkan waktu 3–5 tahun untuk diperbaiki.
@@ -2527,7 +2527,7 @@ Daya Beli Masyarakat: Inflasi yang dipicu oleh sektor energi biasanya akan menek
 Masa Depan yang Penuh Ketidakpastian
 Para pemimpin dunia dan organisasi energi internasional kini tengah memantau situasi dengan saksama. Banyak pihak menyerukan pengamanan ekstra di jalur-jalur pelayaran internasional untuk menjamin kelancaran arus pasokan. Di saat yang sama, momentum ini kembali memperkuat argumen pentingnya diversifikasi sumber energi dan percepatan transisi ke energi terbarukan guna mengurangi ketergantungan ekstrem pada satu kawasan geopolitik yang rentan konflik.
 
-Peristiwa di Teluk ini menjadi pengingat keras bahwa stabilitas ekonomi global masih sangat rapuh terhadap gangguan di wilayah penghasil energi utama. Tanpa adanya de-eskalasi dalam waktu dekat, pelaku pasar harus bersiap menghadapi periode harga energi tinggi yang berkepanjangan. Bagi pemerintah di berbagai belahan dunia, tantangan besarnya adalah merumuskan kebijakan yang mampu melindungi rakyat dari hantaman inflasi tanpa mengganggu kesehatan fiskal negara.",images/A128.jpg,Ekonomi,AI,,
+Peristiwa di Teluk ini menjadi pengingat keras bahwa stabilitas ekonomi global masih sangat rapuh terhadap gangguan di wilayah penghasil energi utama. Tanpa adanya de-eskalasi dalam waktu dekat, pelaku pasar harus bersiap menghadapi periode harga energi tinggi yang berkepanjangan. Bagi pemerintah di berbagai belahan dunia, tantangan besarnya adalah merumuskan kebijakan yang mampu melindungi rakyat dari hantaman inflasi tanpa mengganggu kesehatan fiskal negara.",images/A128.jpg,Ekonomi,AI,-,-
 A129,"Bukan Cuma Minyak, Harga Aluminium Juga Naik Akibat Perang Iran
 
 Konflik antara Amerika Serikat (AS) dan Israel melawan Iran tidak hanya mendorong kenaikan harga minyak, tetapi juga memicu lonjakan tajam harga aluminium di pasar global. Dikutip dari CNBC, Kamis (19/3/2026), harga aluminium bahkan sempat menyentuh level tertinggi dalam empat tahun terakhir pada pekan lalu, seiring terganggunya rantai pasok di kawasan Timur Tengah. Padahal, aluminium merupakan salah satu logam paling melimpah di bumi. Meski demikian, perannya sangat krusial dalam perekonomian global, mulai dari industri elektronik, transportasi, konstruksi, hingga panel surya dan kemasan.
@@ -2566,7 +2566,7 @@ Para analis memperkirakan, jika konflik berlangsung lebih lama, tekanan terhadap
 
 Bagi negara berkembang seperti Indonesia, kondisi ini perlu diwaspadai. Kenaikan harga bahan baku impor dapat memengaruhi sektor industri dalam negeri, terutama yang bergantung pada aluminium sebagai material utama.
 
-Dengan situasi yang masih belum stabil, pasar global diperkirakan akan terus bergejolak. Perang Iran tidak hanya menjadi isu politik, tetapi juga faktor penting yang memengaruhi dinamika ekonomi dunia, termasuk harga berbagai komoditas strategis seperti aluminium.",images/A130.jpg,Ekonomi,AI,,
+Dengan situasi yang masih belum stabil, pasar global diperkirakan akan terus bergejolak. Perang Iran tidak hanya menjadi isu politik, tetapi juga faktor penting yang memengaruhi dinamika ekonomi dunia, termasuk harga berbagai komoditas strategis seperti aluminium.",images/A130.jpg,Ekonomi,AI,-,-
 A131,"Strategi Pertamina Jaga Pasokan Energi di Tengah Gejolak Global
 
 PT Pertamina (Persero) menyiapkan berbagai langkah mitigasi untuk menjaga ketersediaan energi di tengah dinamika global, termasuk konflik di kawasan Timur Tengah. Kondisi tersebut dinilai berdampak pada rantai pasok energi dunia, sehingga diperlukan dukungan semua pihak guna memastikan keberlanjutan pasokan BBM dan LPG.
@@ -2603,7 +2603,7 @@ Imbauan untuk Masyarakat
 
 Sebagai bagian dari upaya kolektif menjaga ketahanan energi, Pertamina mengajak masyarakat untuk turut berperan aktif. Penggunaan BBM dan LPG secara bijak serta menyesuaikan konsumsi dengan kebutuhan menjadi langkah sederhana namun berdampak besar. Masyarakat juga didorong untuk mulai memanfaatkan energi alternatif, seperti penggunaan peralatan listrik untuk memasak, agar konsumsi energi fosil bisa lebih efisien.
 
-Dinamika global saat ini merupakan tantangan eksternal yang harus dihadapi secara bersama-sama. Pemerintah, pelaku usaha, dan masyarakat perlu bersinergi menjaga ketahanan energi nasional. Dengan kombinasi strategi diversifikasi pasokan, pengawasan distribusi yang ketat, optimalisasi produksi dalam negeri, dan efisiensi konsumsi, Pertamina optimistis pasokan energi nasional tetap aman di tengah gejolak global yang masih belum mereda. Masyarakat diimbau untuk tidak panik dan tetap percaya bahwa ketersediaan BBM dan LPG terjamin selama periode ketidakpastian ini.",images/A132.jpg,Ekonomi,AI,,
+Dinamika global saat ini merupakan tantangan eksternal yang harus dihadapi secara bersama-sama. Pemerintah, pelaku usaha, dan masyarakat perlu bersinergi menjaga ketahanan energi nasional. Dengan kombinasi strategi diversifikasi pasokan, pengawasan distribusi yang ketat, optimalisasi produksi dalam negeri, dan efisiensi konsumsi, Pertamina optimistis pasokan energi nasional tetap aman di tengah gejolak global yang masih belum mereda. Masyarakat diimbau untuk tidak panik dan tetap percaya bahwa ketersediaan BBM dan LPG terjamin selama periode ketidakpastian ini.",images/A132.jpg,Ekonomi,AI,-,-
 A133,"Atlet ASEAN Para Games 2026 Dapat Bonus dari Kemenpora Rp365 Miliar Lewat BRI
 
 PT Bank Rakyat Indonesia (Persero) Tbk atau BRI kembali menegaskan komitmennya dalam mendukung ekosistem olahraga nasional melalui penyaluran bonus bagi atlet dan pelatih peraih medali pada ASEAN Para Games ke-13 di Thailand. Penyaluran dilakukan secara langsung ke rekening penerima pada Selasa (17/3), bekerja sama dengan Kementerian Pemuda dan Olahraga Republik Indonesia.
@@ -2634,7 +2634,7 @@ Apresiasi untuk Perjuangan Tanpa Batas
 
 Menteri Erick Thohir juga menyampaikan ucapan terima kasih yang tulus kepada para atlet. Ia menyebut mereka sebagai saudara-saudara yang sempurna dalam hati dan perjuangan. Para atlet disabilitas telah membuktikan bahwa keterbatasan fisik bukan penghalang untuk berprestasi dan mengharumkan nama bangsa. Mereka pantang menyerah, tidak pernah mengeluh, dan selalu berjuang demi Indonesia.
 
-Penghargaan ini diharapkan menjadi motivasi bagi seluruh insan olahraga Indonesia untuk terus berprestasi dan mengharumkan nama bangsa di kancah internasional. Dengan bonus yang diterima dan pendampingan finansial yang diberikan, para atlet diharapkan dapat meraih prestasi tidak hanya di arena pertandingan, tetapi juga dalam mengelola masa depan mereka. Pemerintah berkomitmen untuk terus mendukung pengembangan olahraga disabilitas di tanah air, memastikan bahwa setiap atlet mendapatkan kesempatan dan apresiasi yang layak atas perjuangan mereka.",images/A134.jpg,Ekonomi,AI,,
+Penghargaan ini diharapkan menjadi motivasi bagi seluruh insan olahraga Indonesia untuk terus berprestasi dan mengharumkan nama bangsa di kancah internasional. Dengan bonus yang diterima dan pendampingan finansial yang diberikan, para atlet diharapkan dapat meraih prestasi tidak hanya di arena pertandingan, tetapi juga dalam mengelola masa depan mereka. Pemerintah berkomitmen untuk terus mendukung pengembangan olahraga disabilitas di tanah air, memastikan bahwa setiap atlet mendapatkan kesempatan dan apresiasi yang layak atas perjuangan mereka.",images/A134.jpg,Ekonomi,AI,-,-
 A135,"Bank Mandiri Berangkatkan Lebih dari 10.000 Pemudik Lewat Program Mudik Bersama Gratis
 Menyambut Hari Raya Idul Fitri, Bank Mandiri kembali menghadirkan Program Mudik Bersama Gratis sebagai wujud nyata komitmen perusahaan dalam memperkuat nilai sosial dan memberikan manfaat langsung bagi masyarakat. Melalui program ini, Bank Mandiri menyelenggarakan rangkaian mudik bersama yang aman dan nyaman bagi masyarakat, sejalan dengan arahan pemerintah untuk mendukung penyelenggaraan mudik gratis bagi masyarakat. Pelaksanaan rangkaian mudik tahun ini dilaksanakan melalui kolaborasi erat dengan para pemangku kepentingan strategis, termasuk Badan Pengaturan BUMN (BP BUMN) dan Danantara, sejalan dengan tema “Mudik Aman Berbagi Harapan 2026” sebagai payung program, dalam memperkuat sinergi ekosistem guna memastikan kelancaran dan kenyamanan perjalanan masyarakat.
 
@@ -2662,7 +2662,7 @@ Tujuan keberangkatan mencakup berbagai kota di Jawa Tengah, Jawa Timur, hingga s
 
 Kegiatan ini merupakan agenda rutin tahunan yang terus dikembangkan oleh Bank Mandiri. Setiap tahunnya, jumlah peserta yang difasilitasi cenderung meningkat, seiring dengan tingginya antusiasme masyarakat.
 
-Ke depan, Bank Mandiri berencana untuk memperluas cakupan program ini agar bisa menjangkau lebih banyak daerah dan peserta. Dengan adanya program mudik gratis, diharapkan tradisi pulang kampung saat Lebaran dapat berlangsung dengan lebih aman, nyaman, dan terjangkau bagi seluruh lapisan masyarakat.",images/A136.jpg,Ekonomi,AI,,
+Ke depan, Bank Mandiri berencana untuk memperluas cakupan program ini agar bisa menjangkau lebih banyak daerah dan peserta. Dengan adanya program mudik gratis, diharapkan tradisi pulang kampung saat Lebaran dapat berlangsung dengan lebih aman, nyaman, dan terjangkau bagi seluruh lapisan masyarakat.",images/A136.jpg,Ekonomi,AI,-,-
 A137,"Vale Indonesia Catat Laba Bersih Rp 1,29 Triliun Per 2025
 
 PT Vale Indonesia (INCO) membukukan laba bersih sebesar 76,1 juta dollar AS sepanjang 2025. Angka ini setara Rp 1,29 triliun dengan asumsi kurs Rp 16.985 per dollar AS. Direktur & Chief Financial Officer PT Vale Indonesia Tbk, Rizky Putra mengatakan, laba bersih Vale Indonesia ini meningkat 32 persen secara tahunan dibandingkan periode yang sama tahun sebelumnya. ""Kinerja ini mencerminkan perbaikan operasional yang konsisten, level produksi yang lebih kuat, serta pendekatan yang disiplin dalam efisiensi biaya,"" kata dia dalam keterangan resmi, Kamis (19/3/2026).
@@ -2699,7 +2699,7 @@ Di tengah persaingan yang semakin ketat, Vale Indonesia juga aktif menjajaki pel
 
 Meski mencatatkan kinerja positif, perusahaan tetap menghadapi sejumlah tantangan, seperti volatilitas harga nikel dan perubahan kebijakan di sektor pertambangan. Namun, dengan strategi yang matang dan pengalaman yang dimiliki, Vale Indonesia diyakini mampu mempertahankan kinerja yang stabil.
 
-Keberhasilan mencatat laba bersih Rp1,29 triliun menjadi bukti bahwa Vale Indonesia mampu beradaptasi dengan perubahan pasar. Dengan prospek industri nikel yang masih cerah, perusahaan ini memiliki peluang besar untuk terus tumbuh dan memberikan kontribusi signifikan bagi perekonomian nasional.",images/A138.jpg,Ekonomi,AI,,
+Keberhasilan mencatat laba bersih Rp1,29 triliun menjadi bukti bahwa Vale Indonesia mampu beradaptasi dengan perubahan pasar. Dengan prospek industri nikel yang masih cerah, perusahaan ini memiliki peluang besar untuk terus tumbuh dan memberikan kontribusi signifikan bagi perekonomian nasional.",images/A138.jpg,Ekonomi,AI,-,-
 A139,"Tarif Tiket Pesawat Mahal, Pemudik Pilih Naik Bus untuk Mudik Lebaran
 Kenaikan tarif tiket pesawat menjelang Hari Raya Idul Fitri 1447 H membuat para pemudik memilih menggunakan bus sebagai moda transportasi pulang ke kampung halaman. Apalagi pemudik dengan tujuan antar provinsi, memilih bus merupakan pilihan logis di saat kenaikan tiket pesawat yang tak lagi terjangkau bagi masyarakat kelas menengah. Padahal tahun 2022, tiket pesawat Jakarta-Padang di kisaran Rp 900.000 per orang, namun kini naik drastis mencapai Rp 1,7 juta per orang.
 
@@ -2744,7 +2744,7 @@ Lonjakan permintaan ini tentu menjadi berkah sekaligus tantangan bagi para pemil
 
 Beralihnya pemudik dari moda transportasi udara ke darat menunjukkan bahwa masyarakat kita sangat adaptif dan pragmatis. Bus kini bukan lagi sekadar alternatif murah, melainkan solusi logis di tengah mahalnya biaya konektivitas udara. Selama infrastruktur darat terus membaik dan fasilitas armada bus tetap terjaga kualitasnya, bukan tidak mungkin tren mudik jalur darat akan terus mendominasi di tahun-tahun mendatang.
 
-Pada akhirnya, mudik adalah tentang sampai ke pelukan keluarga dengan selamat. Jalur apa pun yang dipilih, esensinya tetap sama: merayakan kemenangan di tanah kelahiran.",images/A140.jpg,Ekonomi,AI,,
+Pada akhirnya, mudik adalah tentang sampai ke pelukan keluarga dengan selamat. Jalur apa pun yang dipilih, esensinya tetap sama: merayakan kemenangan di tanah kelahiran.",images/A140.jpg,Ekonomi,AI,-,-
 A141,"Industri Garam Terancam Krisis akibat Pembatasan Kuota Impor
 
 Kebijakan pemerintah yang membatasi impor garam berpotensi menimbulkan dampak negatif bagi industri yang selama ini menggunakan komoditas tersebut sebagai bahan baku/penolong produksi. Seperti yang diketahui, belum lama ini Menteri Koordinator Bidang Pangan Zulkifli Hasan menyatakan, kuota impor garam khususnya untuk industri chlor alkali plant (CAP) dipangkas dari 2,5 juta ton menjadi 1,7 juta ton pada 2025. Di sisi lain, industri aneka pangan dan farmasi kini tidak lagi diperbolehkan impor garam. Pemerintah juga menghentikan impor garam konsumsi pada tahun ini.
@@ -2776,7 +2776,7 @@ Untuk menghindari krisis yang lebih dalam, diperlukan sinkronisasi data yang aku
 •        Relaksasi Kuota Proporsional: Memberikan izin impor secara bertahap hanya untuk spesifikasi yang benar-benar belum bisa diproduksi di dalam negeri, sembari menetapkan target waktu bagi industri untuk mulai menyerap produk lokal yang sudah ditingkatkan kualitasnya.
 Ancaman krisis garam adalah pengingat bahwa kemandirian ekonomi tidak bisa dicapai hanya dengan menutup pintu impor. Perlu ada sinergi yang kuat antara regulasi pemerintah, kesiapan teknologi petambak, dan dukungan sektor industri. Jika penanganan ini terlambat, harga garam industri yang melambung akan memicu kenaikan harga barang konsumsi di masyarakat. Kristal putih ini mungkin kecil bentuknya, namun tanpa kehadirannya, ekonomi nasional bisa kehilangan rasa dan kekuatannya.
 
-",images/A142.jpg,Ekonomi,AI,,
+",images/A142.jpg,Ekonomi,AI,-,-
 A143,"Pemerintah Tak Akan Naikkan Batas Defisit APBN di Atas 3 Persen
 Menteri Koordinator Bidang Perekonomian Airlangga Hartarto memastikan pemerintah tidak akan melebarkan batas defisit Anggaran Pendapatan dan Belanja Negara (APBN) di atas 3 persen.
 Alternatifnya, pemerintah akan menjaga defisit APBN melalui efisiensi belanja operasional serta peningkatan penerimaan negara. Hal itu disampaikan Airlangga menyusul rapat bersama Presiden Prabowo Subianto di Istana Negara, Kamis (19/3).
@@ -2840,7 +2840,7 @@ Belanja Berkualitas: Mengalihkan subsidi yang tidak tepat sasaran ke program-pro
 
 Investasi Swasta: Mendorong skema kerja sama pemerintah dan badan usaha (KPBU) agar beban pembangunan tidak seluruhnya tertumpu pada kantong negara.
 
-Ketegasan pemerintah untuk tetap mengunci defisit di bawah 3 persen adalah langkah berani yang patut diapresiasi. Ini adalah bukti bahwa pemerintah lebih memilih stabilitas jangka panjang daripada pertumbuhan semu yang ditopang oleh utang berlebih. Meski ruang gerak fiskal menjadi terbatas, disiplin ini akan menjadi tameng terkuat Indonesia dalam menghadapi guncangan ekonomi global yang sewaktu-waktu bisa datang kembali.",images/A144.jpg,Ekonomi,AI,,
+Ketegasan pemerintah untuk tetap mengunci defisit di bawah 3 persen adalah langkah berani yang patut diapresiasi. Ini adalah bukti bahwa pemerintah lebih memilih stabilitas jangka panjang daripada pertumbuhan semu yang ditopang oleh utang berlebih. Meski ruang gerak fiskal menjadi terbatas, disiplin ini akan menjadi tameng terkuat Indonesia dalam menghadapi guncangan ekonomi global yang sewaktu-waktu bisa datang kembali.",images/A144.jpg,Ekonomi,AI,-,-
 A145,"Airlangga Ungkap Permintaan Prabowo untuk Tambah Produksi Batu Bara
 Menteri Koordinator Bidang Perekonomian Airlangga Hartarto ungkapkan permintaan Presiden Prabowo Subianto untuk menambah produksi batu bara Tanah Air. Hal itu dilakukan untuk memitigasi risiko kenaikan harga Bahan Bakar Minyak (BBM) dan komoditas lain imbas perang di Timur Tengah.
 Permintaan tersebut secara tidak langsung mendorong pemerintah untuk melakukan pembaharuan dalam Rencana Kerja dan Anggaran Biaya (RKAB) tambang mineral dan batu bara 2026.
@@ -2892,7 +2892,7 @@ Meski fokus pada peningkatan produksi batu bara, pemerintah tetap menegaskan kom
 
 Sejumlah pengamat menilai bahwa kebijakan ini merupakan langkah pragmatis dalam menghadapi kondisi saat ini. Dengan kebutuhan energi yang terus meningkat, pemerintah perlu memastikan pasokan tetap aman sebelum beralih sepenuhnya ke sumber energi yang lebih ramah lingkungan.
 
-Ke depan, keseimbangan antara pemanfaatan sumber daya alam dan upaya menjaga kelestarian lingkungan akan menjadi tantangan utama. Arahan yang disampaikan oleh Prabowo Subianto melalui pernyataan Airlangga Hartarto ini mencerminkan upaya pemerintah dalam menjaga stabilitas energi sekaligus menghadapi tuntutan perubahan global.",images/A146.jpg,Ekonomi,AI,,
+Ke depan, keseimbangan antara pemanfaatan sumber daya alam dan upaya menjaga kelestarian lingkungan akan menjadi tantangan utama. Arahan yang disampaikan oleh Prabowo Subianto melalui pernyataan Airlangga Hartarto ini mencerminkan upaya pemerintah dalam menjaga stabilitas energi sekaligus menghadapi tuntutan perubahan global.",images/A146.jpg,Ekonomi,AI,-,-
 A147,"Ini Upaya Pertamina Hadapi Situasi Global
 Menghadapi dinamika global dan konflik Timur Tengah, PT Pertamina (Persero) telah menyiapkan berbagai langkah mitigasi sebagai upaya menjaga ketersediaan pasokan energi.
 Kondisi global mempengaruhi rantai pasok energi dunia, sehingga perlu dukungan dari seluruh pihak untuk menjaga keberlangsungan energi, termasuk BBM dan LPG.
@@ -2949,7 +2949,7 @@ Dinamika global saat ini merupakan tantangan eksternal yang perlu dihadapi bersa
 
 Pemanfaatan energi alternatif, seperti penggunaan peralatan listrik untuk memasak, juga didorong agar konsumsi energi lebih efisien. Langkah ini sejalan dengan imbauan Presiden untuk bersama-sama menjaga ketahanan energi nasional.
 
-Dengan kombinasi strategi diversifikasi pasokan, pengawasan distribusi yang ketat, optimalisasi produksi dalam negeri, dan efisiensi konsumsi, Pertamina optimistis pasokan energi nasional tetap aman di tengah gejolak global yang masih berlangsung. Masyarakat diimbau untuk tidak panik dan tetap percaya bahwa ketersediaan BBM dan LPG terjamin selama periode ketidakpastian ini.",images/A148.jpg,Ekonomi,AI,,
+Dengan kombinasi strategi diversifikasi pasokan, pengawasan distribusi yang ketat, optimalisasi produksi dalam negeri, dan efisiensi konsumsi, Pertamina optimistis pasokan energi nasional tetap aman di tengah gejolak global yang masih berlangsung. Masyarakat diimbau untuk tidak panik dan tetap percaya bahwa ketersediaan BBM dan LPG terjamin selama periode ketidakpastian ini.",images/A148.jpg,Ekonomi,AI,-,-
 A149,"Setiap Perjuangan Layak Ditemani: Perjalanan Ibu Wulan Bangkit dari Titik Terendah hingga Memiliki Rumah Sendiri
 
 Di sudut Denpasar, Bali, kisah Ibu Wulan menjadi potret tentang bagaimana keteguhan bisa tumbuh dari situasi yang paling sulit. Pernah berada pada masa ketika ia tidak memiliki pekerjaan, kesulitan untuk membayar biaya sekolah anak, bahkan belum memiliki rumah, Ibu Wulan memilih untuk tidak menyerah pada keadaan. Dari usaha sederhana berjualan daun jeruk untuk bahan masak, ia memulai langkah kecilnya untuk bertahan. Dalam perjalanan itu, ia tidak berjalan sendiri. Pendampingan dari petugas PNM Mekaar yang akrab sebagai “kakak-kakak putih biru” menjadi bagian penting yang menguatkannya, sekaligus memperkenalkan dirinya dengan sesama ibu-ibu yang saling memberi semangat untuk terus berjuang.
@@ -2990,7 +2990,7 @@ Pesan untuk Mereka yang Masih Berjuang
 
 Ibu Wulan memiliki pesan sederhana bagi siapa pun yang saat ini sedang berada di titik terendah hidupnya. Jangan pernah menyerah pada keadaan. Selalu ada jalan bagi mereka yang mau berusaha dan tidak berhenti berharap. Kadang jalan itu datang dari arah yang tidak kita duga, seperti program bantuan yang mengubah hidupnya.
 
-Kisah Ibu Wulan membuktikan bahwa setiap perjuangan layak untuk ditemani dan diperjuangkan. Tidak ada usaha yang sia-sia selama kita melakukannya dengan hati yang tulus dan tekad yang kuat. Rumah sederhana itu kini berdiri kokoh sebagai simbol kegigihan seorang ibu yang tidak pernah menyerah pada keadaan, dan menjadi bukti bahwa mimpi bisa menjadi nyata jika kita mau berusaha.",images/A150.jpg,Ekonomi,AI,,
+Kisah Ibu Wulan membuktikan bahwa setiap perjuangan layak untuk ditemani dan diperjuangkan. Tidak ada usaha yang sia-sia selama kita melakukannya dengan hati yang tulus dan tekad yang kuat. Rumah sederhana itu kini berdiri kokoh sebagai simbol kegigihan seorang ibu yang tidak pernah menyerah pada keadaan, dan menjadi bukti bahwa mimpi bisa menjadi nyata jika kita mau berusaha.",images/A150.jpg,Ekonomi,AI,-,-
 A151,"Siapkan “Tameng” Hadapi Investigasi AS Soal Dumping hingga Forced Labor, Pemerintah Klaim Sudah Punya Senjata Regulasi
 Pemerintah Indonesia mulai menyusun langkah taktis menghadapi investigasi dagang Amerika Serikat yang menyoroti isu kelebihan kapasitas produksi (excess capacity) hingga dugaan praktik kerja paksa (forced labor). Di tengah tekanan tersebut, pemerintah menegaskan posisi Indonesia tidak melakukan praktik dumping dan telah memiliki perangkat hukum yang memadai.
 
@@ -3020,7 +3020,7 @@ Di luar aspek teknis regulasi, Indonesia juga melancarkan diplomasi proaktif. Pe
 
 Pemerintah juga mendorong para pelaku usaha untuk lebih melek terhadap standar ESG (Environmental, Social, and Governance). Standar ini kini menjadi ""paspor"" utama agar produk lokal bisa diterima di pasar negara maju tanpa harus tersandung isu-isu non-tarif yang merugikan.
 
-Menghadapi investigasi AS adalah ujian bagi kematangan industri dan regulasi nasional. Klaim pemerintah mengenai kesiapan ""senjata"" regulasi memberikan angin segar, namun implementasi di lapangan tetap menjadi kunci penentu. Jika Indonesia berhasil mematahkan tuduhan tersebut, ini akan menjadi momentum besar untuk meningkatkan kredibilitas produk nasional di kancah global. Sebaliknya, ini adalah pengingat bahwa di pasar internasional, kualitas produk saja tidak cukup; kepatuhan terhadap standar etika dan hukum internasional adalah keharusan yang tidak bisa ditawar.",images/A152.jpg,Ekonomi,AI,,
+Menghadapi investigasi AS adalah ujian bagi kematangan industri dan regulasi nasional. Klaim pemerintah mengenai kesiapan ""senjata"" regulasi memberikan angin segar, namun implementasi di lapangan tetap menjadi kunci penentu. Jika Indonesia berhasil mematahkan tuduhan tersebut, ini akan menjadi momentum besar untuk meningkatkan kredibilitas produk nasional di kancah global. Sebaliknya, ini adalah pengingat bahwa di pasar internasional, kualitas produk saja tidak cukup; kepatuhan terhadap standar etika dan hukum internasional adalah keharusan yang tidak bisa ditawar.",images/A152.jpg,Ekonomi,AI,-,-
 A153,"Wamen ESDM Cek Langsung Kesiapan Distribusi Energi di Jawa Barat, PPN Pastikan Pasokan Aman Hadapi Arus Mudik
 
 Kementerian Energi dan Sumber Daya Mineral (ESDM) bersama Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) meninjau langsung ke Fuel Terminal Padalarang dan fasilitas SPPBE Patra Trading di kawasan tersebut pada Senin (16/3). Peninjauan Kementerian ESDM dan BPH Migas itu bertujuan memastikan kesiapan infrastruktur penyaluran bahan bakar minyak (BBM) dan LPG agar mampu memenuhi kebutuhan masyarakat, khususnya di wilayah Bandung Raya dan sekitarnya selama periode mudik Lebaran.
@@ -3052,7 +3052,7 @@ Wamen ESDM mengapresiasi koordinasi yang terjalin antara operator energi dengan 
 
 Pemerintah juga menghimbau masyarakat untuk melakukan pengisian bahan bakar secara penuh sebelum memasuki jalur tol yang panjang dan memanfaatkan aplikasi digital untuk memantau lokasi SPBU terdekat yang tidak terlalu antre.
 
-Kesiapan distribusi energi di Jawa Barat menjadi tolok ukur keberhasilan manajemen mudik secara nasional. Dengan pengawasan ketat dari kementerian terkait dan jaminan pasokan yang solid dari operator di lapangan, diharapkan arus mudik tahun ini dapat berjalan lancar tanpa gangguan energi. Perjalanan menuju kampung halaman bukan sekadar ritual tahunan, namun merupakan momentum kebahagiaan yang harus didukung oleh ketahanan energi yang tangguh dan tak terputus.",images/A154.jpg,Ekonomi,AI,,
+Kesiapan distribusi energi di Jawa Barat menjadi tolok ukur keberhasilan manajemen mudik secara nasional. Dengan pengawasan ketat dari kementerian terkait dan jaminan pasokan yang solid dari operator di lapangan, diharapkan arus mudik tahun ini dapat berjalan lancar tanpa gangguan energi. Perjalanan menuju kampung halaman bukan sekadar ritual tahunan, namun merupakan momentum kebahagiaan yang harus didukung oleh ketahanan energi yang tangguh dan tak terputus.",images/A154.jpg,Ekonomi,AI,-,-
 A155,"Ruang Terbuka Hijau Jakarta Makin Berkualitas Berkat Dukungan Pajak Warga
 Di tengah kepadatan aktivitas Ibu Kota, ruang terbuka hijau menjadi oase yang menghadirkan jeda bagi masyarakat. Taman-taman kota tidak hanya berfungsi sebagai ruang rekreasi, tetapi juga menjadi ruang sosial yang mempertemukan warga untuk berinteraksi, berolahraga, hingga memulihkan energi di sela rutinitas harian. Keberadaan ruang terbuka hijau tersebut tidak terlepas dari kontribusi kolektif masyarakat melalui Pajak Daerah. Pajak yang dibayarkan warga menjadi salah satu sumber pendanaan penting dalam pembangunan, revitalisasi, dan pemeliharaan taman-taman kota di Jakarta.
 
@@ -3081,7 +3081,7 @@ Keberadaan ruang terbuka hijau yang berkualitas juga memberikan dampak positif t
 
 Pemerintah pun berkomitmen untuk terus menambah luas RTH di Jakarta, sejalan dengan target pembangunan kota yang lebih hijau dan berkelanjutan. Dengan dukungan pajak dari masyarakat, berbagai program pengembangan dapat terus berjalan dan memberikan manfaat nyata.
 
-Ke depan, sinergi antara pemerintah dan warga menjadi kunci utama dalam menjaga kualitas ruang terbuka hijau. Dengan pengelolaan yang transparan dan partisipasi aktif masyarakat, Jakarta dapat terus menghadirkan ruang publik yang tidak hanya indah, tetapi juga memberikan manfaat bagi lingkungan dan kehidupan sosial warganya.",images/A156.jpg,Ekonomi,AI,,
+Ke depan, sinergi antara pemerintah dan warga menjadi kunci utama dalam menjaga kualitas ruang terbuka hijau. Dengan pengelolaan yang transparan dan partisipasi aktif masyarakat, Jakarta dapat terus menghadirkan ruang publik yang tidak hanya indah, tetapi juga memberikan manfaat bagi lingkungan dan kehidupan sosial warganya.",images/A156.jpg,Ekonomi,AI,-,-
 A157,"Investor dan Pengelola JCC Nyatakan Tunduk pada Perjanjian Kerja Sama Tahun 1991
 PT Graha Sidang Pratama (GSP), investor dan pengelola Jakarta Convention Center (JCC) menyatakan tetap berpegang teguh pada Perjanjian Kerja Sama Bangun Guna Serah (Build Operate Transfer/BOT) yang ditandatangani tahun 1991. Dalam perjanjian tersebut, perusahaan memiliki pilihan pertama untuk memperpanjang kontrak setelah perjanjian kerja sama berakhir pada 21 Oktober 2024. Pada saat PT GSP (dulu PT Indobuildco) menandatangani kesepakatan dengan Pusat Pengelolaan Komplek Gelora Bung Karno atau PPKGBK (dulu Badan Pengelola Gelanggang Olahraga Senayan/BPGS), terdapat sejumlah klausul yang mengikat kedua pihak.
 
@@ -3123,7 +3123,7 @@ Majelis hakim yang menangani perkara ini telah mengimbau kedua belah pihak untuk
 
 Dalam gugatannya, PT GSP meminta agar perjanjian kerja sama diperpanjang. Jika tidak dipenuhi, perusahaan menuntut ganti rugi materil dan imaterial senilai Rp1,6 triliun atas potensi kehilangan pendapatan dan kerugian akibat pemutusan kontrak secara sepihak.
 
-Sengketa ini menjadi ujian penting bagi kepastian hukum dan iklim investasi di Indonesia. Di satu sisi, negara berhak mengelola asetnya sendiri. Di sisi lain, investor menuntut agar hak-hak yang dijamin dalam kontrak yang telah berjalan puluhan tahun dihormati. Putusan pengadilan nantinya akan menjadi titik terang bagi masa depan JCC dan kepercayaan investor terhadap komitmen pemerintah dalam mematuhi kesepakatan yang telah dibuat.",images/A158.jpg,Ekonomi,AI,,
+Sengketa ini menjadi ujian penting bagi kepastian hukum dan iklim investasi di Indonesia. Di satu sisi, negara berhak mengelola asetnya sendiri. Di sisi lain, investor menuntut agar hak-hak yang dijamin dalam kontrak yang telah berjalan puluhan tahun dihormati. Putusan pengadilan nantinya akan menjadi titik terang bagi masa depan JCC dan kepercayaan investor terhadap komitmen pemerintah dalam mematuhi kesepakatan yang telah dibuat.",images/A158.jpg,Ekonomi,AI,-,-
 A159,"Catat, Perusahaan Asuransi Tak Bisa Batalkan Klaim Sepihak
 Mahkamah Konstitusi (MK) mengabulkan permohonan uji materi atau judicial review terkait Pasal 251 Kitab Undang-Undang Hukum Dagang (KUHD) yang dimohonkan oleh pemohon Maribati Duha, pada Jumat (3/1/2025) lalu. Adapun permohonan itu terdaftar dengan nomor perkara 83/PUU-XXII/2024. Dalam amar putusan, MK menyatakan bahwa norma Pasal 251 KUHD yang dimohonkan oleh pemohon merupakan inkonstitusional bersyarat. Dengan demikian, diputuskan perusahaan asuransi tidak bisa membatalkan klaim secara sepihak.
 
@@ -3159,7 +3159,7 @@ Langkah tegas ini juga sejalan dengan sektor putusan pengadilan. Dalam Putusan M
 Imbauan untuk Masyarakat
 Dengan adanya perubahan ini, masyarakat diimbau untuk lebih cermat membaca polis saat akan membeli produk asuransi. Jika terjadi sengketa atau penolakan klaim yang dirasa tidak adil, pemegang polis berhak untuk meminta penjelasan tertulis mengenai alasan penolakan klaim, mengajukan keberatan melalui mekanisme internal perusahaan, serta melapor ke OJK atau memanfaatkan Lembaga Alternatif Penyelesaian Sengketa Sektor Jasa Keuangan jika tidak ada penyelesaian.
 
-Perubahan regulasi ini menjadi angin segar bagi industri asuransi Indonesia. Langkah ini diharapkan mampu mengembalikan kepercayaan masyarakat serta memastikan bahwa asuransi benar-benar berfungsi sebagai pelindung risiko, bukan sebaliknya.",images/A160.jpg,Ekonomi,AI,,
+Perubahan regulasi ini menjadi angin segar bagi industri asuransi Indonesia. Langkah ini diharapkan mampu mengembalikan kepercayaan masyarakat serta memastikan bahwa asuransi benar-benar berfungsi sebagai pelindung risiko, bukan sebaliknya.",images/A160.jpg,Ekonomi,AI,-,-
 A161,"Bos Danantara Sebut Krakatau Steel Mulai Sehat Usai Disuntik Rp4,9 T
 Chief Operating Officer (COO) Danantara Dony Oskaria membeberkan kondisi terkini PT Krakatau Steel (Persero) Tbk (KRAS) usai menerima suntikan dana sebesar Rp4,9 triliun dari PT Danantara Aset Management (Persero).
 Dony mengatakan Krakatau Steel saat ini bergerak menuju kondisi finansial yang lebih sehat setelah menjalani berbagai langkah transformasi.
@@ -3200,7 +3200,7 @@ Tantangan tetap ada, terutama dari sisi persaingan global dan fluktuasi harga ba
 
 Dengan kondisi yang mulai membaik, Krakatau Steel diharapkan dapat kembali menjadi salah satu pilar penting dalam industri baja nasional. Dukungan dari berbagai pihak, termasuk pemerintah dan investor, akan sangat menentukan keberlanjutan pemulihan ini.
 
-Perbaikan yang mulai terlihat pada Krakatau Steel menjadi sinyal positif bagi industri dalam negeri. Jika tren ini terus berlanjut, bukan tidak mungkin perusahaan akan kembali mencatatkan kinerja yang lebih kuat dan berkontribusi lebih besar terhadap perekonomian nasional.",images/A162.jpg,Ekonomi,AI,,
+Perbaikan yang mulai terlihat pada Krakatau Steel menjadi sinyal positif bagi industri dalam negeri. Jika tren ini terus berlanjut, bukan tidak mungkin perusahaan akan kembali mencatatkan kinerja yang lebih kuat dan berkontribusi lebih besar terhadap perekonomian nasional.",images/A162.jpg,Ekonomi,AI,-,-
 A163,"Rupiah Melemah ke Rp16.970, Tekanan Konflik Timur Tengah dan Lonjakan Minyak Bayangi Pasar
 Nilai tukar rupiah kembali menunjukkan pelemahan pada awal perdagangan pekan ini. Pada Senin, 16 Maret 2026, rupiah melemah sebesar 12 poin atau 0,07 persen ke posisi Rp16.970 per dolar AS. Angka tersebut lebih rendah dibandingkan penutupan sebelumnya yang berada di level Rp16.958 per dolar AS. Pelemahan ini mencerminkan tekanan eksternal yang masih membayangi pasar keuangan global, terutama akibat konflik di Timur Tengah.
 Konflik Timur Tengah Tekan Sentimen Pasar 
@@ -3236,7 +3236,7 @@ Beban Subsidi APBN: Kenaikan harga minyak mentah internasional memberikan tekana
 Respon Bank Indonesia
 Menanggapi volatilitas ini, Bank Indonesia (BI) diprediksi akan terus bersiaga di pasar untuk melakukan intervensi guna menjaga stabilitas nilai tukar. Para analis memperkirakan bahwa selama tensi di Timur Tengah belum mendingin, rupiah masih akan bergerak fluktuatif dalam rentang Rp16.900 hingga Rp17.050.
 
-Masyarakat dan pelaku usaha kini diimbau untuk tetap waspada terhadap potensi kenaikan harga barang impor (imported inflation) jika pelemahan ini terus berlanjut dalam jangka menengah. Stabilitas ekonomi nasional kini sangat bergantung pada seberapa cepat ketegangan geopolitik global dapat diredam.",images/A164.jpg,Ekonomi,AI,,
+Masyarakat dan pelaku usaha kini diimbau untuk tetap waspada terhadap potensi kenaikan harga barang impor (imported inflation) jika pelemahan ini terus berlanjut dalam jangka menengah. Stabilitas ekonomi nasional kini sangat bergantung pada seberapa cepat ketegangan geopolitik global dapat diredam.",images/A164.jpg,Ekonomi,AI,-,-
 A165,"Serbuan Dolar AS Tekan Asia: Rupiah Melemah, Yen Jadi Korban Terdalam
 
 Mayoritas mata uang Asia tak mampu menahan tekanan dolar Amerika Serikat (AS) hingga penutupan perdagangan pekan ini, Jumat (20/2/2026). Penguatan Dolar AS yang konsisten membuat hampir seluruh mata uang kawasan bergerak di zona merah, mencerminkan derasnya arus modal global kembali ke aset berbasis greenback. Dalam sepekan terakhir, hanya Ringgit Malaysia yang berhasil mencatatkan penguatan tipis sebesar 0,13%. Sementara itu, mata uang lain masih berada dalam tren koreksi. Rupiah ikut melemah 0,21% ke level Rp16.860 per dolar AS, sedangkan Yen Jepang menjadi yang paling tertekan dengan penurunan hingga 1,62%.
@@ -3281,7 +3281,7 @@ Bagi masyarakat, pelemahan rupiah berarti daya beli terhadap produk impor menuru
 Prospek ke Depan
 Pelaku pasar kini menanti sejumlah data ekonomi AS selanjutnya untuk menentukan arah kebijakan The Fed. Jika inflasi menunjukkan tanda-tanda melandai lebih cepat, tekanan terhadap mata uang Asia bisa mulai mereda. Namun selama suku bunga AS masih tinggi dan ekonomi Negeri Paman Sam tetap solid, dolar cenderung akan terus mendominasi.
 
-Bank sentral di kawasan Asia pun dituntut untuk waspada. Selain menjaga stabilitas melalui intervensi, penguatan koordinasi kebijakan dan upaya meningkatkan cadangan devisa menjadi langkah-langkah yang terus dimatangkan. Para pelaku pasar berharap tekanan terhadap mata uang Asia tidak berlarut-larut mengingat dampaknya yang luas terhadap stabilitas ekonomi regional.",images/A166.jpg,Ekonomi,AI,,
+Bank sentral di kawasan Asia pun dituntut untuk waspada. Selain menjaga stabilitas melalui intervensi, penguatan koordinasi kebijakan dan upaya meningkatkan cadangan devisa menjadi langkah-langkah yang terus dimatangkan. Para pelaku pasar berharap tekanan terhadap mata uang Asia tidak berlarut-larut mengingat dampaknya yang luas terhadap stabilitas ekonomi regional.",images/A166.jpg,Ekonomi,AI,-,-
 A167,"Banjir Grobogan Ganggu Perjalanan Kereta, KAI Kembalikan 100 Persen Tiket Pelanggan
 PT Kereta Api Indonesia (KAI) mengumumkan pengembalian tiket penuh bagi pelanggan yang terdampak pembatalan perjalanan akibat banjir yang melanda jalur kereta api di Kabupaten Grobogan, Jawa Tengah. Banjir yang terjadi pada Selasa (21/1/2025) di petak jalan antara Stasiun Gubug dan Stasiun Karangjati ini mengakibatkan sejumlah perjalanan kereta api dibatalkan. ""Bagi pelanggan yang terdampak akibat pembatalan perjalanan kereta api, mereka dapat membatalkan tiketnya di stasiun dan bea tiket akan dikembalikan 100 persen (di luar biaya pemesanan),"" kata VP Public Relations KAI Anne Purba dalam pernyataan resmi.
 
@@ -3319,7 +3319,7 @@ Bagi yang memilih datang langsung ke stasiun, petugas loket akan membantu proses
 Perbaikan dan Normalisasi Jalur
 Tim KAI terus bekerja maksimal untuk mempercepat normalisasi jalur. Sebanyak ratusan petugas tanggap darurat dikerahkan setiap harinya, ditambah alat berat dan material pendukung untuk menangani kerusakan. Meskipun beberapa titik sudah dapat dilalui dengan kecepatan terbatas, kepadatan di lintas masih terjadi dan akan terurai secara bertahap.
 
-KAI memastikan keselamatan pelanggan tetap menjadi prioritas utama. Setiap jalur yang akan dilalui kereta api melalui pemeriksaan teknis menyeluruh sebelum dinyatakan aman. Masyarakat pengguna jasa kereta api diimbau untuk terus memantau informasi terkini melalui kanal resmi KAI serta mempertimbangkan waktu perjalanan mengingat potensi penyesuaian operasional yang masih berlangsung.",images/A168.jpg,Ekonomi,AI,,
+KAI memastikan keselamatan pelanggan tetap menjadi prioritas utama. Setiap jalur yang akan dilalui kereta api melalui pemeriksaan teknis menyeluruh sebelum dinyatakan aman. Masyarakat pengguna jasa kereta api diimbau untuk terus memantau informasi terkini melalui kanal resmi KAI serta mempertimbangkan waktu perjalanan mengingat potensi penyesuaian operasional yang masih berlangsung.",images/A168.jpg,Ekonomi,AI,-,-
 A169,"Kinerja Saham Perbankan Diprediksi Masih Kuat Tahun Ini, Apa Penopangnya?
 
 Saham perbankan emiten diperkirakan di Bursa Efek Indonesia (BEI) diperkirakan masih akan menunjukkan performa kuat tahun ini. Berdasarkan riset dari CGS International (CGSI) yang ditulis oleh analis Handy Noverdanius dan Owen Chandra, perbankan nasional memang masih mengalami tantangan dalam waktu dekat yaitu keketatan likuiditas. Akan tetapi, profitabilitas perbankan diproyeksikan tetap kuat. “NIM (Net Interest Margin atau marjin bunga bersih akan tetap kuat sepanjang 2025. Kami meyakini bahwa perbankan akan lebih rasional dalam ‘mengejar’ volume kredit tahun ini dibandingkan dengan 2 tahun terakhir, sejak pembukaan kembali aktivitas ekonomi usai pandemi Covid-19,” kata Handy dan Owen dalam risetnya, dikutip pada Rabu (22/1/2025).
@@ -3350,7 +3350,7 @@ Di sisi eksternal, stabilitas ekonomi domestik menjadi katalis penting. Inflasi 
 
 Meski demikian, pelaku pasar tetap perlu mencermati sejumlah risiko, seperti ketidakpastian ekonomi global dan potensi perubahan kebijakan moneter. Fluktuasi nilai tukar serta dinamika geopolitik juga bisa memengaruhi sentimen investor terhadap pasar saham, termasuk sektor perbankan.
 
-Secara keseluruhan, dengan fundamental yang kuat dan dukungan berbagai faktor positif, saham perbankan diprediksi masih menjadi salah satu pilihan menarik bagi investor tahun ini. Namun, strategi investasi yang bijak dan analisis yang matang tetap diperlukan untuk mengantisipasi berbagai kemungkinan yang dapat terjadi di pasar.",images/A170.jpg,Ekonomi,AI,,
+Secara keseluruhan, dengan fundamental yang kuat dan dukungan berbagai faktor positif, saham perbankan diprediksi masih menjadi salah satu pilihan menarik bagi investor tahun ini. Namun, strategi investasi yang bijak dan analisis yang matang tetap diperlukan untuk mengantisipasi berbagai kemungkinan yang dapat terjadi di pasar.",images/A170.jpg,Ekonomi,AI,-,-
 A171,"Pendapatan United Tractors Naik 5 Persen di 2024, Capai Rp 134,4 Triliun
 PT United Tractors Tbk (UNTR) mencatat laba bersih sebesar Rp 19,5 triliun pada tahun 2024, turun 5 persen dari Rp 20,6 triliun pada tahun sebelumnya. Penurunan ini terutama disebabkan oleh turunnya laba kotor dari bisnis pertambangan batu bara termal dan metalurgi, serta meningkatnya beban bunga. Meski demikian, United Tractors tetap membukukan kenaikan pendapatan bersih sebesar 5 persen menjadi Rp 134,4 triliun dari Rp128,6 triliun pada 2023. Presiden Direktur United Tractors, Frans Kesuma, melalui keterangan pers, Kamis (27/2/2025) menyatakan bahwa pertumbuhan ini didorong oleh kinerja positif di beberapa segmen usaha, terutama pertambangan emas dan mineral lainnya.
 Kinerja Segmen Usaha United Tractors 2024 
@@ -3389,7 +3389,7 @@ Manajemen perusahaan juga dinilai berhasil menjaga keseimbangan antara pertumbuh
 
 Ke depan, United Tractors diperkirakan masih memiliki peluang untuk melanjutkan tren positif. Dukungan dari proyek infrastruktur nasional, kebutuhan energi, serta potensi pengembangan bisnis baru menjadi modal penting bagi perusahaan. Namun demikian, tantangan seperti fluktuasi harga komoditas, perubahan regulasi, serta tekanan ekonomi global tetap perlu diantisipasi.
 
-Secara keseluruhan, pertumbuhan pendapatan yang dicatatkan pada 2024 menunjukkan bahwa United Tractors mampu mempertahankan daya saingnya. Dengan strategi yang adaptif dan portofolio bisnis yang beragam, perusahaan ini dinilai berada pada posisi yang cukup kuat untuk menghadapi peluang dan tantangan di masa mendatang.",images/A172.jpg,Ekonomi,AI,,
+Secara keseluruhan, pertumbuhan pendapatan yang dicatatkan pada 2024 menunjukkan bahwa United Tractors mampu mempertahankan daya saingnya. Dengan strategi yang adaptif dan portofolio bisnis yang beragam, perusahaan ini dinilai berada pada posisi yang cukup kuat untuk menghadapi peluang dan tantangan di masa mendatang.",images/A172.jpg,Ekonomi,AI,-,-
 A173,"Walmart Masuk Geng Nvidia Cs Jadi Perusahaan Bernilai Rp16.777 T
 Raksasa ritel asal Amerika Serikat (AS) Walmart resmi menorehkan sejarah baru di pasar modal dengan menembus kapitalisasi pasar saham senilai US$1 triliun atau setara Rp16.777 triliun, pada perdagangan Selasa (3/2).
 Melansir Reuters, saham Walmart terus naik dalam setahun terakhir nyaris 26 persen. Capaian itu sekaligus menjadikan Walmart sebagai peritel pertama di dunia yang masuk jajaran perusahaan bernilai triliunan. Sejauh ini, kategori tersebut didominasi perusahaan teknologi seperti Apple, Microsoft, Nvidia hingga Amazon.
@@ -3431,7 +3431,7 @@ Diversifikasi Pendapatan: Selain menjual barang, Walmart kini merambah bisnis ik
 Simbol Ketangguhan Ekonomi
 Masuknya Walmart ke ""Geng Nvidia Cs"" memberikan pesan kuat bahwa inovasi tidak hanya milik perusahaan Silicon Valley. Keberhasilan ini membuktikan bahwa perusahaan ""ekonomi lama"" pun bisa mencapai valuasi fantastis jika mampu beradaptasi dengan teknologi masa depan.
 
-Saat ini, dengan kapitalisasi pasar di atas 1 triliun dolar AS, Walmart menjadi bukti nyata bahwa sektor konsumsi tetap menjadi tulang punggung ekonomi global yang solid, terutama ketika dikawinkan dengan kecanggihan kecerdasan buatan. Bagi para pengamat pasar, fenomena ini menandai era baru di mana batas antara perusahaan retail dan perusahaan teknologi menjadi semakin kabur.",images/A174.jpg,Ekonomi,AI,,
+Saat ini, dengan kapitalisasi pasar di atas 1 triliun dolar AS, Walmart menjadi bukti nyata bahwa sektor konsumsi tetap menjadi tulang punggung ekonomi global yang solid, terutama ketika dikawinkan dengan kecanggihan kecerdasan buatan. Bagi para pengamat pasar, fenomena ini menandai era baru di mana batas antara perusahaan retail dan perusahaan teknologi menjadi semakin kabur.",images/A174.jpg,Ekonomi,AI,-,-
 A175,"Kenaikan Harga Minyak Jadi Momentum Emas Kebut Implementasi B50
 Ekonom menilai tren kenaikan harga minyak global bisa menjadi momentum tepat untuk mempercepat penerapan kebijakan biodiesel 50 persen atau B50. Harga minyak dunia terus mengalami peningkatan akibat eskalasi ketegangan geopolitik di Timur Tengah.
 Direktur Eksekutif Palm Oil Agribusiness Strategic Policy Institute (PASPI) atau lembaga Studi Kebijakan dan Strategi Agribisnis Minyak Sawit, Tungkot Sipayung menyatakan B50 merupakan bahan bakar campuran yang terdiri atas 50 persen solar dan 50 persen bahan bakar nabati berbasis kelapa sawit.
@@ -3491,7 +3491,7 @@ Dampak Multiplier bagi Nasional
 Keberhasilan implementasi B50 akan menciptakan efek domino yang positif. Selain memperkuat ketahanan energi, langkah ini merupakan kontribusi nyata Indonesia dalam menurunkan emisi karbon global. Sebagai produsen sawit terbesar di dunia, Indonesia memiliki daya tawar tinggi untuk mendikte pasar energi hijau dunia, bukan lagi sekadar menjadi pengikut tren global.
 
 Kesimpulan
-Momentum kenaikan harga minyak saat ini harus dijawab dengan keberanian politik dan teknis untuk mempercepat transisi energi. B50 adalah senjata strategis yang dapat mengubah krisis energi global menjadi peluang kemandirian ekonomi. Jika dieksekusi dengan tepat, Indonesia tidak hanya akan selamat dari guncangan harga minyak, tetapi juga tampil sebagai pemimpin dalam revolusi energi terbarukan berbasis nabati.",images/A176.jpg,Ekonomi,AI,,
+Momentum kenaikan harga minyak saat ini harus dijawab dengan keberanian politik dan teknis untuk mempercepat transisi energi. B50 adalah senjata strategis yang dapat mengubah krisis energi global menjadi peluang kemandirian ekonomi. Jika dieksekusi dengan tepat, Indonesia tidak hanya akan selamat dari guncangan harga minyak, tetapi juga tampil sebagai pemimpin dalam revolusi energi terbarukan berbasis nabati.",images/A176.jpg,Ekonomi,AI,-,-
 A177,"DPR Sebut Program 3 Juta Rumah Dukung Industri Semen Nasional
 Komisi VI DPR RI yang dipimpin oleh Adisatrya Suryo Sulisto menuturkan, implementasi bata interlock presisi yang dikembangkan oleh PT Semen Indonesia (Persero) Tbk (SMGR) dapat mendukung program 3 juta rumah yang dicanangkan pemerintah. Komisi VI DPR RI menyampaikan apresiasi atas langkah Semen Indonesia di tengah tantangan yang dihadapi industri semen. Komisi VI DPR juga mendorong agar jangkauan ketersediaan bata interlock presisi dapat diperluas bagi masyarakat di berbagai wilayah di Indonesia.
 
@@ -3528,7 +3528,7 @@ DPR pun mendorong agar mekanisme pengadaan dalam program 3 juta rumah ini mempri
 Harapan ke Depan
 Program 3 juta rumah yang mendapat dukungan penuh dari legislatif ini menjadi harapan baru bagi kebangkitan industri semen nasional. Selain mengatasi overcapacity, industri semen juga didorong untuk berinovasi dengan mengembangkan produk-produk ramah lingkungan yang lebih efisien dan sesuai dengan kebutuhan pembangunan masa kini.
 
-Ke depan, sinergi antara pemerintah, DPR, dan pelaku industri diharapkan terus terjaga agar program ini dapat berjalan lancar dan memberikan manfaat optimal bagi perekonomian nasional, sekaligus memastikan kebutuhan hunian masyarakat terpenuhi dengan baik.",images/A178.jpg,Ekonomi,AI,,
+Ke depan, sinergi antara pemerintah, DPR, dan pelaku industri diharapkan terus terjaga agar program ini dapat berjalan lancar dan memberikan manfaat optimal bagi perekonomian nasional, sekaligus memastikan kebutuhan hunian masyarakat terpenuhi dengan baik.",images/A178.jpg,Ekonomi,AI,-,-
 A179,"OJK Berencana Gunakan Medsos untuk ""Credit Scoring"", Ini Tanggapan BCA
 PT Bank Central Asia Tbk (BBCA) atau BCA menanggapi langkah Otoritas Jasa Keuangan (OJK) yang tengah mengembangkan aturan baru terkait innovative credit scoring (ICS) bagi lembaga jasa keuangan. Lewat ICS, OJK menyiapkan sistem credit scoring nasabah yang tidak hanya menggunakan indikator riwayat pembiayaan atau kredit, tapi juga riwayat media sosial hingga kepatuhan dalam membayar tagihan listrik nasabah. EVP Corporate Communication & Social Responsibility BCA Hera F. Haryn mengatakan, perusahaan akan mendukung rencana tersebut dan siap berkoordinasi lebih lanjut dengan para pemangku kepentingan terkait.
 ""Kami akan bersedia untuk berkomunikasi dengan seluruh stakeholders, kemudian juga tentunya dengan regulator dan tentu diskusi ini kalau nanti akan dibutuhkan, dilanjutkan,"" tutur dia, ditemui di Jakarta, Selasa (12/11/2024).
@@ -3567,7 +3567,7 @@ Integrasi Sistem: Data media sosial tidak bisa berdiri sendiri. Bagi perbankan b
 Menuju Inklusi Keuangan yang Bertanggung Jawab
 Implementasi credit scoring berbasis media sosial adalah pedang bermata dua. Di satu sisi, ini adalah ""karpet merah"" bagi mereka yang selama ini terpinggirkan dari sistem keuangan formal agar bisa mendapatkan suntikan modal. Di sisi lain, hal ini menuntut masyarakat untuk lebih bijak dalam berselancar di dunia maya.
 
-Ke depan, koordinasi antara regulator (OJK) dan pelaku industri perbankan akan sangat menentukan keberhasilan program ini. Jika standarisasi teknologi dan perlindungan data konsumen dapat terjamin, maka jejak digital kita tidak hanya akan menjadi memori sosial, tetapi juga aset finansial yang produktif.",images/A180.jpg,Ekonomi,AI,,
+Ke depan, koordinasi antara regulator (OJK) dan pelaku industri perbankan akan sangat menentukan keberhasilan program ini. Jika standarisasi teknologi dan perlindungan data konsumen dapat terjamin, maka jejak digital kita tidak hanya akan menjadi memori sosial, tetapi juga aset finansial yang produktif.",images/A180.jpg,Ekonomi,AI,-,-
 A181,"Akselerasi Ekspor Digenjot, Wamendag Roro Esti Siap Bantu Buka Akses Buyer Global untuk HIPMI
 Wakil Menteri Perdagangan Dyah Roro Esti Widya Putri mendorong percepatan ekspor nasional dengan menggandeng HIPMI Export Center sebagai mitra strategis. Langkah ini diarahkan untuk memperluas penetrasi produk Indonesia ke pasar global sekaligus menjaga tren surplus neraca perdagangan.
 
@@ -3594,7 +3594,7 @@ Di tengah kondisi ekonomi global yang dinamis, ekspor menjadi salah satu pilar p
 
 Meski demikian, tantangan tetap ada, mulai dari fluktuasi permintaan global hingga persyaratan standar produk yang semakin ketat. Oleh sebab itu, kolaborasi yang solid antara pemerintah, pelaku usaha, dan berbagai pemangku kepentingan menjadi kunci dalam memastikan keberhasilan strategi ini.
 
-Dengan dukungan yang terarah dan berkelanjutan, langkah membuka akses buyer global bagi pengusaha muda diharapkan mampu membawa produk Indonesia semakin dikenal dan diminati di pasar internasional.",images/A182.jpg,Ekonomi,AI,,
+Dengan dukungan yang terarah dan berkelanjutan, langkah membuka akses buyer global bagi pengusaha muda diharapkan mampu membawa produk Indonesia semakin dikenal dan diminati di pasar internasional.",images/A182.jpg,Ekonomi,AI,-,-
 A183,"Transaksi Tembus Rp10,4 Miliar di INACRAFT 2026, UMKM Binaan Pertamina Naik Kelas ke Pasar Premium
 Lonjakan transaksi hingga Rp10,4 miliar menjadi bukti daya saing 32 UMKM binaan Pertamina di ajang Jakarta International Handicraft Trade Fair (INACRAFT) 2026. Angka tersebut mencakup penjualan langsung selama pameran sekaligus komitmen ekspor dari pembeli mancanegara.
 Salah satu yang mencuri perhatian adalah Griya Kain Solo. Bagi pemiliknya, Esti Kriswandari Asih, partisipasi tahun ini bukan sekadar rutinitas pameran, melainkan momentum penting untuk naik kelas ke pasar premium. “Griya Kain Solo berangkat ke INACRAFT sebagai bagian dari UMKM binaan Pertamina. Kurasi dari Pertamina sangat ketat. Kami tidak hanya diminta bagus secara produk, tapi juga kuat di desain, kualitas bahan, sampai daya saing harga. Itu yang membuat omzet kami di INACRAFT tahun ini meningkat jauh, bahkan melebihi target,” ujar Esti, Kamis (12/2/2026). INACRAFT 2026 digelar di Jakarta Convention Center pada 4-8 Februari 2026 dan menjadi salah satu pameran kerajinan terbesar di Indonesia. Di tengah padatnya pengunjung yang memadati stan peserta, tersimpan proses panjang yang dilalui para mitra binaan, mulai dari pendampingan intensif, seleksi produk yang ketat, hingga peningkatan standar mutu.
@@ -3619,7 +3619,7 @@ Partisipasi dalam INACRAFT juga membuka peluang besar bagi UMKM untuk menjalin k
 
 Ke depan, keberhasilan ini diharapkan dapat menjadi momentum bagi UMKM binaan untuk terus meningkatkan kapasitas dan memperluas jangkauan pasar. Dukungan dari berbagai pihak, baik pemerintah maupun perusahaan, akan menjadi kunci dalam menjaga keberlanjutan pertumbuhan ini.
 
-Dengan capaian transaksi yang signifikan serta peningkatan kualitas produk, UMKM Indonesia semakin menunjukkan potensinya sebagai pemain penting di industri kreatif. Ajang seperti INACRAFT pun terbukti tidak hanya menjadi tempat promosi, tetapi juga wadah transformasi bagi pelaku usaha untuk naik kelas dan bersaing di pasar premium.",images/A184.jpg,Ekonomi,AI,,
+Dengan capaian transaksi yang signifikan serta peningkatan kualitas produk, UMKM Indonesia semakin menunjukkan potensinya sebagai pemain penting di industri kreatif. Ajang seperti INACRAFT pun terbukti tidak hanya menjadi tempat promosi, tetapi juga wadah transformasi bagi pelaku usaha untuk naik kelas dan bersaing di pasar premium.",images/A184.jpg,Ekonomi,AI,-,-
 A185,"Mengenang Michael Bambang Hartono, Pemilik Grup Djarum: dari Atlet, Perbankan Hingga Industri Rokok
 Meninggal dunia pada usia 86, pengusaha nasional sekaligus pemilik Grup Djarum Michael Bambang Hartono salah satu tokoh penting dalam perkembangan industri rokok dan perbankan di Indonesia. Kabar wafatnya dikonfirmasi manajemen Grup Djarum pada Kamis (19/3) pukul 13.15 waktu Singapura yang menyampaikan duka cita atas kepergian pimpinan perusahaan tersebut. ""Keluarga besar PT Djarum berduka cita mendalam atas wafatnya pimpinan kami, Pak Michael Bambang Hartono, Kamis 19 Maret 2026 pukul 13.15 waktu Singapura,"" kata Corporate Communication Senior Manager Grup Djarum Budi Darmawan pada media di Jakarta, Kamis.
 
@@ -3656,7 +3656,7 @@ Di luar hiruk-pikuk bisnis, Michael memiliki hasrat besar terhadap olahraga brid
 Melalui PB Djarum, ia juga berperan besar dalam pembinaan bulu tangkis nasional. Klub ini melahirkan atlet-atlet kelas dunia yang meraih emas Olimpiade dan pernah menjadi peringkat satu dunia. Di kancah internasional, keluarga Hartono juga mengakuisisi klub sepak bola Italia, Como 1907, pada 2019, yang kini tengah bersaing di Serie A.
 
 Warisan untuk Negeri
-Kekayaan Michael Bambang Hartono tercatat mencapai belasan miliar dolar AS, menjadikannya salah satu orang terkaya Indonesia. Namun warisan terbesarnya bukan sekadar angka, melainkan semangat pantang menyerah dalam membangun kerajaan bisnis dari puing-puing kebakaran, serta dedikasi yang tak lekang waktu di meja bridge dan dunia olahraga.",images/A186.jpg,Ekonomi,AI,,
+Kekayaan Michael Bambang Hartono tercatat mencapai belasan miliar dolar AS, menjadikannya salah satu orang terkaya Indonesia. Namun warisan terbesarnya bukan sekadar angka, melainkan semangat pantang menyerah dalam membangun kerajaan bisnis dari puing-puing kebakaran, serta dedikasi yang tak lekang waktu di meja bridge dan dunia olahraga.",images/A186.jpg,Ekonomi,AI,-,-
 A187,"BRI Imlek Prosperity 2026, Tahun Kuda Api Jadi Momen Apresiasi untuk Nasabah Prioritas
 
 Memasuki tahun 2026 yang dikenal sebagai Tahun Kuda Api, semangat baru dan optimisme terasa kian kuat. Dalam filosofi Tionghoa, Kuda Api melambangkan energi, keberanian, pertumbuhan, serta transformasi. Karakter ini identik dengan langkah progresif dan daya juang tinggi, sebuah simbol yang relevan dengan semangat awal tahun yang penuh harapan.
@@ -3689,7 +3689,7 @@ Layanan prioritas BRI mencakup berbagai kemudahan seperti akses lounge eksklusif
 Apresiasi untuk Loyalitas Nasabah
 Bagi BRI, nasabah prioritas merupakan pilar penting dalam pertumbuhan bisnis perseroan. Oleh karena itu, acara seperti Imlek Prosperity menjadi wujud nyata terima kasih atas kepercayaan yang telah diberikan. BRI menyadari bahwa loyalitas nasabah tidak terbentuk dalam semalam, melainkan hasil dari konsistensi dan kepercayaan yang terbangun selama bertahun-tahun.
 
-Ke depan, BRI berencana untuk terus mengembangkan berbagai program apresiasi dan layanan eksklusif lainnya. Tahun Kuda Api yang penuh energi ini diharapkan menjadi momentum bagi BRI untuk berlari lebih cepat dalam memberikan nilai tambah bagi nasabah prioritas, sekaligus memperkuat posisinya sebagai bank yang tidak hanya kuat di segmen mikro, tetapi juga menjadi pilihan utama bagi nasabah kelas atas di Indonesia.",images/A188.jpg,Ekonomi,AI,,
+Ke depan, BRI berencana untuk terus mengembangkan berbagai program apresiasi dan layanan eksklusif lainnya. Tahun Kuda Api yang penuh energi ini diharapkan menjadi momentum bagi BRI untuk berlari lebih cepat dalam memberikan nilai tambah bagi nasabah prioritas, sekaligus memperkuat posisinya sebagai bank yang tidak hanya kuat di segmen mikro, tetapi juga menjadi pilihan utama bagi nasabah kelas atas di Indonesia.",images/A188.jpg,Ekonomi,AI,-,-
 A189,"Kemenkeu Luruskan Pernyataan Purbaya soal Gugatan UU APBN 2026
 Kementerian Keuangan memberikan penjelasan atas pernyataan Menteri Keuangan Purbaya Yudhi Sadewa terkait gugatan guru honorer terhadap Undang-Undang Nomor 17 Tahun 2025 tentang Anggaran Pendapatan dan Belanja Negara Tahun Anggaran 2026. Kepala Biro Komunikasi dan Layanan Informasi l Kemenkeu, Deni Surjantoro, menegaskan bahwa pernyataan Menkeu tidak dimaksudkan untuk memastikan hasil gugatan tersebut.
 “Menkeu tidak pernah menyatakan secara nyata bahwa gugatan tersebut akan kalah, namun Menkeu menyampaikan konteks prasyarat kondisional sebuah gugatan yaitu gugatan bisa kalah ataupun menang,” kata Deni dalam keterangan resmi di Jakarta, Jumat (20/2/2026). Ia menjelaskan, saat itu Menkeu menyampaikan bahwa hasil gugatan sangat bergantung pada kekuatan dasar hukum yang diajukan. Jika argumentasi yang digunakan kuat, gugatan berpeluang dikabulkan. Sebaliknya, jika landasannya lemah, maka peluangnya kecil untuk dimenangkan. Deni juga menyatakan bahwa Kementerian Keuangan menghormati hak dan aspirasi para guru honorer yang mengajukan uji materi Undang-Undang APBN, khususnya terkait program Makan Bergizi Gratis (MBG).
@@ -3714,7 +3714,7 @@ Pemerintah juga mengajak masyarakat untuk tidak mudah terpengaruh oleh informasi
 
 Dengan adanya klarifikasi ini, Kemenkeu berharap masyarakat dapat memahami situasi secara lebih jernih dan tidak terjebak dalam spekulasi. Pemerintah berkomitmen untuk terus menjaga transparansi serta komunikasi yang terbuka dalam setiap kebijakan, termasuk dalam pengelolaan keuangan negara.
 
-Ke depan, Kemenkeu juga akan terus memperkuat koordinasi dengan berbagai lembaga terkait guna memastikan setiap kebijakan fiskal berjalan optimal dan sesuai dengan kepentingan nasional.",images/A190.jpg,Ekonomi,AI,,
+Ke depan, Kemenkeu juga akan terus memperkuat koordinasi dengan berbagai lembaga terkait guna memastikan setiap kebijakan fiskal berjalan optimal dan sesuai dengan kepentingan nasional.",images/A190.jpg,Ekonomi,AI,-,-
 A191,"Bandara jadi Wajah Bangsa, InJourney Lakukan Transformasi 3 Aspek Ini
 
 PT Angkasa Pura Indonesia (InJourney Airports) melakukan transformasi pada bandara kelolaannya untuk meningkatkan layanan kepada sekitar 150 juta penumpang tiap tahunnya. Dari total 37 bandara yang dikelola, transformasi InJourney Airports dimulai dari dua bandara besar, yaitu Bandara Internasional Soekarno-Hatta dan Bandara I Gusti Ngurah Rai Bali. Kedua bandara tersebut juga menjadi bandara tersibuk pada periode Natal 2024 dan Tahun Baru 2025 (Nataru). Pada Nataru kali ini, jumlah penumpang Bandara Soekarno-Hatta diproyeksikan mencapai 3,05 juta atau naik sekitar 7 persen dari Nataru sebelumnya yang sebanyak 2,85 juta penumpang.
@@ -3748,7 +3748,7 @@ Transformasi ini juga sejalan dengan upaya pemerintah dalam mendorong sektor par
 
 Tak hanya itu, InJourney juga menaruh perhatian pada keberlanjutan lingkungan dalam pengembangan bandara. Konsep ramah lingkungan mulai diterapkan, seperti efisiensi energi dan pengelolaan limbah yang lebih baik. Langkah ini menjadi bagian dari komitmen jangka panjang untuk menciptakan bandara yang tidak hanya modern, tetapi juga berkelanjutan.
 
-Melalui transformasi di tiga aspek tersebut, InJourney optimistis bandara-bandara di Indonesia dapat menjadi kebanggaan nasional sekaligus mampu bersaing dengan bandara internasional lainnya. Upaya ini diharapkan tidak hanya meningkatkan kualitas layanan, tetapi juga memperkuat citra Indonesia sebagai negara yang maju dan siap menyambut dunia.",images/A192.png,Ekonomi,AI,,
+Melalui transformasi di tiga aspek tersebut, InJourney optimistis bandara-bandara di Indonesia dapat menjadi kebanggaan nasional sekaligus mampu bersaing dengan bandara internasional lainnya. Upaya ini diharapkan tidak hanya meningkatkan kualitas layanan, tetapi juga memperkuat citra Indonesia sebagai negara yang maju dan siap menyambut dunia.",images/A192.png,Ekonomi,AI,-,-
 A193,"Sebut Presiden Bisa Terbitkan Perppu Anulir PPN 12 Persen, Celios: Tunjukkan Keberpihakan ke Rakyat
 
 Center of Economic and Law Studies (Celios) menilai, Presiden Prabowo Subianto bisa menerbitkan Peraturan Pemerintah Pengganti Undang-Undang (Perppu) guna membatalkan kenaikan tarif Pajak Pertambahan Nilai (PPN) menjadi 12 persen yang diatur dalam Undang-Undang Harmonisasi Peraturan Perpajakan (UU HPP). Direktur Hukum Celios Mhd Zakiul Fikri menyatakan, penerbitkan Perppu tersebut merupakan bentuk keberpihakan pemerintah terhadap masyarakat menengah bawah yang tengah menghadapi tekanan ekonomi. ""Ini saatnya Presiden Prabowo menerbitkan Perppu membatalkan kenaikan PPN 12 persen di UU HPP dan berpihak pada masyarakat menengah bawah yang tengah dihimpit berbagai kesulitan ekonomi,"" ujar Zakiul seperti dikutip dari Antara, Rabu (25/12/2024). Berdasarkan kajian Celios, kenaikan tarif PPN berpotensi meningkatkan inflasi secara signifikan. Saat tarif PPN dinaikkan dari 10 persen menjadi 11 persen pada 2022, inflasi melonjak dari 3,47 persen (yoy) menjadi 4,94 persen (yoy).
@@ -3783,7 +3783,7 @@ Kritik yang muncul sering kali menyoroti bahwa pemerintah seolah ""berburu di ke
 
 Jika Presiden memilih untuk menerbitkan Perppu, hal ini akan dipandang sebagai kemenangan bagi rakyat kecil. Sebaliknya, jika kenaikan PPN tetap dipaksakan, kepercayaan publik terhadap komitmen pemerintah dalam menjaga kesejahteraan masyarakat bisa tergerus. Celios menegaskan bahwa keberanian Presiden dalam menganulir aturan ini akan menjadi warisan (legacy) yang positif, membuktikan bahwa kebijakan fiskal haruslah bersifat manusiawi, bukan sekadar hitung-hitungan angka di meja birokrasi.
 
-Kesimpulannya, bola panas kini ada di tangan kepala negara. Apakah pemerintah akan memilih mengamankan pundi-pundi kas negara secara instan, atau memilih menjaga napas ekonomi rakyat agar tetap berdenyut sehat? Rakyat kini menanti pembuktian nyata dari janji-janji keberpihakan tersebut.",images/A194.jpg,Ekonomi,AI,,
+Kesimpulannya, bola panas kini ada di tangan kepala negara. Apakah pemerintah akan memilih mengamankan pundi-pundi kas negara secara instan, atau memilih menjaga napas ekonomi rakyat agar tetap berdenyut sehat? Rakyat kini menanti pembuktian nyata dari janji-janji keberpihakan tersebut.",images/A194.jpg,Ekonomi,AI,-,-
 A195,"Gaji UMR Jakarta 2026 Naik 6,17 Persen, UMP Jadi Rp 5.729.876
 Pemerintah Provinsi DKI Jakarta resmi menetapkan Upah Minimum Provinsi (UMP) Jakarta 2026 sebesar Rp 5.729.876. UMP Jakarta 2026, yang kerap disebut sebagai UMR Jakarta 2026, mengalami kenaikan sekitar 6,17 persen atau setara Rp 333.115 dibandingkan UMP tahun sebelumnya. Penetapan UMP DKI Jakarta 2026 diumumkan langsung oleh Gubernur DKI Jakarta, Pramono Anung, setelah melalui serangkaian pembahasan bersama unsur buruh, pengusaha, dan pemerintah daerah. “Hari ini kami mengumumkan besaran UMP setelah rapat beberapa kali antara buruh, pengusaha, dan pemerintah. DKI Jakarta telah disepakati untuk kenaikan upah UMP tahun 2026 sebesar Rp 5.729.876,” ucap Pramono di Balai Kota Jakarta, Rabu (24/12/2025).
 
@@ -3812,7 +3812,7 @@ Penetapan UMP 2026 ini juga mencerminkan ambisi Jakarta untuk bertransformasi me
 
 Kenaikan 6,17% ini merupakan hasil dari diskusi panjang dalam Dewan Pengupahan yang melibatkan unsur pemerintah, pengusaha, dan serikat buruh. Meskipun mungkin tidak memuaskan semua pihak secara sempurna, angka Rp5.729.876 adalah titik temu yang krusial untuk menjaga stabilitas sosial dan ekonomi di Jakarta.
 
-Kesimpulannya, kenaikan UMP Jakarta 2026 adalah investasi sosial yang penting. Jika dikelola dengan baik, kebijakan ini akan menjadi bantalan ekonomi yang kuat bagi pekerja sekaligus menjaga momentum pertumbuhan Jakarta sebagai pusat bisnis internasional. Kini, tugas pemerintah selanjutnya adalah mengawal agar implementasi di lapangan berjalan sesuai aturan dan memastikan harga-harga kebutuhan pokok tidak ""balapan"" naik mendahului kenaikan upah tersebut.",images/A196.jpg,Ekonomi,AI,,
+Kesimpulannya, kenaikan UMP Jakarta 2026 adalah investasi sosial yang penting. Jika dikelola dengan baik, kebijakan ini akan menjadi bantalan ekonomi yang kuat bagi pekerja sekaligus menjaga momentum pertumbuhan Jakarta sebagai pusat bisnis internasional. Kini, tugas pemerintah selanjutnya adalah mengawal agar implementasi di lapangan berjalan sesuai aturan dan memastikan harga-harga kebutuhan pokok tidak ""balapan"" naik mendahului kenaikan upah tersebut.",images/A196.jpg,Ekonomi,AI,-,-
 A197,"Israel Serang Ladang Gas Terbesar Iran, Peringatan Trump Dicuekin
 
 Israel kembali melancarkan gelombang serangan baru ke South Pars, Iran di tengah ketegangan dengan Amerika Serikat (AS) terkait serangan terhadap fasilitas energi pada Jumat (20/3).
@@ -3868,7 +3868,7 @@ Iran tidak tinggal diam. Korps Garda Revolusi Islam (IRGC) segera mengeluarkan p
 
 Kini, dunia berada di ambang ketidakpastian. Apakah langkah sepihak Israel ini akan memaksa Iran untuk bertekuk lutut, atau justru memicu perang energi skala besar yang akan membakar ekonomi global? Yang jelas, pengabaian terhadap peringatan sekutu utama telah membuka kotak Pandora yang sulit untuk ditutup kembali.
 
-Kesimpulannya, serangan terhadap South Pars telah mengubah peta konflik dari konfrontasi militer menjadi perang saraf ekonomi. Dampaknya kini tidak lagi hanya dirasakan oleh mereka yang mengangkat senjata, tetapi juga oleh setiap konsumen energi di seluruh penjuru dunia.",images/A198.jpg,Ekonomi,AI,,
+Kesimpulannya, serangan terhadap South Pars telah mengubah peta konflik dari konfrontasi militer menjadi perang saraf ekonomi. Dampaknya kini tidak lagi hanya dirasakan oleh mereka yang mengangkat senjata, tetapi juga oleh setiap konsumen energi di seluruh penjuru dunia.",images/A198.jpg,Ekonomi,AI,-,-
 A199,"Basuki Surati DPR soal Ubah Rencana IKN di Tengah Isu Moratorium
 Kepala Otorita Ibu Kota Nusantara (OIKN) Basuki Hadimuljono disebut mengirim surat ke pimpinan DPR RI untuk mengajukan konsultasi perubahan rencana induk pembangunan IKN di tengah usulan moratorium pembangunan.
 Hal tersebut diungkap oleh Wakil Ketua DPR RI Adies Kadir. Dia menyebut ada sejumlah surat yang masuk meja pimpinan DPR, termasuk surat dari OIKN.
@@ -3913,7 +3913,7 @@ IKN sendiri dirancang sebagai kota masa depan yang mengusung konsep berkelanjuta
 
 Dengan adanya komunikasi resmi kepada DPR, pemerintah berharap tidak ada lagi kesalahpahaman terkait arah kebijakan pembangunan IKN. Penyesuaian yang dilakukan justru diharapkan dapat memperkuat fondasi proyek ini agar lebih matang dan berkelanjutan dalam jangka panjang.
 
-Ke depan, pemerintah menegaskan komitmennya untuk terus melanjutkan pembangunan IKN secara bertahap, dengan mempertimbangkan kondisi ekonomi serta kebutuhan nasional. Pendekatan yang lebih fleksibel diyakini akan membuat proyek ini tetap relevan dan memberikan manfaat maksimal bagi masyarakat Indonesia.",images/A200.jpg,Ekonomi,AI,,
+Ke depan, pemerintah menegaskan komitmennya untuk terus melanjutkan pembangunan IKN secara bertahap, dengan mempertimbangkan kondisi ekonomi serta kebutuhan nasional. Pendekatan yang lebih fleksibel diyakini akan membuat proyek ini tetap relevan dan memberikan manfaat maksimal bagi masyarakat Indonesia.",images/A200.jpg,Ekonomi,AI,-,-
 A201,"Negosiasi Dagang dengan AS Belum Final, RI Masih Tagih Tarif 0 Persen
 Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menegaskan pernyataan Gedung Putih soal kesepakatan tarif 19 persen masih akan ditindaklanjuti dalam pembahasan teknis.
 ""Perundingan masih akan terus berlangsung untuk bicara detail teknis karena masih ada beberapa kepentingan yang dijanjikan (AS) dan akan ditindaklanjuti, yaitu Indonesia akan diberikan juga tarif yang lebih rendah (dari) 19 persen untuk beberapa komoditas,"" ungkapnya dalam Konferensi Pers Joint Statement Indonesia-AS di Kemenko Perekonomian, Jakarta Pusat, Kamis (24/7).
@@ -3952,7 +3952,7 @@ Pemerintah pun terus berkoordinasi dengan pelaku usaha dan asosiasi industri unt
 
 Meskipun belum mencapai titik akhir, optimisme tetap dijaga bahwa kesepakatan dapat tercapai dalam waktu yang tepat. Pemerintah berharap hasil negosiasi nantinya tidak hanya memberikan keuntungan bagi sektor perdagangan, tetapi juga mendorong pertumbuhan ekonomi nasional secara keseluruhan.
 
-Dengan komitmen untuk terus memperjuangkan tarif nol persen, Indonesia menunjukkan keseriusannya dalam memperluas akses pasar global dan memperkuat posisi sebagai salah satu pemain penting dalam perdagangan internasional.",images/A202.jpg,Ekonomi,AI,,
+Dengan komitmen untuk terus memperjuangkan tarif nol persen, Indonesia menunjukkan keseriusannya dalam memperluas akses pasar global dan memperkuat posisi sebagai salah satu pemain penting dalam perdagangan internasional.",images/A202.jpg,Ekonomi,AI,-,-
 A203,"DPR Usul Danantara Ambil Alih Penggilingan Imbas Kasus Beras Oplosan
 DPR RI mengusulkan Danantara mengambil alih urusan penggilingan dan pergudangan imbas kasus beras oplosan di Indonesia.
 Anggota Komisi VI DPR RI Iskandar menyoroti kasus beras oplosan yang tengah viral belakangan ini. Menurutnya, masalah tersebut menjadi bukti kelemahan dari tata niaga dan tata kelola beras.
@@ -4008,7 +4008,7 @@ Transformasi ini harus dibarengi dengan transparansi tinggi. Jika Danantara berh
 Menuju Kedaulatan Pangan yang Transparan
 Rencana ini adalah pertaruhan besar bagi pemerintah. Jika terealisasi, ini akan menjadi pergeseran paradigma dari sistem pasar bebas yang liar menuju sistem ekonomi terpimpin yang lebih terlindungi. Rakyat tidak boleh lagi dihantui oleh rasa was-was saat mengonsumsi makanan pokoknya sendiri.
 
-Kesimpulannya, usulan DPR untuk melibatkan Danantara dalam sektor penggilingan adalah upaya ""potong kompas"" untuk membersihkan sektor pangan dari praktik culas. Keberhasilan rencana ini akan sangat bergantung pada seberapa cepat Danantara mampu beradaptasi dengan realitas lapangan dan seberapa kuat komitmen politik pemerintah untuk melawan ego sektoral di industri beras.",images/A204.jpg,Ekonomi,AI,,
+Kesimpulannya, usulan DPR untuk melibatkan Danantara dalam sektor penggilingan adalah upaya ""potong kompas"" untuk membersihkan sektor pangan dari praktik culas. Keberhasilan rencana ini akan sangat bergantung pada seberapa cepat Danantara mampu beradaptasi dengan realitas lapangan dan seberapa kuat komitmen politik pemerintah untuk melawan ego sektoral di industri beras.",images/A204.jpg,Ekonomi,AI,-,-
 A205,"Penduduk Miskin Ekstrem RI Capai 2,38 Juta Orang per Maret 2025
 
 Badan Pusat Statistik (BPS) mencatat jumlah penduduk miskin ekstrem di Indonesia tercatat 2,38 juta orang per Maret 2025.
@@ -4061,7 +4061,7 @@ Garis kemiskinan pada Maret 2025 tercatat sebesar Rp609.160 per kapita per bulan
 Target Pemerintah ke Depan
 Pemerintah berkomitmen untuk terus menekan angka kemiskinan ekstrem. Presiden Prabowo Subianto menyatakan bahwa pemerintah akan terus berupaya menghapus kemiskinan ekstrem dalam empat tahun ke depan.
 
-Penurunan angka kemiskinan ekstrem menjadi 2,38 juta jiwa ini menunjukkan bahwa berbagai program pengentasan kemiskinan yang dijalankan pemerintah mulai menunjukkan hasil nyata, meskipun tantangan untuk mencapai target penghapusan kemiskinan ekstrem sepenuhnya masih membutuhkan kerja keras dan sinergi berbagai pihak.",images/A206.jpg,Ekonomi,AI,,
+Penurunan angka kemiskinan ekstrem menjadi 2,38 juta jiwa ini menunjukkan bahwa berbagai program pengentasan kemiskinan yang dijalankan pemerintah mulai menunjukkan hasil nyata, meskipun tantangan untuk mencapai target penghapusan kemiskinan ekstrem sepenuhnya masih membutuhkan kerja keras dan sinergi berbagai pihak.",images/A206.jpg,Ekonomi,AI,-,-
 A207,"Apa Itu ""Soft Saving,"" Tren Keuangan yang Populer di Kalangan Gen Z?
 Banyak pakar dan perencana keuangan menyarankan untuk menemukan keseimbangan antara hidup di masa sekarang dan mempersiapkan masa depan. Bayar tagihan dan utang, biasakan menabung dana darurat dan untuk masa pensiun. Namun bagi sebagian besar dari kita, uang yang tersisa tidak cukup untuk ditabung dengan nyaman. Hal ini yang melatarbelakangi banyak Gen Z melakukan gerakan soft saving. Soft saving menekankan perkembangan diri dan kesehatan mental dibandingkan mengkhawatirkan keamanan finansial atau status di kemudian hari.
 
@@ -4119,7 +4119,7 @@ Keempat, gunakan aplikasi keuangan untuk memantau arus kas. Dengan teknologi, me
 Tantangan Soft Saving
 Soft saving bukannya tanpa risiko. Tanpa disiplin yang kuat, pendekatan ini dapat berubah menjadi gaya hidup konsumtif yang justru membahayakan kondisi keuangan jangka panjang. Oleh karena itu, penting untuk terus mengevaluasi kebiasaan finansial dan memastikan bahwa kebutuhan masa depan tidak terabaikan demi kesenangan sesaat.
 
-Pada akhirnya, soft saving mencerminkan perubahan cara pandang generasi muda terhadap uang dan kebahagiaan. Mereka percaya bahwa hidup layak dinikmati hari ini, tanpa harus mengorbankan stabilitas finansial di masa depan.",images/A208.jpg,Ekonomi,AI,,
+Pada akhirnya, soft saving mencerminkan perubahan cara pandang generasi muda terhadap uang dan kebahagiaan. Mereka percaya bahwa hidup layak dinikmati hari ini, tanpa harus mengorbankan stabilitas finansial di masa depan.",images/A208.jpg,Ekonomi,AI,-,-
 A209,"Bitcoin Melemah ke 70.000 Dollar AS, Investor Respons Kebijakan Ketat The Fed
 Harga Bitcoin (BTC) terkoreksi ke kisaran 70.000 dollar AS setelah hasil pertemuan Federal Open Market Committee (FOMC) menunjukkan sinyal kebijakan moneter yang masih cenderung ketat. Pergerakan ini dipengaruhi faktor makroekonomi, termasuk revisi kenaikan inflasi Amerika Serikat (AS) menjadi sekitar 2,7 persen serta suku bunga yang bertahan di kisaran 3,50 hingga 3,75 persen. Sebelumnya, Bitcoin sempat menguat mendekati 76.000 dollar AS pada Selasa (17/3/2026), didorong arus masuk dana institusional ke spot Bitcoin exchange traded fund (ETF) sebesar 199,37 juta dollar AS hingga sesi ketujuh berturut-turut.Secara total, arus masuk selama tujuh hari mencapai 1,16 miliar dollar AS.
 
@@ -4160,7 +4160,7 @@ Pelemahan Bitcoin juga berdampak pada pasar mata uang kripto lainnya. Ethereum d
 
 Meski demikian, beberapa analis melihat bahwa koreksi ini dapat menjadi kesempatan bagi investor jangka panjang untuk melakukan akumulasi. Mereka berpendapat bahwa fundamental industri kripto terus berkembang, dengan semakin banyaknya adopsi dari sektor keuangan tradisional dan pengembangan teknologi blockchain yang terus berlanjut.
 
-Sementara itu, pelaku pasar akan terus mencermati setiap perkembangan dari The Fed, karena arah kebijakan bank sentral tersebut akan menjadi penentu utama sentimen pasar dalam beberapa bulan ke depan.",images/A210.jpg,Ekonomi,AI,,
+Sementara itu, pelaku pasar akan terus mencermati setiap perkembangan dari The Fed, karena arah kebijakan bank sentral tersebut akan menjadi penentu utama sentimen pasar dalam beberapa bulan ke depan.",images/A210.jpg,Ekonomi,AI,-,-
 A211,"BRI Life Beri Asuransi Kecelakaan bagi Peserta dan Awak Bus Program Mudik Gratis BUMN 2026
 PT Asuransi BRI Life (BRI Life) bersinergi dengan Bank BRI memberikan perlindungan kecelakaan diri dari asuransi Double Care (personal accident) selama perjalanan bagi para peserta mudik dan awak bus dari kegiatan Mudik Gratis BUMN 2026. Direktur BRI Life Sutadi mengatakan, Double Care BRI Life memberikan 3 manfaat risiko kecelakaan bagi para pemudik. ""Asuransi kecelakaan diri memiliki peran penting, terutama di tengah meningkatnya mobilitas masyarakat selama periode mudik. Untuk itu, kami menghimbau masyarakat yang akan mudik melakukan perjalanan pada hari Idul Fitri, agar dapat memitigasi risiko selama perjalanan dengan memiliki asuransi kecelakaan diri,” kata Sutadi dalam keterangan resmi, Rabu (18/3/2026).
 
@@ -4193,7 +4193,7 @@ Melalui dukungan asuransi dari BRI Life, diharapkan para pemudik dapat merasa le
 
 Ke depan, program mudik gratis diharapkan dapat terus berkembang dengan inovasi layanan yang lebih baik. Kolaborasi antara berbagai pihak, termasuk perusahaan asuransi, menjadi faktor penting dalam meningkatkan kualitas program ini dari tahun ke tahun.
 
-Dengan adanya perlindungan yang menyeluruh, masyarakat dapat merayakan momen berkumpul bersama keluarga di kampung halaman dengan lebih nyaman dan tanpa kekhawatiran berlebih.",images/A212.jpg,Ekonomi,AI,,
+Dengan adanya perlindungan yang menyeluruh, masyarakat dapat merayakan momen berkumpul bersama keluarga di kampung halaman dengan lebih nyaman dan tanpa kekhawatiran berlebih.",images/A212.jpg,Ekonomi,AI,-,-
 A213,"BPJS Ketenagakerjaan Salurkan Bantuan Rp3,1 Miliar Bagi Korban Bencana ke Sumatera
 BPJS Ketenagakerjaan menyalurkan bantuan kemanusiaan dengan total nilai mencapai Rp3,1 miliar kepada masyarakat terdampak bencana alam di sejumlah wilayah Sumatera. Bantuan tersebut diberikan kepada masyarakat di Provinsi Aceh, Kota Sibolga, Kota Padang, serta Kabupaten Agam yang terdampak bencana dalam beberapa waktu terakhir.
 
@@ -4221,7 +4221,7 @@ Pihak BPJS Ketenagakerjaan juga mengajak masyarakat luas untuk turut berpartisip
 
 Ke depan, BPJS Ketenagakerjaan berkomitmen untuk terus hadir dalam berbagai situasi darurat dan memberikan kontribusi nyata bagi masyarakat. Tidak hanya berfokus pada perlindungan tenaga kerja dalam kondisi normal, tetapi juga siap memberikan dukungan saat terjadi bencana.
 
-Melalui penyaluran bantuan ini, diharapkan proses pemulihan di wilayah terdampak dapat berjalan lebih cepat dan masyarakat dapat segera kembali menjalani aktivitasnya. Dukungan dari berbagai pihak diharapkan mampu mempercepat bangkitnya daerah yang terdampak bencana di Sumatera.",images/A214.jpg,Ekonomi,AI,,
+Melalui penyaluran bantuan ini, diharapkan proses pemulihan di wilayah terdampak dapat berjalan lebih cepat dan masyarakat dapat segera kembali menjalani aktivitasnya. Dukungan dari berbagai pihak diharapkan mampu mempercepat bangkitnya daerah yang terdampak bencana di Sumatera.",images/A214.jpg,Ekonomi,AI,-,-
 A215,"Promo Yes Deals Years End Sale KAI: Diskon Tiket Kereta 25 Persen hingga Awal Januari 2026
 PT Kereta Api Indonesia (Persero) kembali menghadirkan promo menarik di penghujung tahun melalui program Yes Deals Years End Sale KAI. Program ini memberikan diskon tiket kereta api sebesar 25 persen sebagai bagian dari upaya mendukung mobilitas masyarakat selama libur akhir tahun dan menyambut Tahun Baru 2026. Promo Yes Deals menjadi salah satu program unggulan KAI yang rutin dinantikan pelanggan, khususnya di periode libur panjang. Dengan potongan harga yang signifikan, masyarakat diharapkan dapat merencanakan perjalanan dengan lebih hemat, nyaman, dan aman menggunakan transportasi kereta api.
 
@@ -4262,7 +4262,7 @@ Meskipun dijual dengan harga diskon, KAI menjamin bahwa kualitas pelayanan tidak
 
 Langkah KAI ini juga sejalan dengan upaya pemerintah untuk menggerakkan roda ekonomi lokal melalui sektor pariwisata domestik. Dengan biaya perjalanan yang lebih terjangkau, masyarakat diharapkan memiliki daya beli lebih untuk dibelanjakan di destinasi wisata tujuan, sehingga dampak ekonominya terasa hingga ke pelaku UMKM di daerah.
 
-Kesimpulannya, Promo ""Yes Deals"" Year End Sale adalah kesempatan yang sayang untuk dilewatkan. Segera atur jadwal, siapkan perangkat Anda, dan amankan kursi menuju destinasi impian. Tahun baru dengan semangat baru kini bisa dimulai dengan perjalanan yang lebih hemat dan berkesan.",images/A216.jpg,Ekonomi,AI,,
+Kesimpulannya, Promo ""Yes Deals"" Year End Sale adalah kesempatan yang sayang untuk dilewatkan. Segera atur jadwal, siapkan perangkat Anda, dan amankan kursi menuju destinasi impian. Tahun baru dengan semangat baru kini bisa dimulai dengan perjalanan yang lebih hemat dan berkesan.",images/A216.jpg,Ekonomi,AI,-,-
 A217,"Jelang Libur Natal dan Tahun Baru, bank bjb Tetap Berikan Layanan Operasional Terbatas dan Weekend Banking
 Menjelang momen libur Natal 2025 dan Tahun Baru 2026 (Nataru), bank bjb memastikan kesiapan operasional dan layanan perbankan tetap berjalan normal dengan beberapa penyesuaian. bank bjb berkomitmen untuk menyediakan pelayanan optimal agar kebutuhan finansial nasabah tetap terpenuhi selama periode libur Nataru. Untuk mengantisipasi peningkatan kebutuhan uang tunai menjelang akhir tahun, bank bjb telah memproyeksikan kebutuhan uang tunai sebesar Rp8,3 triliun pada bulan Desember 2025. Angka ini mencakup pemenuhan kebutuhan operasional di seluruh jaringan kantor bank bjb. 
 
@@ -4290,7 +4290,7 @@ Nasabah pun diimbau untuk merencanakan transaksi lebih awal guna menghindari ant
 
 Dengan hadirnya layanan operasional terbatas dan weekend banking, bank bjb berharap dapat memberikan kenyamanan bagi masyarakat dalam menjalani aktivitas selama libur Natal dan Tahun Baru. Upaya ini sekaligus menunjukkan kesiapan sektor perbankan dalam mendukung mobilitas dan kebutuhan finansial masyarakat di momen liburan.
 
-Ke depan, bank bjb berkomitmen untuk terus meningkatkan kualitas layanan, baik melalui inovasi digital maupun penguatan jaringan kantor, agar dapat memberikan pengalaman perbankan yang lebih baik bagi seluruh nasabahnya.",images/A218.jpg,Ekonomi,AI,,
+Ke depan, bank bjb berkomitmen untuk terus meningkatkan kualitas layanan, baik melalui inovasi digital maupun penguatan jaringan kantor, agar dapat memberikan pengalaman perbankan yang lebih baik bagi seluruh nasabahnya.",images/A218.jpg,Ekonomi,AI,-,-
 A219,"BRI Dukung PRABU Expo 2025, Dorong Transformasi Teknologi bagi UMKM Naik Kelas
 
 PT Bank Rakyat Indonesia (Persero) Tbk atau BRI menunjukkan komitmennya dalam memperkuat daya saing pelaku usaha mikro, kecil, dan menengah (UMKM) melalui partisipasi dalam kegiatan Produk Anak Bangsa Unggulan (PRABU) Expo 2025 yang digelar oleh Kementerian UMKM di Jakarta pada 5 - 6 November 2025. Mengusung tema “Produk Anak Bangsa, Unggul dan Berdaya Saing”, kegiatan ini menjadi wadah strategis untuk memperkenalkan inovasi teknologi produksi sekaligus memperluas kolaborasi antar pelaku usaha, lembaga keuangan, riset, dan pemerintah.
@@ -4319,7 +4319,7 @@ Seiring dengan perkembangan teknologi yang semakin pesat, tantangan yang dihadap
 
 Melalui berbagai inisiatif yang dihadirkan dalam PRABU Expo 2025, BRI optimistis UMKM Indonesia dapat terus berkembang dan naik kelas. Transformasi digital yang dilakukan diharapkan mampu meningkatkan daya saing produk lokal, sekaligus mendorong pertumbuhan ekonomi nasional secara keseluruhan.
 
-Ke depan, BRI berkomitmen untuk terus memperluas dukungan bagi UMKM melalui inovasi layanan dan program yang relevan dengan kebutuhan zaman, sehingga pelaku usaha dapat semakin siap menghadapi tantangan global.",images/A220.jpg,Ekonomi,AI,,
+Ke depan, BRI berkomitmen untuk terus memperluas dukungan bagi UMKM melalui inovasi layanan dan program yang relevan dengan kebutuhan zaman, sehingga pelaku usaha dapat semakin siap menghadapi tantangan global.",images/A220.jpg,Ekonomi,AI,-,-
 A221,"Qatar, Saudi hingga Israel Setop Produksi Gas dan Minyak Imbas Perang
 
 Sejumlah negara di kawasan Timur Tengah menyetop produksi gas dan menutup kilang minyak pada Senin (2/3) di tengah memanasnya konflik Amerika Serikat (AS) dan Israel melawan Iran.
